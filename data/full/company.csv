@@ -1,0 +1,2422 @@
+issuerName,issuerTradingSymbol:ID(Company),form,sector,marketCap:double,:LABEL
+Immune Design Corp.,IMDZ,Form 4,Health Care,282403939.76,Company
+HURCO COMPANIES INC,HURC,Form 4,Capital Goods,279583548.51,Company
+"CCE Spinco, Inc.",LYV,Form 4,Consumer Services,13219100743.0,Company
+WALT DISNEY CO/,DIS,Form 4,Consumer Services,170082720890.67,Company
+"FORUM ENERGY TECHNOLOGIES, INC.",FET,Form 4,Energy,620917247.7,Company
+"VeriFone Holdings, Inc.",PAY,Form 4,unknown,,Company
+Energous Corp,WATT,Form 4,Technology,163836432.12,Company
+Alkermes plc.,ALKS,Form 4,Health Care,5231994778.36,Company
+"XTEN NETWORKS, INC",XNWK,Form 4,unknown,,Company
+Broadcom Ltd,AVGO,Form 4,Technology,107427338447.79,Company
+"Natera, Inc.",NTRA,Form 4,Health Care,1226581553.28,Company
+ILLUMINA INC,ILMN,Form 4,Capital Goods,45315690000.0,Company
+"Kindred Biosciences, Inc.",KIN,Form 4,Health Care,356690313.72,Company
+ADOBE SYSTEMS INC,ADBE,Form 4,Technology,129312187215.56,Company
+Western Uranium Corp,WSTRF,Form 4,unknown,,Company
+ALASKA AIR GROUP INC,ALK,Form 4,Transportation,6898212452.3,Company
+"Digital Realty Trust, Inc.",DLR,Form 4,Consumer Services,24101330956.74,Company
+UNISYS CORP,UIS,Form 4,Technology,669573965.12,Company
+PICO HOLDINGS INC /NEW,PICO,Form 4,Finance,222565620.64,Company
+"Heritage-Crystal Clean, Inc.",HCCI,Form 4,Basic Industries,550670926.74,Company
+"RSP Permian, Inc.",RSPP,Form 4,unknown,,Company
+CADIZ INC,CDZI,Form 4,Public Utilities,241247860.56,Company
+"TILLY'S, INC.",TLYS,Form 4,Consumer Services,346098804.18,Company
+Mallinckrodt plc,MNK,Form 4,Health Care,1830429775.36,Company
+KILROY REALTY CORP,KRC,Form 4,Consumer Services,7563229720.2,Company
+SYNNEX CORP,SNX,Form 4,Technology,4874578787.24,Company
+"PTC THERAPEUTICS, INC.",PTCT,Form 4,Health Care,2046979514.9,Company
+"Summit Materials, Inc.",SUM,Form 4,Basic Industries,1896189473.28,Company
+"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",JLLM,Form 4,unknown,,Company
+Shake Shack Inc.,SHAK,Form 4,Consumer Services,1969572294.03,Company
+Accenture plc,ACN,Form 4,Miscellaneous,104826773460.77,Company
+ALFA INTERNATIONAL CORP,TYBR,Form 4,unknown,,Company
+FIRST FINANCIAL BANCORP /OH/,FFBC,Form 4,Finance,2539432762.71,Company
+DATALINK CORP,DTLK,Form 4,unknown,,Company
+NORTHEAST UTILITIES SYSTEM,NU,Form 4,unknown,,Company
+NUVEEN SENIOR INCOME FUND,NSL,Form 4,unknown,,Company
+PENTAIR INC,PNR,Form 4,Technology,7332649085.85,Company
+GENCO SHIPPING & TRADING LTD,GSTL,Form 4,unknown,,Company
+Pfenex Inc.,PFNX,Form 4,Health Care,151326058.39,Company
+WEBDIGS INC,[NONE],Form 4,unknown,,Company
+CAMDEN PROPERTY TRUST,(CPT),Form 4,unknown,,Company
+"LUCAS ENERGY, INC.",LUCE,Form 4,unknown,,Company
+"CEMPRA, INC.",CEMP,Form 4,unknown,,Company
+IRADIMED CORP,IRMD,Form 4,Health Care,268548009.84,Company
+COUPONS.com Inc,COUP,Form 4,Technology,5347659965.44,Company
+KBL Healthcare Acquisition Corp. II,KBLH,Form 4,unknown,,Company
+Diverse Development Group Inc.,NONE,Form 4,unknown,,Company
+Clean Energy Fuels Corp.,CLNE,Form 4,Public Utilities,594141092.84,Company
+"Minerva Neurosciences, Inc.",NERV,Form 4,Health Care,312915309.35,Company
+AUTODESK INC,ADSK,Form 4,Technology,33591575265.68,Company
+COEUR D ALENE MINES CORP,CDE,Form 4,Basic Industries,994164115.05,Company
+Axalta Coating Systems Ltd.,AXTA,Form 4,Basic Industries,6203806822.8,Company
+CENTURY BANCORP INC,CNBKA,Form 4,Finance,426835903.94,Company
+CHEMUNG FINANCIAL CORP,CHMG,Form 4,Finance,228185000.0,Company
+CABOT OIL & GAS CORP,COG,Form 4,Energy,10999081155.0,Company
+CHEMICAL FINANCIAL CORP,CHFC,Form 4,Finance,3146487883.96,Company
+BLACK HILLS CORP /SD/,BKH,Form 4,Public Utilities,4363488334.8,Company
+"Northfield Bancorp, Inc.",NFBK,Form 4,Finance,726199683.64,Company
+ROCKWELL COLLINS INC,COL,Form 4,unknown,,Company
+CAPITAL SOUTHWEST CORP,CSWC,Form 4,unknown,,Company
+ANDERSONS INC,ANDE,Form 4,Consumer Services,1149850000.0,Company
+CHASE CORP,CCF,Form 4,Consumer Durables,890248204.08,Company
+TECTON CORP,RGFR,Form 4,unknown,,Company
+YP NET INC,YPNT,Form 4,unknown,,Company
+GENCOR INDUSTRIES INC,GNCI,Form 4,unknown,,Company
+"Customers Bancorp, Inc.",CUBI,Form 4,Finance,598301030.25,Company
+WESTFIELD FINANCIAL INC,WFD,Form 4,unknown,,Company
+KEWAUNEE SCIENTIFIC CORP /DE/,KEQU,Form 4,Capital Goods,57658542.6825,Company
+FNB BANCORP/CA/,FNBG.OB,Form 4,unknown,,Company
+Medtronic plc,MDT,Form 4,Health Care,124753863229.4,Company
+Resonant Inc,RESN,Form 4,Technology,80189043.28,Company
+ORBCOMM Inc.,ORBC,Form 4,Consumer Services,549397781.56,Company
+JEWETT CAMERON TRADING CO LTD,JCTCF,Form 4,Consumer Services,34089423.04,Company
+ALJ REGIONAL HOLDINGS INC,ALJJ,Form 4,Miscellaneous,64264675.15,Company
+GREENBRIER COMPANIES INC,GBX,Form 4,Capital Goods,1225102528.44,Company
+"Planet Fitness, Inc.",PLNT,Form 4,Consumer Services,6239432866.52,Company
+"CAVIUM NETWORKS, INC.",CAVM,Form 4,unknown,,Company
+"Zayo Group Holdings, Inc.",ZAYO,Form 4,Public Utilities,6726911791.2,Company
+MARLIN BUSINESS SERVICES CORP,MRLN,Form 4,Finance,288864346.32,Company
+"Medidata Solutions, Inc.",MDSO,Form 4,Technology,4640879431.8,Company
+"TNP Strategic Retail Trust, Inc.",NAN,Form 4,unknown,,Company
+ALNYLAM PHARMACEUTICALS INC,ALNY,Form 4,Health Care,9750257020.0,Company
+RiverNorth Marketplace Lending Corp,[RMPLX],Form 4,unknown,,Company
+"Spark Energy, Inc.",SPKE,Form 4,Public Utilities,315525104.16,Company
+Clough Global Allocation Fund,GLV,Form 4,unknown,,Company
+ADVENT CLAYMORE CONVERTIBLE SECURITIES & INCOME FUND,AVK,Form 4,unknown,,Company
+Advent/Claymore Global Convertible Securities & Income Fund,AGC,Form 4,unknown,,Company
+VIRTUSA CORP,VRTU,Form 4,Technology,1601953207.2,Company
+"GULF ONSHORE, INC.",GFON.OB,Form 4,unknown,,Company
+XEROX CORP,XRX,Form 4,Technology,7247870696.4,Company
+PEOPLES HOLDING CO,PHC,Form 4,unknown,,Company
+NETGEAR INC,NTGR,Form 4,Public Utilities,1131054701.8,Company
+IDT CORP,IDT/IDT.C,Form 4,unknown,,Company
+UNIFIRST CORP,UNF,Form 4,Consumer Services,2659933357.29,Company
+BIOMERICA INC,BMRA.OB,Form 4,unknown,,Company
+PROVIDENT FINANCIAL SERVICES INC,PFS,Form 4,Finance,1782167877.81,Company
+GRAPHIC PACKAGING HOLDING CO,GPK,Form 4,Consumer Durables,3726811643.94,Company
+WINNEBAGO INDUSTRIES INC,WGO,Form 4,unknown,,Company
+"Pure Storage, Inc.",PSTG,Form 4,Technology,4965223945.35,Company
+"GlyEco, Inc.",GLYE,Form 4,unknown,,Company
+SCANA CORP,SCG,Form 4,unknown,,Company
+IMERGENT INC,IMGG,Form 4,unknown,,Company
+"Yum China Holdings, Inc.",YUMC,Form 4,Consumer Services,15541318796.0,Company
+HALLIBURTON CO,HAL,Form 4,Energy,24867470997.0,Company
+FLUOR CORP,FLR,Form 4,Basic Industries,5276030218.2,Company
+CAL DIVE INTERNATIONAL INC,CDIS,Form 4,unknown,,Company
+"WashingtonFirst Bankshares, Inc.",WFBI,Form 4,unknown,,Company
+FIRST MIDWEST FINANCIAL INC,CASH,Form 4,Finance,775785422.88,Company
+APOGEE ENTERPRISES INC,APOG,Form 4,Capital Goods,975611220.0,Company
+TELEPHONE & DATA SYSTEMS INC /DE/,TDS,Form 4,Public Utilities,3645779517.0,Company
+WILSON GREATBATCH TECHNOLOGIES INC,GB,Form 4,unknown,,Company
+VISTAPRINT LTD,VPRT,Form 4,unknown,,Company
+CITIZENS & NORTHERN CORP,CZNC.OB,Form 4,unknown,,Company
+FARMERS NATIONAL BANC CORP /OH/,FMNB.OB,Form 4,unknown,,Company
+SAGA COMMUNICATIONS INC,SGA,Form 4,Consumer Services,201006344.13,Company
+CAMDEN NATIONAL CORP,CAC,Form 4,Finance,682458075.78,Company
+Hydra Industries Acquisition Corp.,HDRA,Form 4,unknown,,Company
+"Builders FirstSource, Inc.",BLDR,Form 4,Consumer Services,1568890777.6,Company
+BLUEPHOENIX SOLUTIONS LTD,BPHX,Form 4,unknown,,Company
+CONAGRA FOODS INC /DE/,CAG,Form 4,unknown,,Company
+BLACKBAUD INC,BLKB,Form 4,Technology,3755786252.35,Company
+PHOTRONICS INC,PLAB,Form 4,Technology,630881734.55,Company
+CONDUENT Inc,CNDT,Form 4,Miscellaneous,3032250340.47,Company
+"MINDBODY, Inc.",MB,Form 4,unknown,,Company
+Kosmos Energy Ltd.,KOS,Form 4,Energy,2475725672.95,Company
+AMICUS THERAPEUTICS INC,FOLD,Form 4,Health Care,3102841430.49,Company
+"Marcus & Millichap, Inc.",MMI,Form 4,Finance,1499406104.48,Company
+NEOPHOTONICS CORP,NPTN,Form 4,Technology,311987235.84,Company
+FMC TECHNOLOGIES INC,FTI,Form 4,Energy,9857653842.0,Company
+Zeltiq Aesthetics Inc,ZLTQ,Form 4,unknown,,Company
+MB FINANCIAL INC     /MD,MBFI,Form 4,Finance,3892813701.12,Company
+ON ASSIGNMENT INC,ASGN,Form 4,Technology,3362564137.28,Company
+Athene Holding Ltd,ATH,Form 4,Finance,8260474407.12,Company
+SMITH A O CORP,AOS,Form 4,Consumer Durables,8629822897.89,Company
+WISCONSIN ENERGY CORP,WEC,Form 4,Public Utilities,24542424129.4,Company
+EMPIRE RESORTS INC,NYNY,Form 4,Consumer Services,414800162.5,Company
+"TWITTER, INC.",TWTR,Form 4,Technology,24001608415.0,Company
+EXELIXIS INC,EXEL,Form 4,Health Care,7416203157.3,Company
+SIGA TECHNOLOGIES INC,SIGA,Form 4,Health Care,506693940.24,Company
+AMN HEALTHCARE SERVICES INC,AHS,Form 4,unknown,,Company
+TESLA MOTORS INC,TSLA,Form 4,Capital Goods,49909600883.52,Company
+SALESFORCE COM INC,CRM,Form 4,Technology,123213510000.0,Company
+SCHWEITZER MAUDUIT INTERNATIONAL INC,SWM,Form 4,Basic Industries,1176247990.53,Company
+VALLEY NATIONAL BANCORP,VLY,Form 4,Finance,3422753411.02,Company
+AMERICAN REALTY INVESTORS INC,ARL,Form 4,Finance,203962719.0,Company
+SCHLUMBERGER LTD /NV/,SLB,Form 4,Energy,59804718337.25,Company
+INSWEB CORP,INSW,Form 4,Consumer Services,544290943.65,Company
+RGC RESOURCES INC,RGCO,Form 4,Public Utilities,218144527.11,Company
+CELLULAR TECHNICAL SERVICES CO INC,CTSC,Form 4,unknown,,Company
+BOK FINANCIAL CORP ET AL,BOKF,Form 4,Finance,6243954407.72,Company
+FOX FACTORY HOLDING CORP,FOXF,Form 4,unknown,,Company
+NICHOLAS FINANCIAL INC,NICK,Form 4,Finance,75222654.48,Company
+Penumbra Inc,PEN,Form 4,Health Care,5153273208.12,Company
+"Hortonworks, Inc.",HDP,Form 4,unknown,,Company
+WHITE MOUNTAINS INSURANCE GROUP LTD,WTM,Form 4,Finance,2891647347.48,Company
+NATUS MEDICAL INC,BABY,Form 4,Health Care,911651702.12,Company
+"Workday, Inc.",WDAY,Form 4,Technology,40955200000.0,Company
+PHIBRO ANIMAL HEALTH CORP,PAHC,Form 4,Health Care,1268101574.85,Company
+Nimble Storage Inc,NMBL,Form 4,unknown,,Company
+"ENVESTNET, INC.",ENV,Form 4,Miscellaneous,3099381577.01,Company
+AECOM TECHNOLOGY CORP,ACM,Form 4,Consumer Services,4743722035.65,Company
+"Yuma Energy, Inc.",YUMA,Form 4,Energy,2721844.6473,Company
+Liberty Broadband Corp,LBRDA,Form 4,Consumer Services,16512837469.2,Company
+ELLIE MAE INC,ELLI,Form 4,Technology,3455187434.56,Company
+THESTREET COM,TSCM,Form 4,unknown,,Company
+YELP INC,YELP,Form 4,Consumer Services,2833964544.65,Company
+GIBRALTAR STEEL CORP,ROCK,Form 4,Capital Goods,1271733572.2,Company
+"ENSIGN GROUP, INC",ENSG,Form 4,Health Care,2665368535.68,Company
+BOTTOMLINE TECHNOLOGIES INC /DE/,EPAY,Form 4,Technology,2106567429.63,Company
+CONSOLIDATED EDISON INC,ED,Form 4,Public Utilities,27349351807.36,Company
+Liberty Media Corp,LMCA,Form 4,unknown,,Company
+OncoMed Pharmaceuticals Inc,OMED,Form 4,Health Care,31725872.98,Company
+PACCAR INC,PCAR,Form 4,Capital Goods,23833415323.34,Company
+SCICLONE PHARMACEUTICALS INC,SCLN,Form 4,unknown,,Company
+NEVRO CORP,NVRO,Form 4,Health Care,1332074291.45,Company
+INTEL CORP,INTC,Form 4,Technology,244501890000.0,Company
+COOPER COMPANIES INC,COO,Form 4,Health Care,14422679159.07,Company
+CALIFORNIA WATER SERVICE GROUP,CWT,Form 4,Public Utilities,2601866710.0,Company
+"Deep Down, Inc.",DPDW,Form 4,unknown,,Company
+"VOCERA COMMUNICATIONS, INC.",VCRA,Form 4,Consumer Durables,1016865886.83,Company
+"DICE HOLDINGS, INC.",DHX,Form 4,Miscellaneous,135642838.5,Company
+ConforMIS Inc,CFMS,Form 4,Health Care,84878142.7,Company
+CHART INDUSTRIES INC,CIDI,Form 4,unknown,,Company
+TETRA TECH INC,TTEK,Form 4,Consumer Services,3248163141.0,Company
+NATURAL GAS SERVICES GROUP INC,NGS,Form 4,Energy,241224462.06,Company
+SJW CORP,SJW,Form 4,Public Utilities,1743721074.3,Company
+NEWLINK GENETICS CORP,NLNK,Form 4,Health Care,67842505.64,Company
+"Black Stone Minerals, L.P.",BSM,Form 4,Energy,3576290694.27,Company
+UNITED DOMINION REALTY TRUST INC,UDR,Form 4,Consumer Services,12441082616.44,Company
+FIRST INDUSTRIAL REALTY TRUST INC,FR,Form 4,Consumer Services,4400412723.52,Company
+NEOGEN CORP,NEOG,Form 4,Health Care,3201993736.48,Company
+NEWS CORP,NWS,Form 4,Consumer Services,7581026247.84,Company
+SCHWAB CHARLES CORP,SCH,Form 4,unknown,,Company
+EDISON INTERNATIONAL,EIX,Form 4,Public Utilities,20884498304.6,Company
+"BLACKHAWK NETWORK HOLDINGS, INC",HAWK,Form 4,unknown,,Company
+ANALOGIC CORP,ALOG,Form 4,unknown,,Company
+DATAWATCH CORP,DWCH,Form 4,unknown,,Company
+CEDAR FAIR L P,FUN,Form 4,Consumer Services,3111167455.0,Company
+ACCESS NATIONAL CORP,ANCX,Form 4,unknown,,Company
+STRATEGIC ACQUISITIONS INC /NV/,STQN,Form 4,unknown,,Company
+PG&E CORP,PCG,Form 4,Public Utilities,10266345408.34,Company
+Howard Hughes Corp,HHC,Form 4,Consumer Services,4661503070.14,Company
+TCF FINANCIAL CORP,TCB,Form 4,unknown,,Company
+SPS COMMERCE INC,SPSC,Form 4,Technology,1891973119.59,Company
+Och-Ziff Capital Management Group LLC,OZM,Form 4,Finance,790374689.28,Company
+LIQUIDITY SERVICES INC,LQDT,Form 4,Miscellaneous,244475604.02,Company
+RESMED INC,RMD,Form 4,Health Care,14706879923.67,Company
+MASIMO CORP,MASI,Form 4,Health Care,7078792087.64,Company
+DILLARDS INC,DDS,Form 4,Consumer Services,1903594000.0,Company
+NIKE INC,NKE,Form 4,unknown,,Company
+"SPX FLOW, Inc.",FLOW,Form 4,Technology,1396863873.51,Company
+CIRRUS LOGIC INC,CRUS,Form 4,Technology,2434301719.08,Company
+CHICAGO PIZZA & BREWERY INC,CHGO,Form 4,unknown,,Company
+Vanda Pharmaceuticals Inc.,VNDA,Form 4,Health Care,1003370891.24,Company
+CRYOLIFE INC,CRY,Form 4,Health Care,1086206995.8,Company
+American Exploration Corp,AEXP,Form 4,unknown,,Company
+HEALTHCARE REALTY TRUST INC,HR,Form 4,Consumer Services,3980604930.66,Company
+"National Waste Management Holdings, Inc.",NWMH,Form 4,unknown,,Company
+RAYTHEON CO/,RTN,Form 4,Capital Goods,51251780010.0,Company
+Clough Global Equity Fund,GLQ,Form 4,unknown,,Company
+TEJON RANCH CO,TRC,Form 4,Finance,473658003.51,Company
+"Fortune Brands Home & Security, Inc.",FBHS,Form 4,Basic Industries,6501810386.7,Company
+TRIARC COMPANIES INC,(TRY),Form 4,unknown,,Company
+"HUNTINGTON INGALLS INDUSTRIES, INC.",HII,Form 4,Capital Goods,8631161403.13,Company
+Targa Resources Corp.,TRGP,Form 4,Public Utilities,9466800919.4,Company
+XL CAPITAL LTD,XL,Form 4,unknown,,Company
+HYBRIDON INC,HYBN,Form 4,unknown,,Company
+RANGE RESOURCES CORP,RRC,Form 4,Energy,2704250052.52,Company
+GOODYEAR TIRE & RUBBER CO /OH/,GT,Form 4,Consumer Durables,4129654151.14,Company
+NORDSON CORP,NDSN,Form 4,Capital Goods,7583545548.69,Company
+SONOCO PRODUCTS CO,SON,Form 4,Consumer Durables,5889792003.3,Company
+Xactly Corp,XTLY,Form 4,unknown,,Company
+"Parkway, Inc.",PKY,Form 4,unknown,,Company
+TechTarget Inc,TTGT,Form 4,Miscellaneous,436041496.05,Company
+Wingstop Inc.,WING,Form 4,Consumer Services,2036650455.24,Company
+CARMAX INC,KMX,Form 4,Consumer Durables,10353203846.58,Company
+Straight Path Communications Inc.,STRP,Form 4,unknown,,Company
+"Porter Bancorp, Inc.",PBIB,Form 4,unknown,,Company
+MAGELLAN MIDSTREAM PARTNERS LP,MMP,Form 4,Energy,13717909885.68,Company
+UNITY BANCORP INC /DE/,UNTY,Form 4,Finance,219753911.3,Company
+NCR CORP,NCR,Form 4,Miscellaneous,3337523000.0,Company
+HORMEL FOODS CORP /DE/,HRL,Form 4,unknown,,Company
+Genie Energy Ltd.,GNE,Form 4,Public Utilities,214706783.86,Company
+DTE ENERGY CO,DTE,Form 4,Public Utilities,22587644729.6,Company
+INTERNATIONAL SPEEDWAY CORP,"ISCA, ISCB",Form 4,unknown,,Company
+PREFORMED LINE PRODUCTS CO,PLPC,Form 4,Basic Industries,269596017.0,Company
+RYDER SYSTEM INC,R,Form 4,Consumer Services,3245966853.57,Company
+BROWN FORMAN CORP,"BFA, BFB",Form 4,unknown,,Company
+HEALTHSOUTH CORP,HLSH,Form 4,unknown,,Company
+NATIONAL FUEL GAS CO,NFG,Form 4,Public Utilities,5206908682.0,Company
+ACTUANT CORP,ATU,Form 4,Technology,1492057197.94,Company
+OCCIDENTAL PETROLEUM CORP /DE/,OXY,Form 4,Energy,48765491581.58,Company
+NEW JERSEY RESOURCES CORP,NJR,Form 4,Public Utilities,4474128607.2,Company
+GENERAL DYNAMICS CORP,GD,Form 4,Capital Goods,49495873556.16,Company
+MANUFACTURED HOME COMMUNITIES INC,MHC,Form 4,unknown,,Company
+DOVER DOWNS GAMING & ENTERTAINMENT INC,DDE,Form 4,Consumer Services,87567088.86,Company
+ALICO INC,ALCO,Form 4,unknown,,Company
+ALLSTATE CORP,ALL,Form 4,Finance,31055148379.2,Company
+FIVE PRIME THERAPEUTICS INC,FPRX,Form 4,Health Care,424781173.53,Company
+BARD C R INC /NJ/,BCR,Form 4,unknown,,Company
+PPL CORP,PPL,Form 4,Public Utilities,23430449152.5,Company
+APACHE CORP,APA,Form 4,Energy,12883919745.84,Company
+SEMPRA ENERGY,SRE,Form 4,Public Utilities,34074046064.64,Company
+TransDigm Group INC,TDG,Form 4,Capital Goods,23271574370.7,Company
+GENUINE PARTS CO,GPC,Form 4,Capital Goods,15640793295.05,Company
+Care Investment Trust Inc.,CRE,Form 4,unknown,,Company
+AVISTA CORP,AVA,Form 4,Public Utilities,2726559702.81,Company
+SAUL CENTERS INC,BFS,Form 4,Consumer Services,1140221000.0,Company
+PATRIOT TRANSPORTATION HOLDING INC,PATR,Form 4,unknown,,Company
+RAYMOND JAMES FINANCIAL INC,RJF,Form 4,Finance,11552421351.35,Company
+FIRST BANCORP /PR/,FBP,Form 4,Finance,2472172639.22,Company
+NORTHRIM BANCORP INC,NRIM,Form 4,Finance,254885488.48,Company
+R & B INC,RBIN,Form 4,unknown,,Company
+MARRIOTT INTERNATIONAL INC /MD/,MAR,Form 4,Consumer Services,40824797759.41,Company
+HIGH INCOME OPPORTUNITY FUND INC,HIO,Form 4,unknown,,Company
+FRESH DEL MONTE PRODUCE INC,FDP,Form 4,unknown,,Company
+PRICE T ROWE GROUP INC,TROW,Form 4,Finance,23945317988.35,Company
+POLARIS INDUSTRIES INC/MN,PII,Form 4,Capital Goods,5303578464.0,Company
+Compass Diversified Trust,CODI,Form 4,Consumer Durables,945222000.0,Company
+"STAG Industrial, Inc.",STIR,Form 4,unknown,,Company
+WOLVERINE WORLD WIDE INC /DE/,WWW,Form 4,unknown,,Company
+JONES SODA CO,UJSA,Form 4,unknown,,Company
+DENBURY RESOURCES INC,DNR,Form 4,Energy,838005009.66,Company
+KENNAMETAL INC,KMT,Form 4,Capital Goods,3036065065.8,Company
+"Waterstone Financial, Inc.",WSBF,Form 4,Finance,474699689.1,Company
+"INFORMATION SYSTEMS ASSOCIATES, INC.",IOSA,Form 4,unknown,,Company
+KINDRED HEALTHCARE INC,KIND,Form 4,unknown,,Company
+CNB FINANCIAL CORP/PA,CCNE,Form 4,Finance,412991181.7,Company
+SUNTRUST BANKS INC,STI,Form 4,Finance,28368325632.0,Company
+DOVER MOTORSPORTS INC,DVD,Form 4,Consumer Services,75077103.009,Company
+CANADIAN PACIFIC RAILWAY LTD/CN,CP,Form 4,Transportation,28711519261.68,Company
+WILLIAM LYON HOMES,WLS,Form 4,unknown,,Company
+LEXINGTON CORPORATE PROPERTIES TRUST,LXP,Form 4,unknown,,Company
+Bank of Marin Bancorp,BMRC,Form 4,Finance,600317919.68,Company
+PREFERRED APARTMENT COMMUNITIES INC,APTS,Form 4,Consumer Services,692865588.1,Company
+DONALDSON CO INC,DCI,Form 4,Capital Goods,6234640896.0,Company
+GENCORP INC,GY,Form 4,unknown,,Company
+"Avangrid, Inc.",AGR,Form 4,Public Utilities,15292670911.28,Company
+AAON INC,AAON,Form 4,Capital Goods,2179892522.7,Company
+INTERMEDIATE MUNI FUND INC,SBI,Form 4,unknown,,Company
+FIDELITY D & D BANCORP INC,FDBC,Form 4,Finance,230227248.24,Company
+COMMERCIAL METALS CO,CMC,Form 4,Basic Industries,1902226074.21,Company
+Neenah Paper Inc,NP,Form 4,Basic Industries,1073644800.0,Company
+"Nivalis Therapeutics, Inc.",NVLS,Form 4,unknown,,Company
+NATIONAL RESEARCH CORP,NRCI,Form 4,unknown,,Company
+REX STORES CORP,RSC,Form 4,unknown,,Company
+MANNATECH INC,MTEX,Form 4,Consumer Durables,40584541.6709,Company
+John Bean Technologies CORP,JBT,Form 4,Technology,2880199586.49,Company
+TESCO CORP,TESOF,Form 4,unknown,,Company
+INTERFACE INC,IFSIA,Form 4,unknown,,Company
+EASTMAN CHEMICAL CO,EMN,Form 4,Basic Industries,11442172397.52,Company
+CAFEPRESS INC.,PRSS,Form 4,unknown,,Company
+HEICO CORP,HEI. HEI A,Form 4,unknown,,Company
+MCGRAW-HILL COMPANIES INC,MHP,Form 4,unknown,,Company
+DUKE REALTY CORP,DRE,Form 4,Consumer Services,11046740515.5,Company
+KULICKE & SOFFA INDUSTRIES INC,KLIC,Form 4,Technology,1500731688.85,Company
+EAGLE BANCORP INC,EGBN,Form 4,Finance,1925985728.56,Company
+MBT FINANCIAL CORP,MBTF,Form 4,Finance,249136180.5,Company
+UNITED FIRE & CASUALTY CO,UFCS,Form 4,Finance,1140098828.6,Company
+HomeTown Bankshares Corp,HMTA,Form 4,Finance,82034220.68,Company
+MEDIA GENERAL INC,MEG,Form 4,unknown,,Company
+TREX CO INC,TWP,Form 4,unknown,,Company
+PUROFLOW INC,PFLW,Form 4,unknown,,Company
+"Eastside Distilling, Inc.",ESDI,Form 4,unknown,,Company
+Huron Consulting Group Inc.,HURN,Form 4,Consumer Services,1069617232.74,Company
+GLOBALWISE INVESTMENTS INC,GWIV,Form 4,unknown,,Company
+JAKKS PACIFIC INC,JAKK,Form 4,unknown,,Company
+"Quad/Graphics, Inc.",QUAD,Form 4,Miscellaneous,629925771.38,Company
+STONEMOR PARTNERS LP,STON,Form 4,Consumer Services,144242851.0,Company
+Medley Capital Corp,MCC,Form 4,unknown,,Company
+Essent Group Ltd.,ESNT,Form 4,Finance,4291252202.62,Company
+Realogy Holdings Corp.,RLGY,Form 4,Finance,1366371415.92,Company
+SHUTTERFLY INC,SFLY,Form 4,Miscellaneous,1396718997.0,Company
+Global Partners LP,GLP,Form 4,Energy,641836229.44,Company
+HARRAHS ENTERTAINMENT INC,HET,Form 4,unknown,,Company
+HEALTHCARE SERVICES GROUP INC,HCSG,Form 4,Health Care,2351942260.0,Company
+REALTY INCOME CORP,O,Form 4,Consumer Services,21660349422.1,Company
+Chemours Co,CC,Form 4,Basic Industries,6509432006.91,Company
+ANTIGENICS INC /DE/,AGEN,Form 4,Health Care,388076119.12,Company
+CENTENE CORP,CNTE,Form 4,unknown,,Company
+CYPRESS SEMICONDUCTOR CORP /DE/,CY,Form 4,Technology,5516397392.96,Company
+AMERICAN STATES WATER CO,AWR,Form 4,Public Utilities,2623839526.75,Company
+STEELCASE INC,NYSE: SCS,Form 4,unknown,,Company
+MANAGED MUNICIPALS PORTFOLIO INC,MMU,Form 4,unknown,,Company
+eXegenics Inc,EXG,Form 4,unknown,,Company
+Western Asset Municipal Defined Opportunity Trust Inc.,MTT,Form 4,unknown,,Company
+WINMARK CORP,WINA,Form 4,Consumer Services,663232496.76,Company
+UNIVERSAL FOREST PRODUCTS INC,UFPI,Form 4,Basic Industries,1846036040.1,Company
+MONMOUTH REAL ESTATE INVESTMENT CORP,MNRTA,Form 4,unknown,,Company
+CIENA CORP,CIENA,Form 4,unknown,,Company
+CONMED CORP,CNMD,Form 4,Health Care,2237114513.16,Company
+COGENT COMMUNICATIONS GROUP INC,COI,Form 4,unknown,,Company
+ATLAS AIR WORLDWIDE HOLDINGS INC,AAWWV,Form 4,unknown,,Company
+TUPPERWARE CORP,TUP,Form 4,unknown,,Company
+EXACT SCIENCES CORP,EXAS,Form 4,Health Care,11920876374.53,Company
+COMPASS MINERALS INTERNATIONAL INC,CMP,Form 4,Basic Industries,1744502554.0,Company
+BRISTOL MYERS SQUIBB CO,(BMY),Form 4,unknown,,Company
+BIOVAIL CORP INTERNATIONAL,BVF,Form 4,unknown,,Company
+Pebblebrook Hotel Trust,PEB,Form 4,Consumer Services,4194857647.76,Company
+STEWART INFORMATION SERVICES CORP,STC,Form 4,Finance,1011634170.56,Company
+GrubHub Inc.,GRUB,Form 4,Miscellaneous,6935061911.49,Company
+"Veritex Holdings, Inc.",VBTX,Form 4,Finance,1415822081.96,Company
+CONCHO RESOURCES INC,CXO,Form 4,Energy,20480671087.2,Company
+NORTHSTAR REALTY,NRF,Form 4,unknown,,Company
+DANAHER CORP /DE/,DHR,Form 4,Capital Goods,91481660314.2,Company
+VIACOM INC,"VIA, VIAB",Form 4,unknown,,Company
+"MySkin, Inc.",MYSK,Form 4,unknown,,Company
+"EAGLE PHARMACEUTICALS, INC.",EGRX,Form 4,Health Care,671290310.16,Company
+PATTERSON DENTAL CO,PDCO,Form 4,Health Care,2143205880.0,Company
+"Cobalt International Energy, Inc.",CIE,Form 4,unknown,,Company
+SCANSOFT INC,SSFT,Form 4,unknown,,Company
+SEGMENTZ INC,SZI,Form 4,unknown,,Company
+HUB GROUP INC,HUBG,Form 4,Transportation,1526931389.65,Company
+EQUINIX INC,EQIX,Form 4,Consumer Services,36799691003.22,Company
+INVESTMENT TECHNOLOGY GROUP INC,ITG,Form 4,unknown,,Company
+C H ROBINSON WORLDWIDE INC,CHRW,Form 4,Transportation,12190928486.8,Company
+NAVISTAR INTERNATIONAL CORP,NAV,Form 4,Capital Goods,3187927049.86,Company
+"AAC Holdings, Inc.",AAC,Form 4,Health Care,67410452.7,Company
+LASALLE HOTEL PROPERTIES,LHO,Form 4,unknown,,Company
+Alphabet Inc.,GOOG,Form 4,Technology,829579830074.72,Company
+IBT BANCORP INC /MI/,IBTB,Form 4,unknown,,Company
+SCHOLASTIC CORP,SCHL,Form 4,Consumer Services,1459679989.2,Company
+CALLON PETROLEUM CO,CPE,Form 4,Energy,1686281127.2,Company
+TRINET GROUP INC,TNET,Form 4,Miscellaneous,4293711784.45,Company
+TANGER FACTORY OUTLET CENTERS INC,SKT,Form 4,Consumer Services,1966201518.19,Company
+"Advanced Emissions Solutions, Inc.",ADES,Form 4,Basic Industries,224648317.68,Company
+"Gannett Co., Inc.",GCI,Form 4,Consumer Services,1236218770.8,Company
+Sprague Resources LP,SRLP,Form 4,Energy,339418276.61,Company
+ALBEMARLE CORP,ALB,Form 4,Basic Industries,9117040615.44,Company
+MOTOROLA INC,MOT,Form 4,unknown,,Company
+JETBLUE AIRWAYS CORP,JBLU,Form 4,Transportation,5158953200.61,Company
+ISTAR FINANCIAL INC,SFI,Form 4,unknown,,Company
+"BlackRock, Inc.",BLK,Form 4,Finance,68661946787.2,Company
+CHENIERE ENERGY INC,LNG,Form 4,Public Utilities,17841483761.13,Company
+ASHLAND GLOBAL HOLDINGS INC,ASH,Form 4,Consumer Durables,4951870505.52,Company
+LINCOLN NATIONAL CORP,LNC,Form 4,Finance,12625357581.6,Company
+CASTLE A M & CO,CAS,Form 4,unknown,,Company
+CHURCHILL DOWNS INC,CHDN,Form 4,Consumer Services,3482980491.54,Company
+Aircastle LTD,AYR,Form 4,Technology,1527316459.2,Company
+AUBURN NATIONAL BANCORPORATION INC,AUBN,Form 4,Finance,121668752.52,Company
+FIRST DATA CORP,FDC,Form 4,Miscellaneous,24004593510.56,Company
+"Springleaf Holdings, Inc.",LEAF,Form 4,Technology,208145091.25,Company
+TiVo Corp,TIVO,Form 4,Miscellaneous,1179360000.0,Company
+AMERICA FIRST TAX EXEMPT INVESTORS LP,ATAXZ,Form 4,unknown,,Company
+INTER PARFUMS INC,IPAR,Form 4,unknown,,Company
+FEDERAL SIGNAL CORP /DE/,FSS,Form 4,Capital Goods,1483874226.45,Company
+SNAP ON INC,SNA,Form 4,Capital Goods,8838516492.04,Company
+IDACORP INC,IDA,Form 4,Public Utilities,5041863435.62,Company
+CLEVELAND CLIFFS INC,CLF,Form 4,Basic Industries,2967039786.36,Company
+MSCI Inc.,MXB,Form 4,unknown,,Company
+MANPOWER INC /WI/,MAN,Form 4,Technology,5063754707.84,Company
+IRON MOUNTAIN INC/PA,IRM,Form 4,Consumer Services,10100118062.65,Company
+Egalet Corp,EGLT,Form 4,unknown,,Company
+EMPIRE DISTRICT ELECTRIC CO,EDE,Form 4,unknown,,Company
+MCDONALDS CORP,MCD,Form 4,Consumer Services,139333673463.92,Company
+ETSY INC,ETSY,Form 4,Miscellaneous,8387582468.95,Company
+KEYCORP /NEW/,KEY,Form 4,Finance,17472204020.52,Company
+NANOMETRICS INC,NANO,Form 4,Capital Goods,715562669.25,Company
+Celanese CORP,CE,Form 4,Basic Industries,13016997678.6,Company
+MAXIM INTEGRATED PRODUCTS INC,MXIM,Form 4,Technology,14473708119.6,Company
+CATERPILLAR INC,CAT,Form 4,Capital Goods,76834955523.0,Company
+PIONEER NATURAL RESOURCES CO,PXD,Form 4,Energy,22844376880.64,Company
+U-Store-It Trust,YSI,Form 4,unknown,,Company
+"CDK Global, Inc.",CDK,Form 4,Miscellaneous,7187172442.35,Company
+GENOMIC HEALTH INC,GHDX,Form 4,Health Care,2804704988.0,Company
+UAL CORP /DE/,UAL,Form 4,Transportation,21660946528.17,Company
+CHESAPEAKE ENERGY CORP,CHK,Form 4,Energy,4927808790.3,Company
+"HORIZON PHARMA, INC.",HZNP,Form 4,Health Care,4598379792.31,Company
+MBIA INC,MBI,Form 4,Finance,922216780.38,Company
+"ChemoCentryx, Inc.",CCXI,Form 4,Health Care,527140038.3,Company
+ACTIVISION INC /NY,ATVI,Form 4,Technology,33379540250.1,Company
+"UCP, Inc.",UCP,Form 4,unknown,,Company
+MGM Growth Properties LLC,MGP,Form 4,Consumer Services,8779199183.86,Company
+NUVASIVE INC,NUVA,Form 4,Health Care,2885397439.76,Company
+"Sequential Brands Group, Inc.",SQBG,Form 4,unknown,,Company
+MANHATTAN PHARMACEUTICALS INC,MHTT.OB,Form 4,unknown,,Company
+REALPAGE INC,RP,Form 4,Technology,5674370794.5,Company
+APA OPTICS INC /MN/,APAT,Form 4,unknown,,Company
+FEDERAL AGRICULTURAL MORTGAGE CORP,AGM,Form 4,Finance,829277351.43,Company
+PIER 1 IMPORTS INC/DE,PIR,Form 4,Consumer Services,93507024.6,Company
+"Amtrust Financial Services, Inc.",AFSI,Form 4,unknown,,Company
+PRIVATEBANCORP INC,PVTB,Form 4,unknown,,Company
+GENERAL ELECTRIC CO,GE,Form 4,Energy,87224902602.0,Company
+ZION OIL & GAS INC,ZN,Form 4,Energy,54882999.8356,Company
+CORNING INC /NY,GLW,Form 4,Basic Industries,26993772414.63,Company
+"CommScope Holding Company, Inc.",COMM,Form 4,Technology,4215051890.98,Company
+SPATIALIZER AUDIO LABORATORIES INC,SPAZ.OB,Form 4,unknown,,Company
+"Accretive Health, Inc.",AH,Form 4,unknown,,Company
+Synchrony Financial,SYF,Form 4,Finance,23368667903.6,Company
+REPRO MED SYSTEMS INC,REPR.OB,Form 4,unknown,,Company
+SBC COMMUNICATIONS INC,SBC,Form 4,unknown,,Company
+STURM RUGER & CO INC,RGR,Form 4,Capital Goods,882676480.0,Company
+SEACOAST BANKING CORP OF FLORIDA,SBCF,Form 4,Finance,1478512317.34,Company
+HASBRO INC,HAS,Form 4,unknown,,Company
+Nuvectra Corp,NVTR,Form 4,Health Care,221951968.26,Company
+PROVIDENT BANCORP INC/NY/,'PBCP',Form 4,unknown,,Company
+TREDEGAR CORP,TG,Form 4,Capital Goods,562665367.04,Company
+ATRION CORP,ATRI,Form 4,Health Care,1463491964.4,Company
+EL PASO ELECTRIC CO /TX/,EE,Form 4,Public Utilities,2411405335.2,Company
+Metaldyne Performance Group Inc.,MPG,Form 4,unknown,,Company
+GENETRONICS BIOMEDICAL CORP,GEB,Form 4,unknown,,Company
+SIMMONS FIRST NATIONAL CORP,SFNCA,Form 4,unknown,,Company
+ALTRIA GROUP INC,MO,Form 4,unknown,,Company
+PROGRESSIVE CORP/OH/,PGR,Form 4,Finance,42227375498.24,Company
+"Fidelity National Title Group, Inc.",FNT,Form 4,unknown,,Company
+AMERICAN EXPRESS CO,AXP,Form 4,Finance,94575362765.94,Company
+ICO Global Communications (Holdings) LTD,ICOHA,Form 4,unknown,,Company
+GRACO INC,GGG,Form 4,Capital Goods,7974021926.88,Company
+DREW INDUSTRIES INCORPORATED,DW,Form 4,unknown,,Company
+PANHANDLE ROYALTY CO,PANRA,Form 4,unknown,,Company
+"Midland States Bancorp, Inc.",MSBI,Form 4,Finance,592358691.96,Company
+NABORS INDUSTRIES LTD,NBR,Form 4,Energy,1252183992.75,Company
+COVENANT TRANSPORT INC,CVTI,Form 4,Transportation,418840686.78,Company
+"Celsius Holdings, Inc.",CSUH,Form 4,unknown,,Company
+AIR PRODUCTS & CHEMICALS INC /DE/,APD,Form 4,Basic Industries,40653729752.1,Company
+"Versartis, Inc.",VSAR,Form 4,unknown,,Company
+ENTERTAINMENT PROPERTIES TRUST,EPR,Form 4,Consumer Services,5650131746.33,Company
+UNITED SECURITY BANCSHARES INC,USBI,Form 4,unknown,,Company
+WEBSTER FINANCIAL CORP,WBS,Form 4,Finance,5123852467.68,Company
+WELLS FARGO & CO/MN,WFC,Form 4,Finance,227107137004.8,Company
+LAWSON PRODUCTS INC/NEW/DE/,LAWS,Form 4,Consumer Durables,272010357.5,Company
+FIRST NATIONAL CORP /SC/,FNC,Form 4,unknown,,Company
+RURBAN FINANCIAL CORP,RBNF,Form 4,unknown,,Company
+XCEL ENERGY INC,XEL,Form 4,Public Utilities,29130073997.2,Company
+"FTD Companies, Inc.",FTD,Form 4,Consumer Services,46005666.05,Company
+ABM INDUSTRIES INC /DE/,ABM,Form 4,Finance,2242188660.6,Company
+KIMBALL INTERNATIONAL INC,KBALB,Form 4,unknown,,Company
+Invesco Quality Municipal Income Trust,IQI,Form 4,unknown,,Company
+NORDSTROM INC,JWN,Form 4,Consumer Services,7021813000.0,Company
+BRUSH ENGINEERED MATERIALS INC,BW,Form 4,Capital Goods,73599819.6774,Company
+FRANKLIN ELECTRIC CO INC,FELE,Form 4,Consumer Durables,2388659027.72,Company
+Nielsen Holdings N.V.,NLSN,Form 4,Miscellaneous,9621954973.11,Company
+HERSHEY FOODS CORP,HSY,Form 4,unknown,,Company
+QUALCOMM INC/DE,QCOM,Form 4,Technology,67038832335.27,Company
+"Zoom Telephonics, Inc.",ZMTP,Form 4,unknown,,Company
+FARMERS & MERCHANTS BANCORP,FMCB,Form 4,unknown,,Company
+LivaNova PLC,LIVN,Form 4,Health Care,4645043387.39,Company
+U S GLOBAL INVESTORS INC,GROW,Form 4,Finance,18315036.74,Company
+"Employers Holdings, Inc.",EIG,Form 4,Finance,1347994174.78,Company
+CONSECO INC,CNO,Form 4,Finance,2650192823.5,Company
+JABIL CIRCUIT INC,JBL,Form 4,Technology,4279420440.48,Company
+CROSS COUNTRY HEALTHCARE INC,CCRN,Form 4,Technology,274663057.6,Company
+FOSTER L B CO,FSTR,Form 4,Basic Industries,189814091.04,Company
+Ally Financial Inc.,ALLY,Form 4,Finance,10811584811.85,Company
+COGNIZANT TECHNOLOGY SOLUTIONS CORP,CTSH,Form 4,Technology,40952819372.75,Company
+Tyco Electronics Ltd.,TEL,Form 4,unknown,,Company
+DYNASIL CORP OF AMERICA,DYSL:OB,Form 4,unknown,,Company
+"Jacksonville Bancorp, Inc.",JXSB,Form 4,unknown,,Company
+CITIZENS COMMUNICATIONS CO,CZN,Form 4,unknown,,Company
+WADDELL & REED FINANCIAL INC,WDR,Form 4,Finance,1351252368.5,Company
+BOSTON SCIENTIFIC CORP,BSX,Form 4,Health Care,55757248282.98,Company
+Global Indemnity plc,GBLI,Form 4,Finance,494161986.94,Company
+EOG RESOURCES INC,EOG,Form 4,Energy,51375314138.25,Company
+FEDERATED DEPARTMENT STORES INC /DE/,FD,Form 4,unknown,,Company
+BEMIS CO INC,BMS,Form 4,Consumer Durables,4808970208.0,Company
+VECTREN CORP,VVC,Form 4,unknown,,Company
+TEXTRON INC,TXT,Form 4,Capital Goods,12244252167.84,Company
+KENTUCKY BANCSHARES INC /KY/,KTYB.OB,Form 4,unknown,,Company
+INDUSTRIAL SERVICES OF AMERICA INC /FL,IDSA,Form 4,Consumer Durables,10134831.25,Company
+PERMA FIX ENVIRONMENTAL SERVICES INC,PESI,Form 4,Basic Industries,41778005.5,Company
+"BROADRIDGE FINANCIAL SOLUTIONS, INC.",BR,Form 4,Miscellaneous,11970646907.44,Company
+SYKES ENTERPRISES INC,SYKE,Form 4,Technology,1212743429.1,Company
+MYRIAD GENETICS INC,MYGN,Form 4,Health Care,2382082245.43,Company
+MANNKIND CORP,MNKD,Form 4,Health Care,395292814.26,Company
+CHICAGO BRIDGE & IRON CO N V,CBI,Form 4,unknown,,Company
+ZIONS BANCORPORATION /UT/,ZION,Form 4,Finance,9144162204.48,Company
+PAPA JOHNS INTERNATIONAL INC,PZZA,Form 4,Consumer Services,1467252013.53,Company
+PEAPACK GLADSTONE FINANCIAL CORP,PGC,Form 4,Finance,534879730.92,Company
+DYNEX CAPITAL INC,DX,Form 4,Consumer Services,426327520.5,Company
+DEERE & CO,DE,Form 4,Capital Goods,50857038407.36,Company
+IBERIABANK CORP,IBKC,Form 4,Finance,4170889982.48,Company
+EVANS BOB FARMS INC,BOBE,Form 4,unknown,,Company
+SeaSpine Holdings Corp,SPNE,Form 4,Health Care,267153018.8,Company
+ALLEGHANY CORP /DE,Y,Form 4,Finance,8890664613.6,Company
+Domtar CORP,UFS,Form 4,Basic Industries,3166322747.76,Company
+ICAD INC,ICAD,Form 4,Health Care,77616000.0,Company
+ADVISORY BOARD CO,ABCO,Form 4,unknown,,Company
+Capitol Federal Financial Inc,CFFN,Form 4,Finance,1859234785.24,Company
+EXELON CORP,EXC,Form 4,Public Utilities,48128490654.79,Company
+GENTEX CORP,GNTX,Form 4,Capital Goods,5360895280.84,Company
+ASPEN TECHNOLOGY INC /DE/,AZPN,Form 4,Technology,7059998902.17,Company
+VALVOLINE INC,VVV,Form 4,Basic Industries,3406068443.7,Company
+SOUTHERN CO,SO,Form 4,Public Utilities,53518010152.67,Company
+FIRST OF LONG ISLAND CORP,FLIC,Form 4,Finance,586502611.8,Company
+UNITED BANKSHARES INC/WV,UBSI,Form 4,Finance,3803389011.75,Company
+DELTA NATURAL GAS CO INC,DBAS,Form 4,unknown,,Company
+"PROS Holdings, Inc.",PRO,Form 4,Technology,1557105944.7,Company
+KENTUCKY INVESTORS INC,KINV,Form 4,unknown,,Company
+CURTISS WRIGHT CORP,CW,Form 4,Technology,4922049152.95,Company
+OWENS & MINOR INC/VA/,OMI,Form 4,Health Care,299972767.48,Company
+TRIMAS CORP,TRS,Form 4,Capital Goods,1429206004.85,Company
+Delphi Automotive PLC,DLPH,Form 4,Capital Goods,1713973053.76,Company
+BROWN & BROWN INC,BRO,Form 4,Finance,8158902439.44,Company
+PC TEL INC,PCTI,Form 4,Technology,87648675.54,Company
+"Innophos Holdings, Inc.",IPHS,Form 4,Consumer Durables,616018950.72,Company
+SYNCHRONOSS TECHNOLOGIES INC,SNCR,Form 4,Technology,284153408.19,Company
+"IZEA, Inc.",IZEA,Form 4,Consumer Services,16721147.935,Company
+OPENWAVE SYSTEMS INC,OPWV,Form 4,unknown,,Company
+CABLE DESIGN TECHNOLOGIES CORP,CDT,Form 4,unknown,,Company
+"Colony Financial, Inc.",CLNY,Form 4,Consumer Services,2571439502.8,Company
+SCG Financial Acquisition Corp.,SCGQ,Form 4,unknown,,Company
+TELIK INC,TELK,Form 4,unknown,,Company
+VECTOR GROUP LTD,VGR,Form 4,unknown,,Company
+"Hudson Pacific Properties, Inc.",HPP,Form 4,Finance,5294637645.13,Company
+DOLPHIN DIGITAL MEDIA INC,DPDM,Form 4,unknown,,Company
+Extra Space Storage Inc.,EXR,Form 4,Consumer Services,12748944875.15,Company
+"Mentor Capital, Inc.",MNTR,Form 4,unknown,,Company
+POPE RESOURCES LTD PARTNERSHIP,POPEZ,Form 4,unknown,,Company
+OSI SYSTEMS INC,OSIS,Form 4,Technology,1569863212.96,Company
+NEW JERSEY MINING CO,NJMC,Form 4,unknown,,Company
+MOLINA HEALTHCARE INC,MOH,Form 4,Health Care,8854954200.0,Company
+Oak Valley Bancorp,OVLY.OB,Form 4,unknown,,Company
+LEARNING TREE INTERNATIONAL INC,LTRE,Form 4,unknown,,Company
+Nexvet Biopharma plc,NVET,Form 4,unknown,,Company
+UNITED STATES LIME & MINERALS INC,USLM,Form 4,Basic Industries,415138594.0,Company
+CELL THERAPEUTICS INC,CTIC,Form 4,Health Care,57988562.0,Company
+FRANKLIN RESOURCES INC,BEN,Form 4,Finance,16696657315.42,Company
+BioFuel Energy Corp.,BIOF,Form 4,unknown,,Company
+RLI CORP,RLI,Form 4,Finance,3096292491.08,Company
+ERIE INDEMNITY CO,ERIE,Form 4,Finance,9226024309.92,Company
+MPLX LP,MPLX,Form 4,Energy,26556671877.12,Company
+"Virtu Financial, Inc.",VIRT,Form 4,Finance,4797668174.4,Company
+SLM CORP,SLM,Form 4,Finance,4630107083.0,Company
+California Resources Corp,CRC,Form 4,Energy,1165664063.2,Company
+WESTERN DIGITAL CORP,WDC,Form 4,Technology,14248787452.62,Company
+Tessera Holding Corp,TSRA,Form 4,unknown,,Company
+CAPITAL TRUST INC,CT,Form 4,unknown,,Company
+"Southcross Energy Partners, L.P.",SXE,Form 4,unknown,,Company
+"Crocs, Inc.",CROX,Form 4,unknown,,Company
+UNIVERSAL ELECTRONICS INC,UEIC,Form 4,unknown,,Company
+Vystar Corp,VYST,Form 4,unknown,,Company
+"Pharma-Bio Serv, Inc.",PBSV,Form 4,unknown,,Company
+"TESARO, Inc.",TSRO,Form 4,unknown,,Company
+SYSCO CORP,SYY,Form 4,unknown,,Company
+I-Minerals Inc,IMAHF,Form 4,unknown,,Company
+Hyatt Hotels Corp,H,Form 4,Consumer Services,7676634724.2,Company
+APPLIED MATERIALS INC /DE,AMAT,Form 4,Technology,36646554707.4,Company
+NORTHERN TRUST CORP,NTRS,Form 4,Finance,20087330762.81,Company
+JOY GLOBAL INC,JOYG,Form 4,unknown,,Company
+ACCERIS COMMUNICATIONS INC,ACRS.OB,Form 4,unknown,,Company
+"Mueller Water Products, Inc.",MWA,Form 4,Capital Goods,1653309798.8,Company
+"Delek Logistics Partners, LP",DKL,Form 4,Energy,769077331.55,Company
+"Zendesk, Inc.",ZEN,Form 4,Technology,8852920087.5,Company
+"Global Water Resources, Inc.",GWRS,Form 4,Public Utilities,204192024.96,Company
+"ING U.S., Inc.",VOYA,Form 4,Finance,7225301113.47,Company
+"Orchid Island Capital, Inc.",ORC,Form 4,Consumer Services,327011650.56,Company
+Frank's International N.V.,FI,Form 4,Energy,1416316135.86,Company
+BIOMARIN PHARMACEUTICAL INC,BMRN,Form 4,Health Care,16973898742.32,Company
+AFFILIATED MANAGERS GROUP INC,AMG,Form 4,Finance,5579100688.95,Company
+CABOT MICROELECTRONICS CORP,CCMP,Form 4,Technology,3212595305.85,Company
+GULFMARK OFFSHORE INC,GMRK,Form 4,unknown,,Company
+GREAT EXPECTATIONS & ASSOCIATES INC,GXPT.PK,Form 4,unknown,,Company
+BERKLEY W R CORP,BER,Form 4,unknown,,Company
+"ZILLOW GROUP, INC.",Z,Form 4,Miscellaneous,8073421414.38,Company
+GHL Acquisition Corp.,GHQ,Form 4,unknown,,Company
+Park Place Energy Inc.,PKPL,Form 4,unknown,,Company
+IROBOT CORP,IRBT,Form 4,Consumer Durables,3475410648.42,Company
+URANIUM ENERGY CORP,????,Form 4,unknown,,Company
+SWISS HELVETIA FUND INC,SWZ,Form 4,unknown,,Company
+"Interval Leisure Group, Inc.",IILG,Form 4,unknown,,Company
+STANDARD PACIFIC CORP /DE/,SPF,Form 4,unknown,,Company
+HARRIS CORP /DE/,HRS,Form 4,Capital Goods,19082532204.68,Company
+Main Street Capital CORP,MAIN,Form 4,unknown,,Company
+DIAMOND HILL INVESTMENT GROUP INC,DHIL,Form 4,Finance,469062812.7,Company
+DOLLAR TREE STORES INC,DLTR,Form 4,Consumer Services,24406199200.16,Company
+SHENANDOAH TELECOMMUNICATIONS CO/VA/,SHEN,Form 4,Public Utilities,2334077997.64,Company
+"Ollie's Bargain Outlet Holdings, Inc.",OLLI,Form 4,Consumer Services,5049990456.96,Company
+UNITED STATIONERS INC,USTR,Form 4,unknown,,Company
+CARPENTER TECHNOLOGY CORP,CRS,Form 4,Basic Industries,2170960718.18,Company
+"Zedge, Inc.",ZDGE,Form 4,Technology,19589431.3,Company
+CRAWFORD & CO,CRDA/CRDB,Form 4,unknown,,Company
+MAUI LAND & PINEAPPLE CO INC,MLP,Form 4,Finance,218113586.61,Company
+PEOPLES BANCORP INC,PEBO,Form 4,Finance,621546791.22,Company
+WORLD ACCEPTANCE CORP,WRLD,Form 4,Finance,1091327305.09,Company
+SCRIPPS E W CO /DE,SSP,Form 4,Consumer Services,1855287755.0,Company
+ST PAUL COMPANIES INC /MN/,SPC,Form 4,unknown,,Company
+AMETEK INC/,(AME),Form 4,unknown,,Company
+CPI AEROSTRUCTURES INC,CVU,Form 4,Capital Goods,85612823.2,Company
+APPLIED INDUSTRIAL TECHNOLOGIES INC,AIT,Form 4,Consumer Durables,2278296576.72,Company
+YUM BRANDS INC,YUM,Form 4,Consumer Services,30224694222.0,Company
+LIBERTY PROPERTY TRUST,LRY,Form 4,unknown,,Company
+WEST PHARMACEUTICAL SERVICES INC,(WST),Form 4,unknown,,Company
+NBT BANCORP INC,NBTB,Form 4,Finance,1635119887.64,Company
+ANGEION CORP/MN,ANGN,Form 4,unknown,,Company
+"DelMar Pharmaceuticals, Inc.",DMPI,Form 4,Health Care,8443225.89,Company
+PennyMac Mortgage Investment Trust,PMT,Form 4,Consumer Services,1415495047.05,Company
+FAIR ISAAC CORP,FIC,Form 4,unknown,,Company
+Urban Edge Properties,UE,Form 4,Finance,2283358665.06,Company
+CONOCOPHILLIPS,COP,Form 4,Energy,76402115730.9,Company
+FRANKLIN COVEY CO,FC,Form 4,Consumer Services,358957287.9,Company
+"Revance Therapeutics, Inc.",RVNC,Form 4,Health Care,708420013.1,Company
+ACCELERON PHARMA INC,XLRN,Form 4,Health Care,2447738657.81,Company
+ALLIANT ENERGY CORP,LNT,Form 4,Public Utilities,11128550751.5,Company
+Endo International plc,ENDP,Form 4,Health Care,1916412269.38,Company
+LOWES COMPANIES INC,LOW,Form 4,Consumer Services,81235160398.19,Company
+STEPAN CO,SCL,Form 4,Basic Industries,2042573591.52,Company
+ASSURANT INC,AIZ,Form 4,Finance,6248576450.4,Company
+AMERICAN ELECTRIC POWER CO INC,AEP,Form 4,Public Utilities,41028191965.68,Company
+WESTAR ENERGY INC /KS,WR,Form 4,unknown,,Company
+AbitibiBowater Inc.,ABH,Form 4,unknown,,Company
+FRANKLIN FINANCIAL SERVICES CORP /PA/,FRAF,Form 4,unknown,,Company
+INTERSECTIONS INC,(INTX),Form 4,unknown,,Company
+LUMINEX CORP,LMNX,Form 4,Health Care,1085603180.4,Company
+BIOCRYST PHARMACEUTICALS INC,BCRX,Form 4,Health Care,904717860.0,Company
+GENERAL CABLE CORP /DE/,BGC,Form 4,unknown,,Company
+DONEGAL GROUP INC,DGICA/B,Form 4,unknown,,Company
+ATLANTIC POWER CORP,AT,Form 4,Energy,292888753.2,Company
+USG CORP,USG,Form 4,Capital Goods,6041089146.4,Company
+BRADY CORP,BRC,Form 4,Consumer Durables,2450974182.8,Company
+LAYNE CHRISTENSEN CO,LAYN,Form 4,unknown,,Company
+CHURCH & DWIGHT CO INC /DE/,CHD,Form 4,Basic Industries,16460617358.04,Company
+"Nova Lifestyle, Inc.",STVS,Form 4,unknown,,Company
+NANO PROPRIETARY  INC,NNPP,Form 4,unknown,,Company
+SUFFOLK BANCORP,SUBK,Form 4,unknown,,Company
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,Form 4,Technology,123299868431.36,Company
+KROGER CO,KR,Form 4,Consumer Services,19728185255.55,Company
+CARNIVAL PLC,CUK,Form 4,Consumer Services,39652579044.93,Company
+CARNIVAL CORP,CCL,Form 4,Consumer Services,40319324684.66,Company
+"Batesville Holdings, Inc.",HI,Form 4,Consumer Durables,2723164341.3,Company
+COOPER TIRE & RUBBER CO,CTB,Form 4,Consumer Durables,1447127993.7,Company
+"National Western Life Group, Inc.",NWLI,Form 4,Finance,1026848408.2,Company
+VERIZON COMMUNICATIONS INC,VZ,Form 4,Public Utilities,238253765613.78,Company
+KINGSWAY FINANCIAL SERVICES INC,KFS,Form 4,Finance,49907796.94,Company
+"Home Treasure Finders, Inc.",HMTF,Form 4,unknown,,Company
+CEL SCI CORP,CVM,Form 4,Health Care,89883841.12,Company
+REPUBLIC BANCORP INC /KY/,RBCAA,Form 4,Finance,910405041.65,Company
+TCP International Holdings Ltd.,TCPI,Form 4,unknown,,Company
+REPUBLIC FIRST BANCORP INC,FRBK,Form 4,Finance,351555845.94,Company
+ENPRO INDUSTRIES INC,NPO,Form 4,Basic Industries,1358605179.36,Company
+"QTS Realty Trust, Inc.",QTS,Form 4,Consumer Services,2207135790.2,Company
+DAKTRONICS INC /SD/,DAKT,Form 4,Consumer Durables,347046560.04,Company
+"Actinium Pharmaceuticals, Inc.",ATNM,Form 4,Health Care,66112719.3416,Company
+CLEARSIGN COMBUSTION CORP,CLIR,Form 4,Capital Goods,26299471.8111,Company
+METROPCS COMMUNICATIONS INC,PCS,Form 4,unknown,,Company
+INTREXON CORP,XON,Form 4,Health Care,903102433.54,Company
+"Gevo, Inc.",GEVO,Form 4,Basic Industries,20391421.88,Company
+Mylan N.V.,MYL,Form 4,Health Care,14173145016.62,Company
+BASIC ENERGY SERVICES INC,BAS,Form 4,Energy,118120369.1,Company
+BROWN SHOE CO INC,BWS,Form 4,unknown,,Company
+OIL STATES INTERNATIONAL INC,OIS,Form 4,Energy,972210332.55,Company
+INDEPENDENT BANK CORP /MI/,IBCP,Form 4,Finance,546246846.27,Company
+COMMERCIAL NET LEASE REALTY INC,NNN,Form 4,Consumer Services,8565775200.0,Company
+FULLER H B CO,FUL,Form 4,Basic Industries,2546382251.22,Company
+CITRIX SYSTEMS INC,CTXS,Form 4,Technology,13246349766.48,Company
+F&M BANK CORP,FMBM.OB,Form 4,unknown,,Company
+EQUITY ONE INC,EQY,Form 4,unknown,,Company
+"Carolina Trust BancShares, Inc.",CART,Form 4,Finance,59188282.49,Company
+First Foundation Inc.,FFWM,Form 4,Finance,647053453.02,Company
+TimkenSteel Corp,TMST,Form 4,Basic Industries,503830859.26,Company
+CONNS INC,CONN,Form 4,Consumer Services,745924033.97,Company
+CHICAGO MERCANTILE EXCHANGE HOLDINGS INC,CME,Form 4,Finance,60714405106.59,Company
+OMEGA HEALTHCARE INVESTORS INC,OHI,Form 4,Consumer Services,7478878247.7,Company
+RXi Pharmaceuticals Corp,RXII,Form 4,unknown,,Company
+BankGuam Holding Co,BKGM,Form 4,unknown,,Company
+SELECTA BIOSCIENCES INC,SELB,Form 4,Health Care,47640165.12,Company
+IXIA,XXIA,Form 4,unknown,,Company
+CONSOLIDATED TOMOKA LAND CO,CTO,Form 4,Finance,320565054.85,Company
+US CONCRETE INC,RMIX,Form 4,unknown,,Company
+DISCOVERY PARTNERS INTERNATIONAL INC,DPII,Form 4,unknown,,Company
+HARRIS & HARRIS GROUP INC /NY/,TINY,Form 4,unknown,,Company
+"BLAST ENERGY SERVICES, INC.",BESV.OB,Form 4,unknown,,Company
+INCYTE CORP,INCY,Form 4,Health Care,18206950524.5,Company
+IRIS BIOTECHNOLOGIES INC,IRSB,Form 4,unknown,,Company
+"American Midstream Partners, LP",AMID,Form 4,Public Utilities,214726414.56,Company
+Care.com Inc,CRCM,Form 4,Consumer Services,633565954.56,Company
+CYTOKINETICS INC,CYTK,Form 4,Health Care,386963001.45,Company
+GENESCO INC,GCO,Form 4,Consumer Services,939155221.44,Company
+NEW ENGLAND REALTY ASSOCIATES LIMITED PARTNERSHIP,NEN,Form 4,Consumer Services,243522584.5,Company
+"Cannabis Sativa, Inc.",CBDS,Form 4,unknown,,Company
+Teucrium Commodity Trust,NAGS,Form 4,unknown,,Company
+AMERICAN SOFTWARE INC,AMSWA,Form 4,Technology,361359183.42,Company
+BINGHAM CANYON CORP,BGHM,Form 4,unknown,,Company
+Cell MedX Corp.,CMXC,Form 4,unknown,,Company
+YADKIN VALLEY FINANCIAL CORP,YAVY,Form 4,unknown,,Company
+HERITAGE OAKS BANCORP,HEOP,Form 4,unknown,,Company
+UNION BANKSHARES CORP,UBSH,Form 4,Finance,2853476515.24,Company
+VAN KAMPEN MUNICIPAL OPPORTUNITY TRUST,VMO,Form 4,unknown,,Company
+General Finance CORP,GFN,Form 4,Technology,284912317.4,Company
+STEWARDSHIP FINANCIAL CORP,SSFN.OB,Form 4,unknown,,Company
+Arc Logistics Partners LP,ARCX,Form 4,unknown,,Company
+"Chanticleer Holdings, Inc.",CEEH,Form 4,unknown,,Company
+"Zynerba Pharmaceuticals, Inc.",ZYNE,Form 4,Health Care,107438619.6,Company
+TARGETED GENETICS CORP /WA/,TGEN,Form 4,Capital Goods,96796619.4,Company
+"TerraForm Power, Inc.",TERP,Form 4,Public Utilities,2624728586.0,Company
+"TERRAFORM GLOBAL, INC.",GLBL,Form 4,unknown,,Company
+Searchmedia Holdings Ltd,IDI,Form 4,unknown,,Company
+Facebook Inc,FB,Form 4,Technology,494796211626.0,Company
+APPLE COMPUTER INC,AAPL,Form 4,Technology,856813528800.0,Company
+PAYMENT DATA SYSTEMS INC,PYDS,Form 4,Finance,51102000.0,Company
+ZAP COM CORP,ZPCM,Form 4,unknown,,Company
+STAR GAS PARTNERS LP,"SGU, SGH",Form 4,unknown,,Company
+LOGITECH INTERNATIONAL SA,LOGI,Form 4,Technology,6278670683.76,Company
+FIBROGEN INC,FGEN,Form 4,Health Care,4863366304.44,Company
+Samson Oil & Gas LTD,SSN,Form 4,unknown,,Company
+PRINCIPAL FINANCIAL GROUP INC,PFG,Form 4,Finance,14224612491.46,Company
+LIONS GATE ENTERTAINMENT CORP /CN/,LGF,Form 4,unknown,,Company
+"CNS RESPONSE, INC.",CNSO,Form 4,unknown,,Company
+Brixmor Property Group Inc.,BRX,Form 4,Consumer Services,5264970891.79,Company
+LAKELAND INDUSTRIES INC,LAKE,Form 4,Health Care,90041062.176,Company
+WILSON BANK HOLDING CO,WBHC,Form 4,unknown,,Company
+INCARA INC,INCR,Form 4,unknown,,Company
+RELM WIRELESS CORP,RELM,Form 4,unknown,,Company
+NEWFIELD EXPLORATION CO /DE/,NFX,Form 4,unknown,,Company
+Auto Networks International Corp,TAGS,Form 4,unknown,,Company
+PROVIDENTIAL HOLDINGS INC,PRVH,Form 4,unknown,,Company
+HELMERICH & PAYNE INC,HP,Form 4,Energy,6036985888.68,Company
+FACTSET RESEARCH SYSTEMS INC,FDS,Form 4,Technology,8905624945.8,Company
+UREX ENERGY CORP.,URXE,Form 4,unknown,,Company
+EVEREST RE GROUP LTD,RE,Form 4,Finance,8879807496.51,Company
+OLD LINE BANCSHARES INC,OLBK,Form 4,Finance,464333502.39,Company
+"Summit Midstream Partners, LP",SMLP,Form 4,Public Utilities,737561030.16,Company
+"Corium International, Inc.",CORI,Form 4,unknown,,Company
+NVIDIA CORP,NVDA,Form 4,Technology,102183720000.0,Company
+FLOWERS FOODS INC,FLO,Form 4,unknown,,Company
+"CST Brands, Inc.",CST,Form 4,unknown,,Company
+MENTOR GRAPHICS CORP,MENT,Form 4,unknown,,Company
+ANTARES PHARMA  INC,ANTR,Form 4,unknown,,Company
+PC CONNECTION INC,PCCC,Form 4,unknown,,Company
+ML MACADAMIA ORCHARDS L P,NUT,Form 4,unknown,,Company
+Fortress America Acquisition CORP,FAACW,Form 4,unknown,,Company
+GoDaddy Inc.,GDDY,Form 4,Technology,13227121032.34,Company
+Resolute Energy Corp,REN/REN WS,Form 4,unknown,,Company
+COSTAR GROUP INC,CSGP,Form 4,Miscellaneous,17083149660.85,Company
+ACCESS INTEGRATED TECHNOLOGIES INC,AIX,Form 4,unknown,,Company
+ALMOST FAMILY INC,AFAM,Form 4,unknown,,Company
+"Vivint Solar, Inc.",VSLR,Form 4,Capital Goods,602168448.03,Company
+"Vera Bradley, Inc.",VRA,Form 4,unknown,,Company
+LEUCADIA NATIONAL CORP,LUK,Form 4,unknown,,Company
+COMMUNITY BANK SYSTEM INC,CBU,Form 4,Finance,3181716310.0,Company
+GOLF ROUNDS COM INC,TEEE,Form 4,unknown,,Company
+"CytomX Therapeutics, Inc.",CTMX,Form 4,Health Care,465548430.24,Company
+UNIVEST CORP OF PENNSYLVANIA,UVSP,Form 4,Finance,754210547.5,Company
+SCOTTS COMPANY,SMG,Form 4,Basic Industries,4511635475.49,Company
+CLARCOR INC,CLC,Form 4,unknown,,Company
+PORTFOLIO RECOVERY ASSOCIATES INC,PRAA,Form 4,Finance,1227738400.0,Company
+AMERICAN WOODMARK CORP,AMWD,Form 4,Basic Industries,1355108700.09,Company
+UFP TECHNOLOGIES INC,UFPT,Form 4,Capital Goods,245601525.17,Company
+CSAM INCOME FUND,CIK,Form 4,unknown,,Company
+FIRST TRUST HIGH INCOME LONG/SHORT FUND,FSD,Form 4,unknown,,Company
+HEIDRICK & STRUGGLES INTERNATIONAL INC,HSII,Form 4,Technology,781395599.04,Company
+"Square, Inc.",SQ,Form 4,Technology,32673209584.95,Company
+GORMAN RUPP CO,GRC,Form 4,Capital Goods,899732200.25,Company
+WEST CORP,WSTC,Form 4,unknown,,Company
+SEI CORP,SEIC,Form 4,Finance,7918114209.6,Company
+LANVISION SYSTEMS INC,LANV,Form 4,unknown,,Company
+CREDIT SUISSE HIGH YIELD BOND FUND,DHY,Form 4,unknown,,Company
+Kandi Technologies Corp,KNDI,Form 4,Capital Goods,396925788.24,Company
+COMSTOCK RESOURCES INC,CRK,Form 4,Energy,756978107.6,Company
+MONARCH CASINO & RESORT INC,MCRI,Form 4,Consumer Services,776968750.56,Company
+CENTRAL GARDEN & PET COMPANY,CENT,Form 4,Consumer Durables,1679435327.0,Company
+Castle Brands Inc,ROX,Form 4,unknown,,Company
+Limoneira CO,LMNR,Form 4,unknown,,Company
+PATRIOT NATIONAL BANCORP INC,PNBK,Form 4,Finance,56743879.74,Company
+NEUSTAR INC,NSR,Form 4,unknown,,Company
+"Guidewire Software, Inc.",GWRE,Form 4,Technology,7615529447.82,Company
+CORNERSTONE BANCSHARES INC,CSBQ,Form 4,unknown,,Company
+"SenesTech, Inc.",SNES,Form 4,Basic Industries,26736072.3,Company
+"AtriCure, Inc.",ATRC,Form 4,Health Care,1135394725.17,Company
+Nuveen Floating Rate Income Opportunity Fund,JRO,Form 4,unknown,,Company
+AEP INDUSTRIES INC,AEPI,Form 4,unknown,,Company
+"SAIC Gemini, Inc.",SAIC,Form 4,Technology,4325002582.4,Company
+Clough Global Opportunities Fund,GLO,Form 4,unknown,,Company
+MATRIX SERVICE CO,MTRX,Form 4,Basic Industries,560328120.84,Company
+COSTCO WHOLESALE CORP /NEW,COST,Form 4,Consumer Services,104004599820.0,Company
+PAUL SON GAMING CORP,PSON,Form 4,unknown,,Company
+CHESAPEAKE UTILITIES CORP,CPK,Form 4,Public Utilities,1530764610.66,Company
+DEXCOM INC,DXCM,Form 4,Health Care,13271660561.82,Company
+"NantKwest, Inc.",NK,Form 4,Health Care,95071299.6,Company
+UNIVERSAL TECHNICAL INSTITUTE INC,UTI,Form 4,Consumer Services,82437595.5,Company
+POWER INTEGRATIONS INC,POWI,Form 4,Technology,2059526448.28,Company
+BARRACUDA NETWORKS INC,CUDA,Form 4,unknown,,Company
+Gigamon Inc.,GIMO,Form 4,unknown,,Company
+ST LAWRENCE SEAWAY CORP,STLS.OB,Form 4,unknown,,Company
+"LIFELOCK, INC.",LOCK,Form 4,unknown,,Company
+Fifth Street Finance Corp,FSC,Form 4,unknown,,Company
+NEW RELIC INC,NEWR,Form 4,Technology,5992081167.68,Company
+CECO ENVIRONMENTAL CORP,CECE,Form 4,Capital Goods,271094186.25,Company
+ADVANCED MICRO DEVICES INC,AMD,Form 4,Technology,25257387861.16,Company
+"CVR Refining, LP",CVRR,Form 4,unknown,,Company
+"CVR PARTNERS, LP",UAN,Form 4,Basic Industries,450866232.54,Company
+LATTICE SEMICONDUCTOR CORP,LSCC,Form 4,Technology,1710778316.0,Company
+"HISPANICA INTERNATIONAL DELIGHTS OF AMERICA, INC.",HISP,Form 4,unknown,,Company
+CHARTER COMMUNICATIONS INC /MO/,CHTR,Form 4,Consumer Services,78452421179.04,Company
+METLIFE INC,MET,Form 4,Finance,42790006637.4,Company
+Criteo S.A.,CRTO,Form 4,Technology,1860490639.31,Company
+FERRELLGAS PARTNERS L P,FGP,Form 4,Consumer Services,111725564.75,Company
+Tribune Publishing Co,TPUB,Form 4,unknown,,Company
+FORWARD AIR CORP,FWRD,Form 4,Transportation,1847073752.96,Company
+MUNICIPAL MORTGAGE & EQUITY LLC,MMA,Form 4,unknown,,Company
+LAM RESEARCH CORP,LRCX,Form 4,Technology,26003450496.14,Company
+FLOORING ZONE INC,FZON,Form 4,unknown,,Company
+Allegiant Travel CO,ALGT,Form 4,Transportation,2078925742.22,Company
+BSQUARE CORP /WA,BSQR,Form 4,Miscellaneous,26579951.84,Company
+NEXSTAR BROADCASTING GROUP INC,NXST,Form 4,Consumer Services,4880150422.56,Company
+ESSEX PROPERTY TRUST INC,ESS,Form 4,Consumer Services,18998814265.47,Company
+NTN COMMUNICATIONS INC,NTN,Form 4,Consumer Services,10660091.4,Company
+TELOS CORP,TLSRP,Form 4,unknown,,Company
+CITIZENS INC,CIA,Form 4,Finance,347067068.04,Company
+"Armour Residential REIT, Inc.",ARR,Form 4,Consumer Services,1184573476.86,Company
+OLD SECOND BANCORP INC,OSBC,Form 4,Finance,417861990.3,Company
+HOST MARRIOTT CORP/,HMT,Form 4,unknown,,Company
+SMTC CORP,SMTX,Form 4,Technology,116410692.62,Company
+CLICKNSETTLE COM INC,CLIK,Form 4,unknown,,Company
+RAIT INVESTMENT TRUST,RAS,Form 4,unknown,,Company
+STRYKER CORP,SYK,Form 4,Health Care,71491983770.24,Company
+FELCOR LODGING TRUST INC,FCH,Form 4,unknown,,Company
+UNIVERSAL STAINLESS & ALLOY PRODUCTS INC,USAP,Form 4,Basic Industries,147544183.71,Company
+DORIAN LPG LTD.,LPG,Form 4,Transportation,301819234.77,Company
+NanoString Technologies Inc,NSTG,Form 4,Health Care,829983899.24,Company
+Digimarc CORP,DMRC,Form 4,Technology,365371300.5,Company
+"BofI Holding, Inc.",BOFI,Form 4,unknown,,Company
+GRAY TELEVISION INC,GTN,Form 4,Consumer Services,2291215248.0,Company
+Long Island Iced Tea Corp.,LTEA,Form 4,unknown,,Company
+CLEAN HARBORS INC,CLHB,Form 4,unknown,,Company
+CLEARBRIDGE AMERICAN ENERGY MLP FUND INC.,CBA,Form 4,unknown,,Company
+DCB FINANCIAL CORP,DCBF.OB,Form 4,unknown,,Company
+Eagle Growth & Income Opportunities Fund,EGIF,Form 4,unknown,,Company
+FIRST MIDWEST BANCORP INC,FMBI,Form 4,Finance,2321808669.75,Company
+"AmeriCann, Inc.",ACAN,Form 4,unknown,,Company
+SECURITY NATIONAL FINANCIAL CORP,SNFCA,Form 4,Finance,88891450.36,Company
+MILESTONE SCIENTIFIC INC/NJ,MS,Form 4,Finance,72469680716.47,Company
+"Wizard World, Inc.",WIZD,Form 4,unknown,,Company
+BRYN MAWR BANK CORP,BMTC,Form 4,Finance,777692155.52,Company
+ALLSCRIPTS HEALTHCARE SOLUTIONS INC,MDRX,Form 4,Technology,1809263765.76,Company
+Fifth Street Senior Floating Rate Corp.,FSFR,Form 4,unknown,,Company
+BB&T CORP,(BBT),Form 4,unknown,,Company
+"Forest City Realty Trust, Inc.",FCEA/FCEB,Form 4,unknown,,Company
+Ophthotech Corp.,OPHT,Form 4,Health Care,63789183.92,Company
+ORIENTAL FINANCIAL GROUP INC,OFG,Form 4,Finance,1050497862.53,Company
+Cooper-Standard Holdings Inc.,COSH,Form 4,unknown,,Company
+Flexion Therapeutics Inc,FLXN,Form 4,Health Care,465028359.12,Company
+MICRON TECHNOLOGY INC,MU,Form 4,Technology,43530247593.47,Company
+INGLES MARKETS INC,IMKTA,Form 4,Consumer Services,595434816.64,Company
+"M/A-COM Technology Solutions Holdings, Inc.",MTSI,Form 4,Technology,1216167286.8,Company
+SURMODICS INC,SRDX,Form 4,Health Care,731548241.5,Company
+S Y BANCORP INC,SYI,Form 4,unknown,,Company
+KELLOGG CO,K,Form 4,unknown,,Company
+CELGENE CORP /DE/,CELG,Form 4,Health Care,61315643880.0,Company
+HEALTH & NUTRITION SYSTEMS INTERNATIONAL INC,HNNS,Form 4,unknown,,Company
+Neuberger Berman High Yield Strategies Fund Inc.,NHS,Form 4,unknown,,Company
+MEDICAL INFORMATION TECHNOLOGY INC,NOT PUBLIC,Form 4,unknown,,Company
+STAGE STORES INC,STGS,Form 4,unknown,,Company
+SKECHERS USA INC,SKX,Form 4,unknown,,Company
+FIRST NORTHERN COMMUNITY BANCORP,FNRN,Form 4,unknown,,Company
+DIVALL INSURED INCOME PROPERTIES 2 LIMITED PARTNERSHIP,DIVALL 2LP,Form 4,unknown,,Company
+DEVELOPERS DIVERSIFIED REALTY CORP,DDR,Form 4,unknown,,Company
+Inogen Inc,INGN,Form 4,Health Care,2125643368.8,Company
+Lonestar Resources US Inc.,LONE,Form 4,Energy,106469964.0,Company
+MESA LABORATORIES INC /CO,MLAB,Form 4,Capital Goods,883292550.03,Company
+EZCORP INC,EZPW,Form 4,Consumer Services,529502051.55,Company
+QAD INC,QADI,Form 4,unknown,,Company
+FIRST BUSEY CORP /NV/,BUSE,Form 4,Finance,1465064848.4,Company
+CENTERSTATE BANKS OF FLORIDA INC,CSFL,Form 4,Finance,2456397560.68,Company
+INTERNATIONAL FLAVORS & FRAGRANCES INC,IFF,Form 4,Basic Industries,13376080650.24,Company
+LSI INDUSTRIES INC,LYTS,Form 4,Consumer Durables,77019700.625,Company
+GREENVILLE FIRST BANCSHARES INC,GVBK,Form 4,unknown,,Company
+LEGGETT & PLATT INC,LEG,Form 4,Consumer Durables,5719965060.4,Company
+SUN COMMUNITIES INC,SUI,Form 4,Consumer Services,10137615714.72,Company
+MONEY4GOLD HOLDINGS INC,MFGD :OB,Form 4,unknown,,Company
+STAMPS COM INC,STMP,Form 4,Miscellaneous,1585702701.89,Company
+"ADURO BIOTECH, INC.",ADRO,Form 4,Health Care,314851636.25,Company
+"Scripps Networks Interactive, Inc.",SNI,Form 4,unknown,,Company
+WORTHINGTON INDUSTRIES INC,WOR,Form 4,Capital Goods,2147238844.05,Company
+"ORMAT TECHNOLOGIES, INC.",ORA,Form 4,Public Utilities,2793182765.66,Company
+CU Bancorp,CUNB,Form 4,unknown,,Company
+GLOBAL CASINOS INC,GBCS,Form 4,unknown,,Company
+"Atara Biotherapeutics, Inc.",ATRA,Form 4,Health Care,1876471357.05,Company
+XOMA LTD /DE/,XOMA,Form 4,Health Care,130400631.09,Company
+HAWAIIAN HOLDINGS  INC,HA,Form 4,Transportation,1306421647.9,Company
+SL GREEN REALTY CORP,SLG,Form 4,Consumer Services,7709874613.48,Company
+CRISPR Therapeutics AG,CRSP,Form 4,Health Care,2061367554.81,Company
+PROOFPOINT INC,PFPT,Form 4,Technology,6715012501.44,Company
+EASTMAN KODAK CO,EK,Form 4,unknown,,Company
+HOLLY CORP,HOC,Form 4,unknown,,Company
+"RigNet, Inc.",RNET,Form 4,Consumer Services,293113151.7,Company
+MBIA CAPITAL CLAYMORE MAN DUR INV GRD MUNI FUND,MZF,Form 4,unknown,,Company
+Sears Holdings CORP,SHLD,Form 4,unknown,,Company
+SIX FLAGS INC,PKS,Form 4,unknown,,Company
+NEOGENOMICS INC,NGNM.OB,Form 4,unknown,,Company
+IMAGE SENSING SYSTEMS INC,ISNS,Form 4,Capital Goods,26369365.0,Company
+FREDS INC,FRED,Form 4,Consumer Services,120220110.45,Company
+ESPEY MFG & ELECTRONICS CORP,ESP,Form 4,Capital Goods,59378294.25,Company
+II-VI INC,IIVI,Form 4,Capital Goods,2518019848.32,Company
+CERAMICS PROCESS SYSTEMS CORP/DE/,CPSX,Form 4,unknown,,Company
+DIME COMMUNITY BANCSHARES INC,DCOM,Form 4,Finance,719693462.88,Company
+Noble Corp / Switzerland,NE,Form 4,Energy,721242617.9,Company
+ORRSTOWN FINANCIAL SERVICES INC,ORRF,Form 4,Finance,183253600.32,Company
+PRECISION OPTICS CORPORATION INC,POCI,Form 4,unknown,,Company
+"GRAN TIERRA ENERGY, INC.",GTRE.OB,Form 4,unknown,,Company
+PROSPERITY BANCSHARES INC,PRSP,Form 4,Technology,3360508578.9,Company
+"Keysight Technologies, Inc.",KEYS,Form 4,Capital Goods,15830530363.83,Company
+CISCO SYSTEMS INC,CSCO,Form 4,Technology,231502637584.44,Company
+Seritage Growth Properties,SRG,Form 4,Finance,2592967814.64,Company
+STONE ENERGY CORP,SGY,Form 4,unknown,,Company
+Ultragenyx Pharmaceutical Inc.,RARE,Form 4,Health Care,3483892406.52,Company
+NEUROCRINE BIOSCIENCES INC,NBIX,Form 4,Health Care,7622628939.31,Company
+BINGO.COM LTD.,BNGOF,Form 4,unknown,,Company
+ROYAL GOLD INC,RGLD,Form 4,Basic Industries,6002662042.8,Company
+MUNICIPAL HIGH INCOME FUND INC,MHF,Form 4,unknown,,Company
+MASSMUTUAL CORPORATE INVESTORS,MCI,Form 4,unknown,,Company
+"ProtoKinetix, Inc.",PKTX,Form 4,unknown,,Company
+PACIFIC BIOMETRICS INC,PBME,Form 4,unknown,,Company
+FIDELITY SOUTHERN CORP,LION,Form 4,Finance,829303761.6,Company
+HUMANA INC,HUM,Form 4,Health Care,38389552099.47,Company
+TAUBMAN CENTERS INC,TCO,Form 4,Consumer Services,3218699896.72,Company
+DNB FINANCIAL CORP /PA/,DNBF.OB,Form 4,unknown,,Company
+FEDEX CORP,FDX,Form 4,Transportation,46865161996.25,Company
+"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",SPWH,Form 4,Consumer Services,243890026.8,Company
+HAMPTON ROADS BANKSHARES INC,HMPR,Form 4,unknown,,Company
+OCEANFIRST FINANCIAL CORP,(OCFC),Form 4,unknown,,Company
+SUMMIT FINANCIAL GROUP INC,SMMF,Form 4,Finance,333157946.36,Company
+UNITED THERAPEUTICS CORP,UTHR,Form 4,Health Care,5052564704.16,Company
+Baoshinn Corp,BHNN,Form 4,unknown,,Company
+LAKELAND BANCORP INC,LBA,Form 4,unknown,,Company
+ACHILLION PHARMACEUTICALS INC,ACHN,Form 4,Health Care,421695652.0,Company
+FIRST MID ILLINOIS BANCSHARES INC,FMBH.OB,Form 4,unknown,,Company
+"Boardwalk Pipeline Partners, LP",BWP,Form 4,unknown,,Company
+Canterbury Park Holding Corp,CPHC,Form 4,Consumer Services,65147428.8,Company
+CADENCE DESIGN SYSTEMS INC,CDN,Form 4,unknown,,Company
+MAGNEGAS CORP,MNGA,Form 4,unknown,,Company
+UNITEDHEALTH GROUP INC,UNH,Form 4,Health Care,242043590408.75,Company
+"ServiceNow, Inc.",NOW,Form 4,Technology,43390395000.0,Company
+TRUPANION INC.,TRUP,Form 4,Health Care,1017618471.48,Company
+Terra Tech Corp.,TRTC,Form 4,unknown,,Company
+VERINT SYSTEMS INC,VRNT,Form 4,Technology,3430677818.88,Company
+WebMD Health Corp.,WBMD,Form 4,unknown,,Company
+POWELL INDUSTRIES INC,POWL,Form 4,Consumer Durables,356429392.74,Company
+CVD EQUIPMENT CORP,CVV,Form 4,Technology,26550657.12,Company
+FXCM Inc.,FXCM,Form 4,unknown,,Company
+HONEYWELL INTERNATIONAL INC,HON,Form 4,Capital Goods,113037476385.6,Company
+"Dolby Laboratories, Inc.",DLB,Form 4,Miscellaneous,6639301589.9,Company
+BOX INC,BOX,Form 4,Technology,2858800910.0,Company
+AeroVironment Inc,AVAV,Form 4,Capital Goods,1888025537.09,Company
+"PENNYMAC FINANCIAL SERVICES, INC.",PFSI,Form 4,Finance,1768566849.15,Company
+PURE BIOSCIENCE,PURE,Form 4,unknown,,Company
+CMGI INC,CMGI,Form 4,unknown,,Company
+Rocket Fuel Inc.,FUEL,Form 4,unknown,,Company
+SEACOR SMIT INC,CKH,Form 4,Transportation,778005555.01,Company
+IMPERVA INC,IMPV,Form 4,unknown,,Company
+EXA CORP,EXA,Form 4,unknown,,Company
+INTERSIL CORP/DE,ISIL,Form 4,unknown,,Company
+COPART INC,CPRT,Form 4,Consumer Durables,13617046411.02,Company
+VICAL INC,VICL,Form 4,Health Care,25966032.05,Company
+SOUTHWEST BANCORP INC,OKSB,Form 4,unknown,,Company
+AIR T INC,AIRT,Form 4,Transportation,61539662.4,Company
+"Atlantic Capital Bancshares, Inc.",ACBI,Form 4,Finance,477483110.72,Company
+First American Financial Corp,FAF,Form 4,Finance,5622859679.32,Company
+"Kite Pharma, Inc.",KITE,Form 4,unknown,,Company
+VONAGE HOLDINGS CORP,VG,Form 4,Public Utilities,2439418151.25,Company
+"HSN, Inc.",HSNI,Form 4,unknown,,Company
+"IntercontinentalExchange Group, Inc.",ICE,Form 4,Finance,42097282527.8,Company
+ORACLE CORP,ORCL,Form 4,Technology,190428042140.0,Company
+Duke Energy CORP,DUK,Form 4,Public Utilities,65838105473.92,Company
+BUCKEYE PARTNERS L P,BPL,Form 4,Energy,5198340594.2,Company
+BALL CORP,BLL,Form 4,Consumer Durables,19094050318.75,Company
+AVX CORP,AVX,Form 4,Capital Goods,3051899950.08,Company
+WIDEPOINT CORP,WDPT,Form 4,unknown,,Company
+ISRAMCO INC,ISRL,Form 4,Energy,279944920.48,Company
+NATIONAL HEALTHCARE CORP,NHC,Form 4,Health Care,1230847706.28,Company
+NUVEEN FLOATING RATE INCOME FUND,JFR,Form 4,unknown,,Company
+INPUT OUTPUT INC,IO,Form 4,Energy,212056254.95,Company
+"A-Mark Precious Metals, Inc.",AMRK,Form 4,Basic Industries,85396960.25,Company
+ClearBridge Energy MLP Opportunity Fund Inc.,EMO,Form 4,unknown,,Company
+EBIX COM INC,EBIX,Form 4,Technology,1552663955.96,Company
+aTYR PHARMA INC,LIFE,Form 4,Health Care,13684730.8994,Company
+ClearBridge Energy MLP Total Return Fund Inc.,CTR,Form 4,unknown,,Company
+GREENE COUNTY BANCORP INC,GCBC,Form 4,Finance,262879293.06,Company
+TUBEMOGUL INC,TUBE,Form 4,unknown,,Company
+CODORUS VALLEY BANCORP INC,CVLY,Form 4,Finance,203854014.04,Company
+KOHLS CORPORATION,KSS,Form 4,Consumer Services,11326223556.89,Company
+FISERV INC,FISV,Form 4,Technology,33707806463.68,Company
+REALNETWORKS INC,RNWK,Form 4,Technology,126056484.0,Company
+VIASAT INC,VSAT,Form 4,Technology,4553634291.27,Company
+SCIENTIFIC GAMES CORP,SGMS,Form 4,Technology,2084823693.6,Company
+URSTADT BIDDLE PROPERTIES INC,UBA,Form 4,Consumer Services,847322606.25,Company
+PC MALL INC,MALL,Form 4,unknown,,Company
+Legg Mason BW Global Income Opportunities Fund Inc.,BWG,Form 4,unknown,,Company
+TEREX CORP,TEX,Form 4,Capital Goods,2352768000.0,Company
+"Ares Dynamic Credit Allocation Fund, Inc.",ARDC,Form 4,unknown,,Company
+ClearBridge Energy MLP Fund Inc.,CEM,Form 4,unknown,,Company
+"Wheeler Real Estate Investment Trust, Inc.",WHLR,Form 4,Consumer Services,16282697.76,Company
+CIGNA CORP,CI,Form 4,Health Care,63849906456.0,Company
+GREIF INC,"GEF,GEF.B",Form 4,unknown,,Company
+FIRST NATIONAL CORP /VA/,FXNC,Form 4,unknown,,Company
+Newtek Business Services Corp.,NEWT,Form 4,unknown,,Company
+MISONIX INC,MSON,Form 4,Capital Goods,184555582.75,Company
+SCYNEXIS INC,SCYX,Form 4,Health Care,60444307.98,Company
+Independence Energy Corp.,IDNG,Form 4,unknown,,Company
+Blackstone Group L.P.,BX,Form 4,Finance,40950388504.96,Company
+SAFETY INSURANCE GROUP INC,SAFT,Form 4,Finance,1321982487.12,Company
+Bazaarvoice Inc,BV,Form 4,unknown,,Company
+Terrapin 3 Acquisition Corp,TRTL,Form 4,unknown,,Company
+"2U, Inc.",TWOU,Form 4,Technology,4018183944.6,Company
+ODYSSEY MARINE EXPLORATION INC,OMEX,Form 4,Consumer Services,64993384.81,Company
+"Arista Networks, Inc.",ANET,Form 4,Technology,22152037661.23,Company
+ACADIA PHARMACEUTICALS INC,ACAD,Form 4,Health Care,3939499591.78,Company
+"Rexford Industrial Realty, Inc.",NSYE: REXR,Form 4,unknown,,Company
+ALIGN TECHNOLOGY INC,ALGN,Form 4,Health Care,20167714059.11,Company
+AMKOR TECHNOLOGY INC,AMKR,Form 4,Technology,2057928067.06,Company
+BEBE STORES INC,BEBE,Form 4,unknown,,Company
+BOEING CO,BA,Form 4,Capital Goods,213078484008.26,Company
+LA-Z-BOY INC,LZB,Form 4,Consumer Durables,1593887836.8,Company
+National Bank Holdings Corp,NBHC,Form 4,Finance,1058281468.65,Company
+OptimizeRx Corp,OPRX,Form 4,Miscellaneous,179375408.2,Company
+Omnitek Engineering Corp,OMTK,Form 4,unknown,,Company
+Novocure Ltd,NVCR,Form 4,Health Care,4883671769.08,Company
+"Care Capital Properties, Inc.",CCP,Form 4,unknown,,Company
+BankFinancial CORP,BFIN,Form 4,Finance,255916799.6,Company
+UNITED TRUST GROUP INC,UTGI.OB,Form 4,unknown,,Company
+HARMAN INTERNATIONAL INDUSTRIES INC /DE/,HAR,Form 4,unknown,,Company
+"MCBC Holdings, Inc.",MCFT,Form 4,Capital Goods,441978487.2,Company
+MENS WEARHOUSE INC,MW,Form 4,unknown,,Company
+HAVERTY FURNITURE COMPANIES INC,HVT,Form 4,Consumer Services,488965729.16,Company
+Zumiez Inc,ZUMZ,Form 4,Consumer Services,646695012.02,Company
+LIGHTPATH TECHNOLOGIES INC,LPTH,Form 4,Technology,45170359.5,Company
+EASTERN CO,EML,Form 4,Capital Goods,170394121.24,Company
+OOMA INC,OOMA,Form 4,Technology,311349000.0,Company
+Blueprint Medicines Corp,BPMC,Form 4,Health Care,3759476322.25,Company
+"Match Group, Inc.",MTCH,Form 4,Technology,14885878942.44,Company
+Ascent Media CORP,ASCMA,Form 4,Consumer Services,8127375.6672,Company
+AMERICAN REAL ESTATE PARTNERS L P,ACP,Form 4,unknown,,Company
+GLYCOMIMETICS INC,GLYC,Form 4,Health Care,507235385.75,Company
+VILLAGE SUPER MARKET INC,VLGEA,Form 4,Consumer Services,414473640.36,Company
+TOLL BROTHERS INC,TOL,Form 4,Capital Goods,5214436200.0,Company
+AMERISERV FINANCIAL INC /PA/,ASRV,Form 4,Finance,72591528.36,Company
+"Allegiance Bancshares, Inc.",ABTX,Form 4,Finance,792322023.9,Company
+LYDALL INC /DE/,LDL,Form 4,Capital Goods,420923789.98,Company
+STANLEY WORKS,SWK,Form 4,Capital Goods,20216753020.73,Company
+CARMIKE CINEMAS INC,CKEC,Form 4,unknown,,Company
+FISION Corp,FSSN,Form 4,unknown,,Company
+ABBOTT LABORATORIES,ABT,Form 4,Health Care,138093692548.78,Company
+REEDS INC,REEDR,Form 4,unknown,,Company
+MICROCHIP TECHNOLOGY INC,MCHP,Form 4,Technology,20156579142.18,Company
+PURADYN FILTER TECHNOLOGIES INC,PFT,Form 4,unknown,,Company
+SUMMER ENERGY HOLDINGS INC,SUME,Form 4,unknown,,Company
+VSE CORP,VSEC,Form 4,Consumer Services,357354752.72,Company
+ACNB CORP,ACNB,Form 4,Finance,263802988.8,Company
+BRIGGS & STRATTON CORP,BGG,Form 4,Energy,536839655.25,Company
+QUANTA SERVICES INC,PWR,Form 4,Capital Goods,5176471844.06,Company
+Ladder Capital Corp,LADR,Form 4,Consumer Services,2024417484.6,Company
+ALPHA PRO TECH LTD,APT,Form 4,Health Care,51225700.64,Company
+"Rocky Mountain Chocolate Factory, Inc.",RMCF,Form 4,unknown,,Company
+"Cinemark Holdings, Inc.",CNK,Form 4,Consumer Services,4696059520.44,Company
+FIRSTENERGY CORP,FE,Form 4,Public Utilities,22064933523.5,Company
+EMC INSURANCE GROUP INC,EMCI,Form 4,Finance,691201306.98,Company
+YORK WATER CO,YORW,Form 4,Public Utilities,443042680.02,Company
+Energy Services Acquisition Corp.,ESA,Form 4,unknown,,Company
+OLD POINT FINANCIAL CORP,OPOF,Form 4,Finance,115350430.25,Company
+CORE MOLDING TECHNOLOGIES INC,CMT,Form 4,unknown,,Company
+W&T OFFSHORE INC,WTI,Form 4,Energy,817141831.73,Company
+CAREY W P & CO LLC,WPC,Form 4,Consumer Services,12741208325.0,Company
+HALLADOR PETROLEUM CO,HPCO,Form 4,unknown,,Company
+EPICEPT CORP,EPCT,Form 4,unknown,,Company
+HEALTHEQUITY INC,HQY,Form 4,Miscellaneous,5036634745.74,Company
+Rice Midstream Partners LP,RMP,Form 4,unknown,,Company
+"Alphatec Holdings, Inc.",ATEC,Form 4,Health Care,116674036.2,Company
+INTEGRATED DEVICE TECHNOLOGY INC,IDTI,Form 4,Technology,6250848522.0,Company
+COBIZ INC,COBZ,Form 4,unknown,,Company
+"Extended Stay America, Inc.",STAY,Form 4,Consumer Services,3406952882.1,Company
+AFLAC INC,AFL,Form 4,Finance,37058916001.25,Company
+TECHNOLOGY INVESTMENT CAPITAL CORP,TICC,Form 4,unknown,,Company
+"Orexigen Therapeutics, Inc.",OREX,Form 4,unknown,,Company
+BANK OF SOUTH CAROLINA CORP,BKSC,Form 4,Finance,102754044.45,Company
+"ARDELYX, INC.",ARDX,Form 4,Health Care,203448937.25,Company
+"Bravo Brio Restaurant Group, Inc.",BBRG,Form 4,unknown,,Company
+SEATTLE GENETICS INC /WA,SGEN,Form 4,Health Care,11728998143.7,Company
+"Five9, Inc.",FIVN,Form 4,Technology,3226328463.6,Company
+NISOURCE INC/DE,NI,Form 4,Public Utilities,10422392332.7,Company
+"Aclaris Therapeutics, Inc.",ACRS,Form 4,Health Care,242751612.63,Company
+ISIS PHARMACEUTICALS INC,ISIS,Form 4,unknown,,Company
+SEACHANGE INTERNATIONAL INC,SEAC,Form 4,Technology,51895942.67,Company
+MOBILE MINI INC,MINI,Form 4,Capital Goods,1613076191.1,Company
+NAVIGANT CONSULTING INC,NCI,Form 4,Consumer Services,811611513.88,Company
+ELECTRONIC ARTS INC,ERTS,Form 4,unknown,,Company
+"Surgical Care Affiliates, Inc.",SCAI,Form 4,unknown,,Company
+Nobilis Health Corp.,HLTH,Form 4,Health Care,30689833.9418,Company
+"Malibu Boats, Inc.",MBUU,Form 4,Capital Goods,924937251.07,Company
+Quanex Building Products CORP,NX,Form 4,Capital Goods,510374469.57,Company
+AMEDISYS INC,AMED,Form 4,Health Care,3913258197.0,Company
+CAPITAL SENIOR LIVING CORP,HU*4MEKH,Form 4,unknown,,Company
+REDWOOD TRUST INC,RWT,Form 4,Consumer Services,1536096249.3,Company
+"Global Blood Therapeutics, Inc.",GBT,Form 4,Health Care,2991838291.84,Company
+AMERICAN EQUITY INVESTMENT LIFE HOLDING CO,AEL,Form 4,Finance,2706024480.9,Company
+ST JUDE MEDICAL INC,STJ,Form 4,unknown,,Company
+GARMIN LTD,GRMN,Form 4,Capital Goods,15903391426.92,Company
+METHODE ELECTRONICS INC,METHA,Form 4,unknown,,Company
+LEE ENTERPRISES INC,LEE ENT,Form 4,unknown,,Company
+TORO CO,TTC,Form 4,Capital Goods,7165633623.75,Company
+"Eagle Bancorp Montana, Inc.",EBMT,Form 4,Finance,111735923.92,Company
+"LHC Group, Inc",LHCG,Form 4,Health Care,3468497525.24,Company
+ASSOCIATED BANC-CORP,ASBC,Form 4,unknown,,Company
+BE AEROSPACE INC,BEAV,Form 4,unknown,,Company
+PATTERSON UTI ENERGY INC,PTEN,Form 4,Energy,2974046586.24,Company
+"Core-Mark Holding Company, Inc.",CORE,Form 4,unknown,,Company
+REATA PHARMACEUTICALS INC,RETA,Form 4,Health Care,0.0,Company
+KLX Inc.,KLXI,Form 4,unknown,,Company
+STIFEL FINANCIAL CORP,SF,Form 4,Finance,3925294004.87,Company
+"Z3 ENTERPRISES, INC.",BIBB,Form 4,unknown,,Company
+PUBLIC SERVICE ENTERPRISE GROUP INC,PEG,Form 4,Public Utilities,30052522387.36,Company
+FIRST MERCHANTS CORP,FRME,Form 4,Finance,1964544863.04,Company
+CYTRX CORP,CYTR,Form 4,Health Care,23048415.6852,Company
+"Alarm.com Holdings, Inc.",ALRM,Form 4,Technology,2936711611.65,Company
+CROWN CRAFTS INC,CRWS.OB,Form 4,unknown,,Company
+PRO DEX INC,PDEX,Form 4,Health Care,58004548.0,Company
+DIGI INTERNATIONAL INC,DGII,Form 4,Technology,355347038.52,Company
+HERSHA HOSPITALITY TRUST,HT,Form 4,Consumer Services,706504684.56,Company
+SEMTECH CORP,SMTC,Form 4,Technology,3652393839.0,Company
+KELLY SERVICES INC,KELYA,Form 4,Technology,866458484.88,Company
+Quintiles Transnational Holdings Inc.,Q,Form 4,unknown,,Company
+Zoetis Inc.,ZTS,Form 4,Health Care,46407361720.95,Company
+LEVEL 3 COMMUNICATIONS INC,LVLT,Form 4,unknown,,Company
+VALERO GP HOLDINGS LLC,VEH,Form 4,unknown,,Company
+PARK OHIO HOLDINGS CORP,PKOH,Form 4,Capital Goods,417683816.78,Company
+"Bankwell Financial Group, Inc.",BWFG,Form 4,Finance,231720811.92,Company
+COMMERCE BANCSHARES INC /MO/,CBSH,Form 4,Finance,6726011581.85,Company
+VALERO L P,VLI,Form 4,unknown,,Company
+MUNIHOLDINGS NEW JERSEY INSURED FUND INC,MUJ,Form 4,unknown,,Company
+GERMAN AMERICAN BANCORP,GABC,Form 4,Finance,761507469.0,Company
+POTLATCH CORP,PCH,Form 4,Consumer Services,2532750387.12,Company
+Spectra Energy Corp.,SE,Form 4,Consumer Services,7884419811.84,Company
+"Black Knight Financial Services, Inc.",BKFS,Form 4,unknown,,Company
+QUICKLOGIC CORPORATION,QUIK,Form 4,Technology,68537540.88,Company
+"Neurotrope, Inc.",NTRP,Form 4,Health Care,52206374.8,Company
+CLEAN DIESEL TECHNOLOGIES INC,CDTI,Form 4,unknown,,Company
+"NewStar Financial, Inc.",NEWS,Form 4,unknown,,Company
+AMB PROPERTY CORP,AMB,Form 4,unknown,,Company
+TORVEC INC,TOVC,Form 4,unknown,,Company
+OLD NATIONAL BANCORP /IN/,ONB,Form 4,Finance,3014756501.84,Company
+BLONDER TONGUE LABORATORIES INC,BDR,Form 4,Technology,11166970.23,Company
+DORCHESTER MINERALS LP,DMLP,Form 4,Energy,593302246.12,Company
+ARRHYTHMIA RESEARCH TECHNOLOGY INC /DE/,HRT,Form 4,unknown,,Company
+"OXYGEN BIOTHERAPEUTICS, INC.",OXBT,Form 4,unknown,,Company
+DOR BIOPHARMA INC,DOR,Form 4,unknown,,Company
+ZEBRA TECHNOLOGIES CORP/DE,ZBRA,Form 4,Technology,11395226230.41,Company
+"Calithera Biosciences, Inc.",CALA,Form 4,Health Care,248172890.22,Company
+Chesapeake Lodging Trust,CHSP,Form 4,Consumer Services,1791340054.24,Company
+CONSOLIDATED WATER CO LTD,CWCO,Form 4,Public Utilities,197079580.77,Company
+WildHorse Resource Development Corp,WRD,Form 4,unknown,,Company
+OM Asset Management plc,OMAM,Form 4,unknown,,Company
+"Spark Therapeutics, Inc.",ONCE,Form 4,Health Care,4325690723.84,Company
+INTERMOLECULAR INC,IMI,Form 4,Technology,47021521.68,Company
+PACIFIC PREMIER BANCORP INC,PPBI,Form 4,Finance,1763660457.94,Company
+"Expedia, Inc.",EXPE,Form 4,Consumer Services,17733487825.92,Company
+CSRA Inc.,CSRA,Form 4,unknown,,Company
+EBAY INC,EBAY,Form 4,Miscellaneous,33356541243.46,Company
+LINCOLN EDUCATIONAL SERVICES CORP,LINC,Form 4,Consumer Services,72446868.48,Company
+"KAR Auction Services, Inc.",KAR,Form 4,Consumer Durables,6529428832.15,Company
+LITTLE SQUAW GOLD MINING CO,LITS,Form 4,unknown,,Company
+"Teladoc, Inc.",TDOC,Form 4,Health Care,4256621696.7,Company
+ZYNGA INC,ZNGA,Form 4,Technology,4970718627.99,Company
+Reign Sapphire Corp,RGNP,Form 4,unknown,,Company
+CENTRAL FEDERAL CORP,GCFC,Form 4,unknown,,Company
+OFFICE DEPOT INC,ODP,Form 4,Consumer Services,1915059850.86,Company
+"MW Bancorp, Inc.",MWBC,Form 4,unknown,,Company
+PRIMEDEX HEALTH SYSTEMS INC,PMDX,Form 4,unknown,,Company
+UNITED MOBILE HOMES INC,UMH,Form 4,Consumer Services,522728370.12,Company
+"Inovalon Holdings, Inc.",INOV,Form 4,Technology,1957033164.26,Company
+JUMPTV INC,JTV.TO,Form 4,unknown,,Company
+ARTESIAN RESOURCES CORP,ARTNA,Form 4,Public Utilities,368925574.5,Company
+GIGAMEDIA LTD,GIGM,Form 4,Technology,30283123.9,Company
+"PayPal Holdings, Inc.",PYPL,Form 4,Miscellaneous,116511422236.77,Company
+National General Holdings Corp.,NGHC,Form 4,Finance,2704085124.3,Company
+ENTERCOM COMMUNICATIONS CORP,ETM,Form 4,Consumer Services,852077870.84,Company
+ESTERLINE TECHNOLOGIES CORP,ESL,Form 4,Capital Goods,3637034080.02,Company
+JOINT Corp,JYNT,Form 4,Miscellaneous,192395420.0,Company
+EXACTECH INC,EXAC,Form 4,unknown,,Company
+"Action Fashions, Ltd.",AFSN,Form 4,unknown,,Company
+LIBERTY MEDIA CORP,LINT; LCAP,Form 4,unknown,,Company
+"Liberty Expedia Holdings, Inc.",LEXEA,Form 4,Consumer Services,2495992109.1,Company
+FLUSHING FINANCIAL CORP,FFIC,Form 4,Finance,639285333.12,Company
+Park Sterling Corp,PSTB,Form 4,unknown,,Company
+ECHOSTAR COMMUNICATIONS CORP,DISH,Form 4,Consumer Services,15136052737.75,Company
+SYNOPSYS INC,SNPS,Form 4,Technology,16025657537.12,Company
+INTERNATIONAL ASSETS HOLDING CORP,IAAC,Form 4,unknown,,Company
+"ESSA Bancorp, Inc.",ESSA,Form 4,Finance,188880627.72,Company
+BTHC VI Inc,BVIC,Form 4,unknown,,Company
+ID SYSTEMS INC,IDSY,Form 4,Consumer Durables,113791954.64,Company
+"RetailMeNot, Inc.",SALE,Form 4,unknown,,Company
+Hewlett Packard Enterprise Co,HPE,Form 4,Technology,21268271014.24,Company
+"PROTEOSTASIS THERAPEUTICS, INC.",PTI,Form 4,Health Care,207224896.9,Company
+INTERNATIONAL MONETARY SYSTEMS LTD /WI/,INLM,Form 4,unknown,,Company
+HANCOCK HOLDING CO,HBHC,Form 4,unknown,,Company
+"Recro Pharma, Inc.",REPH,Form 4,Health Care,198167595.18,Company
+Sabre Corp,SABR,Form 4,Technology,5912838519.76,Company
+REX ENERGY CORP,REXX,Form 4,unknown,,Company
+EQUITY RESIDENTIAL,EQR,Form 4,Consumer Services,27711736688.13,Company
+National Storage Affiliates Trust,NSA,Form 4,Consumer Services,1613668936.86,Company
+CITIZENS BANCSHARES CORP,CZBS,Form 4,unknown,,Company
+Oritani Financial Corp,ORIT,Form 4,Finance,789496209.45,Company
+"SemGroup Energy Partners, L.P.",SGLP,Form 4,unknown,,Company
+HERCULES TECHNOLOGY GROWTH CAPITAL INC,HTGC,Form 4,unknown,,Company
+ON SEMICONDUCTOR CORP,ONNN,Form 4,unknown,,Company
+BCB BANCORP INC,BCBP,Form 4,Finance,219234297.12,Company
+EASTGROUP PROPERTIES INC,EGP,Form 4,Consumer Services,3989014079.4,Company
+BANKATLANTIC BANCORP INC,BBX,Form 4,Finance,600679983.15,Company
+LILLY ELI & CO,LLY,Form 4,Health Care,128712881442.22,Company
+PRUDENTIAL FINANCIAL INC,(PRU),Form 4,unknown,,Company
+SMITH & WESSON HOLDING CORP,SWB,Form 4,unknown,,Company
+"Liberty TripAdvisor Holdings, Inc.",LTRPA,Form 4,Technology,1084107259.2,Company
+USA TRUCK INC,USAK,Form 4,Transportation,133532116.95,Company
+"Sino-Global Shipping America, Ltd.",SINO,Form 4,Transportation,13872065.1597,Company
+CyrusOne Inc.,CONE,Form 4,Consumer Services,5667296772.3,Company
+NEWCASTLE INVESTMENT CORP,NCT,Form 4,unknown,,Company
+Atkore International Group Inc.,ATKR,Form 4,Miscellaneous,1011110557.29,Company
+SYNTEL INC,SYNT,Form 4,unknown,,Company
+COMMUNITY WEST BANCSHARES /,CWBC,Form 4,Finance,84123601.12,Company
+PEOPLES FINANCIAL CORP /MS/,PFBX,Form 4,unknown,,Company
+FINISAR CORP,(FNSR),Form 4,unknown,,Company
+ROYALE ENERGY INC,ROYL,Form 4,unknown,,Company
+XENOMICS INC,XNOM.PK,Form 4,unknown,,Company
+Paramount Gold Nevada Corp.,PZG,Form 4,Basic Industries,24398357.68,Company
+CSX CORP,CSX,Form 4,Transportation,60332178173.02,Company
+"HomeStreet, Inc.",HMST,Form 4,Finance,736101782.5,Company
+MAXIMUS INC,MMS,Form 4,Miscellaneous,4551985730.3,Company
+PACKAGING CORP OF AMERICA,PKG,Form 4,Consumer Durables,9549758685.8,Company
+DOLLAR GENERAL CORP,DG,Form 4,Consumer Services,31724881065.08,Company
+MCCORMICK & CO INC,MKC,Form 4,unknown,,Company
+Univar Inc.,UNVR,Form 4,Consumer Durables,3886870059.3,Company
+ENTERPRISE FINANCIAL SERVICES CORP,EFSC,Form 4,Finance,1163456672.04,Company
+BALDWIN & LYONS INC,BWINA / B,Form 4,unknown,,Company
+BOSTON BEER CO INC,SAM,Form 4,unknown,,Company
+NATIONAL BANKSHARES INC,NKSH,Form 4,Finance,290843313.2,Company
+HOLLY ENERGY PARTNERS LP,HEP,Form 4,Energy,2998719316.44,Company
+OMEROS CORP,OMER,Form 4,Health Care,778796469.15,Company
+PFIZER INC,PFE,Form 4,Health Care,233231319227.9,Company
+"Kadmon Holdings, LLC",KDMN,Form 4,Health Care,368037613.8,Company
+XILINX INC,XLNX,Form 4,Technology,31121437612.35,Company
+"Acadia Healthcare Company, Inc.",ACHC,Form 4,Health Care,2658961057.5,Company
+BROCADE COMMUNICATIONS SYSTEMS INC,BRCD,Form 4,unknown,,Company
+NCI BUILDING SYSTEMS INC,NCS,Form 4,Capital Goods,830650186.58,Company
+ARCH CAPITAL GROUP LTD,ACGL,Form 4,Finance,13050011901.4,Company
+FEMALE HEALTH CO,FHCO,Form 4,unknown,,Company
+ALBANY INTERNATIONAL CORP /DE/,AIN,Form 4,Basic Industries,2353138011.51,Company
+ATMOS ENERGY CORP,ATO,Form 4,Public Utilities,11900433049.26,Company
+GENESIS ENERGY LP,GEL,Form 4,Energy,2775193495.52,Company
+"AYTU BIOSCIENCE, INC",AYTU,Form 4,Health Care,20426913.4,Company
+AIRGAIN INC,AIRG,Form 4,Technology,127887104.88,Company
+AMBARELLA INC,AMBA,Form 4,Technology,1402872751.47,Company
+TYLER TECHNOLOGIES INC,TYL,Form 4,Technology,7721400520.0,Company
+"AeroGrow International, Inc.",AERO,Form 4,unknown,,Company
+TITAN INTERNATIONAL INC,TWI,Form 4,Basic Industries,274554452.46,Company
+STARBUCKS CORP,SBUX,Form 4,Consumer Services,87176360000.0,Company
+"Consolidated Communications Holdings, Inc.",CNSL,Form 4,Public Utilities,747466660.5,Company
+"Echo Global Logistics, Inc.",ECHO,Form 4,Transportation,666244524.85,Company
+PATRICK INDUSTRIES INC,PATK,Form 4,Basic Industries,1081640455.93,Company
+InvenSense Inc,INVN,Form 4,unknown,,Company
+SUNESIS PHARMACEUTICALS INC,SNSS,Form 4,Health Care,26569271.39,Company
+"Groupon, Inc.",GRPN,Form 4,Technology,1933366229.58,Company
+"ARATANA THERAPEUTICS, INC.",PETX,Form 4,Health Care,187203177.7,Company
+COMMERCETEL CORP,AREV,Form 4,unknown,,Company
+OMNICELL INC /CA/,OMCL,Form 4,Technology,3464257524.7,Company
+ANTERO RESOURCES Corp,AR,Form 4,Energy,2571062996.6,Company
+Healthcare Acquisition Partners Corp.,HAQPU,Form 4,unknown,,Company
+CIMAREX ENERGY CO,XEC,Form 4,Energy,7154430206.9,Company
+DYCOM INDUSTRIES INC,DY,Form 4,Basic Industries,1550671303.68,Company
+LAS VEGAS SANDS CORP,LVS,Form 4,Consumer Services,45991584433.86,Company
+ESCALADE INC,ESCA,Form 4,unknown,,Company
+"TrueCar, Inc.",TRUE,Form 4,Technology,722642505.78,Company
+ORASURE TECHNOLOGIES INC,OSUR,Form 4,Health Care,701725440.72,Company
+"Michaels Companies, Inc.",MIK,Form 4,Consumer Services,2027952144.48,Company
+HOLOGIC INC,(HOLX),Form 4,unknown,,Company
+TEXAS INSTRUMENTS INC,TXN,Form 4,Technology,100962173590.74,Company
+"Primerica, Inc.",PRI,Form 4,Finance,5209585869.0,Company
+LAKELAND FINANCIAL CORP,LKFN,Form 4,Finance,1212056656.72,Company
+MOMENTA PHARMACEUTICALS INC,MNTA,Form 4,Health Care,1397844058.05,Company
+CULLEN FROST BANKERS INC,CFR,Form 4,Finance,6385507352.34,Company
+VICOR CORP,VICR,Form 4,Capital Goods,1263057255.27,Company
+EPLUS INC,PLUS,Form 4,Technology,1210310127.0,Company
+VERTEX PHARMACEUTICALS INC / MA,VRTX,Form 4,Health Care,47465258011.74,Company
+COMMUNICATIONS SYSTEMS INC,JCS,Form 4,Public Utilities,25506380.725,Company
+"Northwest Bancshares, Inc.",NWBI,Form 4,Finance,1853408001.06,Company
+USANA HEALTH SCIENCES INC,USNA,Form 4,Consumer Durables,2191832404.0,Company
+Desert Canadians Ltd.,DSET,Form 4,unknown,,Company
+ORTHOLOGIC CORP,OLGC,Form 4,unknown,,Company
+"NV5 Holdings, Inc.",NVEE,Form 4,Consumer Services,766224569.55,Company
+CORVEL CORP,CRVL,Form 4,Finance,1225460269.25,Company
+"Amphastar Pharmaceuticals, Inc.",AMPH,Form 4,Health Care,953316297.56,Company
+SKYWORKS SOLUTIONS INC,[SWKS],Form 4,unknown,,Company
+ROYAL CARIBBEAN CRUISES LTD,RCL,Form 4,Consumer Services,24499934357.76,Company
+"Vectrus, Inc.",VEC,Form 4,Consumer Services,309839915.0,Company
+AMERICAN PUBLIC EDUCATION INC,APEI,Form 4,Consumer Services,557929768.27,Company
+PEGASYSTEMS INC,PEGA,Form 4,Technology,5108185237.76,Company
+UNITED AUTO GROUP INC,UAG,Form 4,unknown,,Company
+CENTRAL SECURITIES CORP,CET,Form 4,unknown,,Company
+American Capital Agency Corp,AGNC,Form 4,Consumer Services,9670193828.76,Company
+BECTON DICKINSON & CO,BDX,Form 4,Health Care,68242544815.77,Company
+"MANGAPETS, INC.",MPTS,Form 4,unknown,,Company
+MFA MORTGAGE INVESTMENTS,MFA,Form 4,Consumer Services,3283976360.43,Company
+Rhapsody Acquisition Corp.,RPSD,Form 4,unknown,,Company
+NUTRACEUTICAL INTERNATIONAL CORP,NUTR,Form 4,unknown,,Company
+ANIXTER INTERNATIONAL INC,AXE,Form 4,unknown,,Company
+WHOLE FOODS MARKET INC,WFMI,Form 4,unknown,,Company
+FOSSIL INC,FOSL,Form 4,unknown,,Company
+ACACIA AUTOMOTIVE INC,ACCA,Form 4,unknown,,Company
+INFINITY PROPERTY & CASUALTY CORP,IPCC,Form 4,unknown,,Company
+"Hertz Rental Car Holding Company, Inc.",HTZ,Form 4,Consumer Services,1392293602.35,Company
+ESTEE LAUDER COMPANIES INC,EL,Form 4,unknown,,Company
+LIBERTE INVESTORS INC,LBI,Form 4,unknown,,Company
+TORTOISE ENERGY INFRASTRUCTURE CORP,TYG,Form 4,unknown,,Company
+"TORTOISE MLP FUND, INC.",NTG,Form 4,unknown,,Company
+"Dave & Buster's Entertainment, Inc.",PLAY,Form 4,Consumer Services,1831330914.14,Company
+HOOKER FURNITURE CORP,HOFT,Form 4,Consumer Durables,357797062.92,Company
+"Spring Bank Pharmaceuticals, Inc.",SBPH,Form 4,Health Care,172718901.68,Company
+CSG SYSTEMS INTERNATIONAL INC,CSGS,Form 4,Technology,1369298921.06,Company
+SAFEGUARD SCIENTIFICS INC,SFE,Form 4,Finance,226143101.1,Company
+BANNER CORP,BANR,Form 4,Finance,2028545685.6,Company
+CAREER EDUCATION CORP,CECO,Form 4,Consumer Services,1150555285.9,Company
+CASEYS GENERAL STORES INC,CASY,Form 4,Consumer Durables,4729065320.14,Company
+OLIN CORP,OLN,Form 4,Basic Industries,3949078545.15,Company
+BAY BANKS OF VIRGINIA INC,BAYK,Form 4,unknown,,Company
+BANK OF THE OZARKS INC,OZRK,Form 4,unknown,,Company
+ACE LTD,ACE,Form 4,unknown,,Company
+ACORDA THERAPEUTICS INC,ACOR,Form 4,Health Care,689255399.29,Company
+DELTA PETROLEUM CORP/CO,DPTR,Form 4,unknown,,Company
+ARROWHEAD RESEARCH CORP,ARWR,Form 4,Health Care,1818202684.9,Company
+DECKERS OUTDOOR CORP,DECK,Form 4,unknown,,Company
+"Truett-Hurst, Inc.",THST,Form 4,unknown,,Company
+"FCB FINANCIAL HOLDINGS, INC.",FCB,Form 4,unknown,,Company
+Emergent BioSolutions Inc.,EBS,Form 4,Health Care,2667008000.0,Company
+Matador Resources Co,MTDR,Form 4,Energy,2164822696.2,Company
+INTEGRATED ELECTRICAL SERVICES INC,IES,Form 4,unknown,,Company
+"Sunshine Biopharma, Inc",SBFM,Form 4,unknown,,Company
+ACCESSITY CORP,ACTY,Form 4,unknown,,Company
+FPL GROUP INC,FPL,Form 4,unknown,,Company
+Virgin America Inc.,VA,Form 4,unknown,,Company
+CENTRAL EUROPEAN MEDIA ENTERPRISES LTD,CETV,Form 4,Consumer Services,895101581.16,Company
+ILLINOIS TOOL WORKS INC,ITW,Form 4,Technology,47651180463.09,Company
+NEUBERGER BERMAN REAL ESTATE SECURITIES INCOME FUND INC,NRO,Form 4,unknown,,Company
+MECHANICAL TECHNOLOGY INC,MKTY,Form 4,unknown,,Company
+PACHOLDER HIGH YIELD FUND INC,PHF,Form 4,unknown,,Company
+ASTEA INTERNATIONAL INC,ATEA,Form 4,unknown,,Company
+CTS CORP,CTS,Form 4,Technology,1015743063.81,Company
+Peak Resorts Inc,SKIS,Form 4,Consumer Services,70672777.12,Company
+YuMe Inc,YUME,Form 4,unknown,,Company
+Power REIT,PW,Form 4,Consumer Services,11656576.387,Company
+AMERICAN AXLE & MANUFACTURING HOLDINGS INC,AXL,Form 4,Capital Goods,1613413993.24,Company
+"Enova International, Inc.",ENVA,Form 4,Finance,818848201.8,Company
+UNITED RENTALS INC /DE,URI,Form 4,Technology,9896355135.88,Company
+JANUS CAPITAL GROUP INC,JNS,Form 4,unknown,,Company
+ADMINISTAFF INC \DE\,ASF,Form 4,unknown,,Company
+"WAGEWORKS, INC.",WAGE,Form 4,Miscellaneous,1183943330.32,Company
+WESTERN ALLIANCE BANCORPORATION,WAL,Form 4,Finance,4692027814.24,Company
+WAL MART STORES INC,WMT,Form 4,Consumer Services,287707903642.77,Company
+DEVRY INC,DV,Form 4,unknown,,Company
+SILVER SPRING NETWORKS INC,SSNI,Form 4,unknown,,Company
+"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",HASI,Form 4,Consumer Services,1582116460.58,Company
+HAIN CELESTIAL GROUP INC,HAIN,Form 4,unknown,,Company
+ASBURY AUTOMOTIVE GROUP INC,NYSE: ABG,Form 4,unknown,,Company
+"NexPoint Residential Trust, Inc.",NXRT,Form 4,Consumer Services,845664878.62,Company
+"ORGANOVO HOLDINGS, INC.",ONVO,Form 4,Health Care,131442675.1,Company
+MCGRATH RENTCORP,MGRC,Form 4,Technology,1382745114.78,Company
+RENAISSANCERE HOLDINGS LTD,RNR,Form 4,Finance,6133155840.9,Company
+EXTREME NETWORKS INC,EXTR,Form 4,Technology,901384258.68,Company
+M&T BANK CORP,MTB,Form 4,Finance,23838878233.26,Company
+CAMBREX CORP,CBM,Form 4,Health Care,1335948408.75,Company
+ENDOLOGIX INC /DE/,ELGX,Form 4,Health Care,6993470.12,Company
+TYCO INTERNATIONAL LTD /BER/,TYC,Form 4,unknown,,Company
+LANNETT CO INC,LCI,Form 4,Health Care,319794096.16,Company
+RingCentral Inc,RNG,Form 4,Technology,8594951500.74,Company
+Hanesbrands Inc.,HBI,Form 4,Consumer Services,6393590666.14,Company
+VEECO INSTRUMENTS INC,VECO,Form 4,Technology,522179201.55,Company
+"People's United Financial, Inc.",PBCT,Form 4,Finance,6566753682.62,Company
+ASTORIA FINANCIAL CORP,AF,Form 4,unknown,,Company
+TFS Financial CORP,TFSL,Form 4,Finance,4649383527.0,Company
+BOOKHAM TECHNOLOGY PLC,BKHM,Form 4,unknown,,Company
+HARTE HANKS INC,HHS,Form 4,Technology,25016092.0,Company
+APARTMENT INVESTMENT & MANAGEMENT CO,AIV,Form 4,Consumer Services,7259454603.12,Company
+Babcock & Wilcox Co,BWC,Form 4,unknown,,Company
+RBC Bearings INC,ROLL,Form 4,Capital Goods,3325073061.7,Company
+PINNACLE WEST CAPITAL CORP,PNW,Form 4,Public Utilities,10696534219.18,Company
+TACTILE SYSTEMS TECHNOLOGY INC,TCMD,Form 4,Health Care,1171319062.5,Company
+SIMPSON MANUFACTURING CO INC /CA/,NYSE:SSD,Form 4,unknown,,Company
+"First Connecticut Bancorp, Inc.",FBNK,Form 4,unknown,,Company
+FULL HOUSE RESORTS INC,FHRI.OB,Form 4,unknown,,Company
+HEADWATERS INC,HDWR,Form 4,unknown,,Company
+BRUKER BIOSCIENCES CORP,BRKR,Form 4,Capital Goods,6009485711.22,Company
+ENETPC INC,ETPC,Form 4,unknown,,Company
+SOCKET COMMUNICATIONS INC,SCKT,Form 4,Technology,11295569.28,Company
+ASTRONICS CORP,ATRO,Form 4,Capital Goods,1033626548.43,Company
+BANCFIRST CORP /OK/,BANF,Form 4,Finance,1802508792.76,Company
+BADGER METER INC,BMI,Form 4,Capital Goods,1656492942.6,Company
+IMMUNOGEN INC,IMGN,Form 4,Health Care,406394724.0,Company
+"TriState Capital Holdings, Inc.",TSC,Form 4,Finance,624501133.36,Company
+TRUSTCO BANK CORP N Y,TRST,Form 4,Finance,796218411.34,Company
+SUPERIOR UNIFORM GROUP INC,SGC,Form 4,unknown,,Company
+ASPEN EXPLORATION CORP,ASPN,Form 4,Consumer Services,75165101.7,Company
+PSYCHEMEDICS CORP,PMD,Form 4,Health Care,82966902.03,Company
+CARLISLE COMPANIES INC,CSL,Form 4,Basic Industries,7008584656.92,Company
+STATE BANK FINANCIAL CORP,STBZ,Form 4,unknown,,Company
+NORWOOD FINANCIAL CORP,NWFL,Form 4,Finance,188024172.84,Company
+UMB FINANCIAL CORP,UMBF,Form 4,Finance,3233587339.52,Company
+MEREDITH CORP,MDP,Form 4,Consumer Services,2600073026.32,Company
+"AMYRIS, INC.",AMRS,Form 4,Basic Industries,323648551.6,Company
+UNIVERSAL HEALTH SERVICES INC,UHS,Form 4,Health Care,12046229273.64,Company
+BALCHEM CORP,BCP,Form 4,unknown,,Company
+INSMED INC,INSM,Form 4,Health Care,2415326206.3,Company
+WABASH NATIONAL CORP /DE,WNC,Form 4,Capital Goods,748950240.5,Company
+SUNOCO LOGISTICS PARTNERS LP,SXL,Form 4,unknown,,Company
+S&T BANCORP INC,STBA,Form 4,Finance,1381538009.67,Company
+HEARTLAND FINANCIAL USA INC,HTLF,Form 4,Finance,1614682116.72,Company
+FLEXSTEEL INDUSTRIES INC,FLXS,Form 4,Consumer Durables,189996064.16,Company
+BEL FUSE INC /NJ,BELFA,Form 4,Capital Goods,249599240.32,Company
+EURONET WORLDWIDE INC,EEFT,Form 4,Finance,7198171697.26,Company
+MATTHEWS INTERNATIONAL CORP,MATW,Form 4,Capital Goods,1223218306.34,Company
+Primo Water Corp,PRMW,Form 4,unknown,,Company
+"Gores Holdings, Inc.",GRSH,Form 4,Finance,498000000.0,Company
+SANGAMO BIOSCIENCES INC,SGMO,Form 4,Health Care,1032960865.3,Company
+IMATION CORP,IMN,Form 4,unknown,,Company
+Landmark Infrastructure Partners LP,LMRK,Form 4,Consumer Services,358538812.8,Company
+Public Storage,PSA,Form 4,Consumer Services,38239657828.12,Company
+SPLUNK INC,SPLK,Form 4,Technology,18362041726.0,Company
+MGM MIRAGE,MGG,Form 4,unknown,,Company
+FLUIDIGM CORP,FLDM,Form 4,Capital Goods,886897340.91,Company
+ALPHA & OMEGA SEMICONDUCTOR Ltd,AOSL,Form 4,Technology,265978455.05,Company
+TRACTOR SUPPLY CO /DE/,TSCO,Form 4,Consumer Services,11099526563.84,Company
+GLACIER BANCORP INC,GBCI,Form 4,Finance,3466234588.92,Company
+HARDINGE INC,HDNG,Form 4,unknown,,Company
+"Cable One, Inc.",CABO,Form 4,Consumer Services,5359753882.72,Company
+CONNECTURE INC,CNXR,Form 4,unknown,,Company
+"NxStage Medical, Inc.",NXTM,Form 4,unknown,,Company
+"CBOE Holdings, Inc.",CBOE,Form 4,unknown,,Company
+GSE SYSTEMS INC,GVP,Form 4,Technology,59895971.06,Company
+SCHEIN HENRY INC,HSIC,Form 4,Health Care,9106932735.45,Company
+MONOLITHIC POWER SYSTEMS INC,MPWR,Form 4,Technology,5952020040.0,Company
+REGENERON PHARMACEUTICALS INC,REGN,Form 4,Health Care,44695463072.89,Company
+MGP INGREDIENTS INC,MGPI,Form 4,unknown,,Company
+NETFLIX INC,NFLX,Form 4,Consumer Services,157703779222.37,Company
+"Centennial Bank Holdings, Inc.",CBHI,Form 4,unknown,,Company
+RPC INC,RES,Form 4,Energy,2126281291.16,Company
+HORIZON BANCORP /IN/,HBNC,Form 4,Finance,654684443.42,Company
+JDS UNIPHASE CORP /CA/,JDSU,Form 4,unknown,,Company
+"Turning Point Brands, Inc.",TPB,Form 4,unknown,,Company
+"DUPONT FABROS TECHNOLOGY, INC.",DFT,Form 4,unknown,,Company
+J2 GLOBAL COMMUNICATIONS INC,JCOM,Form 4,Technology,4123794744.1,Company
+FIRST PACTRUST BANCORP INC,FPTB,Form 4,unknown,,Company
+GREEN DOT CORP,GDOT,Form 4,Finance,3022397466.53,Company
+SYNAPTICS INC,SYNA,Form 4,Technology,1464884594.12,Company
+"STOCK BUILDING SUPPLY HOLDINGS, INC.",STCK,Form 4,unknown,,Company
+DIODES INC /DEL/,DIOD,Form 4,Technology,1938698549.4,Company
+"KBR, INC.",KBR,Form 4,Basic Industries,2708818543.76,Company
+LOEWS CORP,LTR,Form 4,unknown,,Company
+Bank of New York Mellon CORP,BK,Form 4,Finance,50071899691.92,Company
+MICROVISION INC,MVIS,Form 4,Capital Goods,93119760.0,Company
+"Q2 Holdings, Inc.",QTWO,Form 4,Technology,2973995213.68,Company
+"HTG MOLECULAR DIAGNOSTICS, INC",HTGM,Form 4,Capital Goods,65507767.48,Company
+PETMED EXPRESS INC,PETS,Form 4,Health Care,443662344.66,Company
+LEATHER FACTORY INC,TLF,Form 4,unknown,,Company
+LENNOX INTERNATIONAL INC,LII,Form 4,Capital Goods,9897825776.48,Company
+Anchor Bancorp,ANCB,Form 4,unknown,,Company
+LUBYS INC,LUB,Form 4,Consumer Services,44049074.24,Company
+GETTY REALTY CORP /MD/,GTY,Form 4,Finance,1331033434.78,Company
+UNIVERSAL INSURANCE HOLDINGS INC,UVIH,Form 4,unknown,,Company
+HERITAGE FINANCIAL CORP /WA/,HFWA,Form 4,Finance,1158386885.37,Company
+NAPCO SECURITY SYSTEMS INC,NSSC,Form 4,Consumer Durables,383622564.64,Company
+LINCOLN ELECTRIC HOLDINGS INC,LECO,Form 4,Technology,5386018445.82,Company
+"Invuity, Inc.",IVTY,Form 4,unknown,,Company
+GLADSTONE COMMERCIAL CORP,GOOD,Form 4,Consumer Services,629092667.4,Company
+SYNOVUS FINANCIAL CORP,SNV,Form 4,Finance,6190769247.1,Company
+GOLDMAN SACHS MLP & ENERGY RENAISSANCE FUND,GER,Form 4,unknown,,Company
+INTUITIVE SURGICAL INC,ISRG,Form 4,Health Care,64274731994.64,Company
+Goldman Sachs MLP Income Opportunities Fund,GMZ,Form 4,unknown,,Company
+3M CO,MMM,Form 4,Health Care,118994828000.0,Company
+Virginia National Bankshares Corp,VABK,Form 4,unknown,,Company
+HOME BANCSHARES INC,HOMB,Form 4,Finance,3200173970.84,Company
+"Rocky Mountain High Brands, Inc.",RMHB,Form 4,unknown,,Company
+3D SYSTEMS CORP,TDSC,Form 4,unknown,,Company
+REAVES UTILITY INCOME FUND,UTG,Form 4,unknown,,Company
+GENERAL COMMUNICATION INC,GNCMA,Form 4,unknown,,Company
+"Lake Shore Bancorp, Inc.",LSBK,Form 4,Finance,96318704.0,Company
+Phillips 66,PSX,Form 4,Energy,44617875572.96,Company
+SUNPOWER CORP,SPWR,Form 4,Technology,923234483.55,Company
+ITRON INC /WA/,ITRI,Form 4,Capital Goods,1995347903.22,Company
+DXP ENTERPRISES INC,DXPE,Form 4,Capital Goods,697464531.54,Company
+EXXON MOBIL CORP,XOM,Form 4,Energy,341790904206.01,Company
+AEROPOSTALE INC,ARO,Form 4,unknown,,Company
+GENERAL AMERICAN INVESTORS CO INC,GAMPR,Form 4,unknown,,Company
+AUTOMATIC DATA PROCESSING INC,ADP,Form 4,Technology,66581636623.04,Company
+"Globalstar, Inc.",GSAT,Form 4,Consumer Services,621058920.9792,Company
+"Mediavest, Inc.",MVSI.OB,Form 4,unknown,,Company
+HEWLETT PACKARD CO,HPQ,Form 4,Technology,30071970670.59,Company
+"Great American Group, Inc.",GAMR,Form 4,unknown,,Company
+TORCHMARK CORP,TMK,Form 4,Finance,9101108680.32,Company
+STERLING GROUP VENTURES INC,SGGV,Form 4,unknown,,Company
+KNOT INC,KNOT,Form 4,unknown,,Company
+Transocean Partners LLC,RIGP,Form 4,unknown,,Company
+DIGITAL POWER CORP,DPW,Form 4,Capital Goods,9287942.444,Company
+UR-ENERGY INC,URG,Form 4,Basic Industries,116123275.981,Company
+FIFTH THIRD BANCORP,FITB,Form 4,Finance,18148228589.66,Company
+Information Services Group Inc.,III,Form 4,Consumer Services,194301601.7,Company
+PHOENIX GROUP CORP,PXGP.PK,Form 4,unknown,,Company
+CHARLES RIVER LABORATORIES INTERNATIONAL INC,CRL,Form 4,Health Care,6824506967.73,Company
+ALASKA COMMUNICATIONS SYSTEMS GROUP INC,ALSK,Form 4,Public Utilities,96265715.18,Company
+"IsoRay, Inc.",CPPC.PK,Form 4,unknown,,Company
+KOPIN CORP,KOPN,Form 4,Technology,127175093.32,Company
+ALEXION PHARMACEUTICALS INC,ALXN,Form 4,Health Care,30327029695.51,Company
+DUN & BRADSTREET CORP/NW,DNB,Form 4,unknown,,Company
+LIBBEY INC,LBY,Form 4,Capital Goods,74671449.0,Company
+INTERNATIONAL PAPER CO /NEW/,IP,Form 4,Basic Industries,18935170789.89,Company
+ENGEX INC,EGX,Form 4,unknown,,Company
+ALLIED WORLD ASSURANCE CO HOLDINGS LTD,AWH,Form 4,unknown,,Company
+ENSCO INTERNATIONAL INC,ESV,Form 4,Energy,1877180465.16,Company
+CENTEX CONSTRUCTION PRODUCTS INC,CXP,Form 4,Consumer Services,2586546986.45,Company
+Owens Corning,OC,Form 4,Capital Goods,5181991004.58,Company
+FBL FINANCIAL GROUP INC,FFG,Form 4,Finance,1718268098.0,Company
+"Enumeral Biomedical Holdings, Inc.",ENUM,Form 4,unknown,,Company
+UNITRIN INC,UTR,Form 4,unknown,,Company
+Independent Bank Group Inc,IBTX,Form 4,Finance,2462920400.03,Company
+MERIT MEDICAL SYSTEMS INC,MMSI,Form 4,Health Care,3317229290.7,Company
+SCANSOURCE INC,SCSC,Form 4,Technology,972833644.7,Company
+BALLANTYNE OF OMAHA INC,BTNE,Form 4,unknown,,Company
+Paragon Commercial CORP,PBNC,Form 4,unknown,,Company
+LEAR CORP /DE/,LEA,Form 4,Capital Goods,9033478045.5,Company
+Xenon Pharmaceuticals Inc.,XENE,Form 4,Health Care,238714235.82,Company
+ARAMARK Holdings Corp,ARMK,Form 4,Consumer Services,7393835909.98,Company
+PPG INDUSTRIES INC,PPG,Form 4,Basic Industries,26285202928.98,Company
+GLADSTONE CAPITAL CORP,GLAD,Form 4,unknown,,Company
+"Jernigan Capital, Inc.",JCAP,Form 4,Consumer Services,439318702.0,Company
+MERCANTILE BANK CORP,MBWM,Form 4,Finance,554685320.35,Company
+FIRST COMMUNITY BANCORP /CA/,FCBP,Form 4,Finance,260553364.28,Company
+SPACEHAB INC \WA\,SPAB,Form 4,unknown,,Company
+NORFOLK SOUTHERN CORP,NSC,Form 4,Transportation,48085793061.54,Company
+AMERICAS CARMART INC,CRMT,Form 4,Consumer Durables,553251675.88,Company
+TRANSCONTINENTAL REALTY INVESTORS INC,TCI,Form 4,Consumer Services,318198495.5,Company
+OIL DRI CORPORATION OF AMERICA,ODC,Form 4,Consumer Durables,215664263.5,Company
+"CHUY'S HOLDINGS, INC.",CHUY,Form 4,Consumer Services,371721811.47,Company
+COLONY BANKCORP INC,CBAN,Form 4,Finance,147785890.0,Company
+CULP INC,CFI,Form 4,unknown,,Company
+ATWOOD OCEANICS INC,ATW,Form 4,unknown,,Company
+READING INTERNATIONAL INC,RDI.A,Form 4,unknown,,Company
+SOUTHWESTERN ENERGY CO,SWN,Form 4,Energy,2419697239.71,Company
+"Randolph Bancorp, Inc.",RNDB,Form 4,Finance,90662956.37,Company
+"Delek US Holdings, Inc.",DK,Form 4,Energy,2759091213.69,Company
+SUN BANCORP INC /NJ/,SNBC,Form 4,unknown,,Company
+"Ameresco, Inc.",AMRC,Form 4,Basic Industries,751051462.38,Company
+SONIC CORP,SONC,Form 4,unknown,,Company
+"Armstrong Flooring, Inc.",AFI,Form 4,unknown,,Company
+Mercator Partners Acquisition Corp.,MPAQA,Form 4,unknown,,Company
+DiamondRock Hospitality Co,"""DRH""",Form 4,unknown,,Company
+CHOICE HOTELS INTERNATIONAL INC /DE,CHH,Form 4,Consumer Services,4361012726.52,Company
+BIOSPECIFICS TECHNOLOGIES CORP,BSTC,Form 4,Health Care,492875573.08,Company
+"Bloomin' Brands, Inc.",BLMN,Form 4,Consumer Services,1844440941.36,Company
+Uni-Pixel,UNXL,Form 4,unknown,,Company
+MICROSEMI CORP,MSCC,Form 4,unknown,,Company
+"HOME BANCORP, INC.",HBCP,Form 4,Finance,331994502.8,Company
+ADVOCAT INC,AVCA,Form 4,unknown,,Company
+GILDER ENTERPRISES INC,GDRE,Form 4,unknown,,Company
+PARKER DRILLING CO /DE/,PKD,Form 4,unknown,,Company
+ROTO-ROOTER INC,RRR,Form 4,Consumer Services,3063738066.98,Company
+AerCap Holdings N.V.,AER,Form 4,Technology,6146424525.12,Company
+Investar Holding Corp,ISTR,Form 4,Finance,239804791.2,Company
+AMERICAN VANGUARD CORP,AVD,Form 4,Basic Industries,575170589.7,Company
+CANTEL MEDICAL CORP,CMN,Form 4,unknown,,Company
+SIERRA BANCORP,BSRR,Form 4,Finance,392609803.6,Company
+"VMWARE, INC.",VMW,Form 4,Technology,72614412000.0,Company
+AVID TECHNOLOGY INC,AVID,Form 4,Technology,192522185.4,Company
+LANDEC CORP \CA\,LNDC,Form 4,unknown,,Company
+MIDDLEBY CORP,MIDD,Form 4,Technology,7123916266.74,Company
+GOODRICH PETROLEUM CORP,GDP,Form 4,Energy,154321738.6,Company
+WEYERHAEUSER CO,WY,Form 4,Consumer Services,19469345920.0,Company
+TEMPLETON GLOBAL INCOME FUND,GIM,Form 4,unknown,,Company
+"1347 Property Insurance Holdings, Inc.",PIH,Form 4,Finance,34756105.6,Company
+TEMPLETON EMERGING MARKETS INCOME FUND,TEI,Form 4,unknown,,Company
+UNITED COMMUNITY FINANCIAL CORP,UCFC,Form 4,Finance,471145911.25,Company
+TEMPLETON EMERGING MARKETS FUND,EMF,Form 4,unknown,,Company
+"Endurance International Group Holdings, Inc.",EIGI,Form 4,Technology,1041022409.46,Company
+FRANKLIN UNIVERSAL TRUST,FT,Form 4,unknown,,Company
+"Ascena Retail Group, Inc.",ASNA,Form 4,Consumer Services,392899942.43,Company
+SUN HYDRAULICS CORP,SNHY,Form 4,Capital Goods,1509055221.96,Company
+MERCURY GENERAL CORP,MCY,Form 4,Finance,2788033079.26,Company
+"FreightCar America, Inc.",RAIL,Form 4,Capital Goods,91237676.36,Company
+VALIDUS HOLDINGS LTD,VR,Form 4,unknown,,Company
+BioPharmX Corp,BPMX,Form 4,Health Care,21643315.6032,Company
+"QUALYS, INC.",QLYS,Form 4,Technology,3301856284.54,Company
+STANDARD PARKING CORP,STAN,Form 4,unknown,,Company
+PERRY ELLIS INTERNATIONAL INC,PERY,Form 4,unknown,,Company
+AVERY DENNISON CORPORATION,AVY,Form 4,Consumer Durables,9234496183.99,Company
+LOUISIANA PACIFIC CORP,LPX,Form 4,Basic Industries,3318487013.37,Company
+CIBER INC,CBR,Form 4,unknown,,Company
+ChromaDex Corp.,CDXC,Form 4,Consumer Durables,216720775.04,Company
+UNITED STATES STEEL CORP,X,Form 4,Basic Industries,3526813724.08,Company
+ACCELERIZE NEW MEDIA INC,ACLZ.OB,Form 4,unknown,,Company
+MID AMERICA APARTMENT COMMUNITIES INC,MAA,Form 4,Consumer Services,12238441016.4,Company
+PARKER HANNIFIN CORP,PH,Form 4,Capital Goods,22327166619.45,Company
+UNION PACIFIC CORP,UNP,Form 4,Transportation,118629791208.21,Company
+U S PHYSICAL THERAPY INC /NV,USPH,Form 4,Health Care,1412672319.52,Company
+AGILENT TECHNOLOGIES INC,A,Form 4,Capital Goods,25442546582.97,Company
+"Commerce Union Bancshares, Inc.",CUBN,Form 4,unknown,,Company
+"Epizyme, Inc.",EPZM,Form 4,Health Care,1018900024.78,Company
+MUELLER INDUSTRIES INC,MLI,Form 4,Capital Goods,1816507030.72,Company
+TEMPLETON DRAGON FUND INC,TDF,Form 4,unknown,,Company
+FRANKLIN TEMPLETON LTD DURATION INCOME TRUST,FTF,Form 4,unknown,,Company
+CORRECTIONS CORP OF AMERICA,CXW,Form 4,Consumer Services,2282044810.71,Company
+BUCKLE INC,BKE,Form 4,Consumer Services,921537930.0,Company
+THUNDER MOUNTAIN GOLD INC,THMG,Form 4,unknown,,Company
+SYMANTEC CORP,SYMC,Form 4,Technology,14670032972.85,Company
+"Oculus Innovative Sciences, Inc.",OCLS,Form 4,unknown,,Company
+AMBASE CORP,ABCP,Form 4,unknown,,Company
+CENTRAL PACIFIC FINANCIAL CORP,CPF,Form 4,Finance,827031995.88,Company
+INPHI Corp,IPHI,Form 4,Technology,1952166393.88,Company
+FIRST FINANCIAL BANKSHARES INC,FFIN,Form 4,Finance,4121899876.92,Company
+"PARKE BANCORP, INC.",PKBK,Form 4,Finance,219063905.06,Company
+GP Investments Acquisition Corp.,GPIA,Form 4,unknown,,Company
+Citi Trends Inc,CTRN,Form 4,Consumer Services,257176000.0,Company
+"CARROLS RESTAURANT GROUP, INC.",TAST,Form 4,Consumer Services,374479194.76,Company
+HUNT J B TRANSPORT SERVICES INC,JBHT,Form 4,Transportation,11463243030.96,Company
+"Bellerophon Therapeutics, Inc.",BLPH,Form 4,Health Care,39373939.132,Company
+"China Biologic Products, Inc.",CBPO,Form 4,Health Care,3404386167.84,Company
+QUEPASA CORP,QPSA,Form 4,unknown,,Company
+ABAXIS INC,ABAX,Form 4,unknown,,Company
+Levy Acquisition Corp,LEVY,Form 4,unknown,,Company
+ALLIED MOTION TECHNOLOGIES INC,AMOT,Form 4,Capital Goods,394880837.94,Company
+MACERICH CO,MAC,Form 4,Consumer Services,6133458180.85,Company
+VEEVA SYSTEMS INC,VEEV,Form 4,Technology,17639603314.0,Company
+DALLAS GOLD & SILVER EXCHANGE INC /NV/,DGSE,Form 4,Consumer Services,12363675.7552,Company
+INSTEEL INDUSTRIES INC,IIIN,Form 4,Capital Goods,400415444.11,Company
+"Pilgrim Bancshares, Inc.",PLRM,Form 4,unknown,,Company
+WestRock Co,WRK,Form 4,Consumer Durables,10107653801.22,Company
+ALLMERICA FINANCIAL CORP,AFC,Form 4,unknown,,Company
+"County Bancorp, Inc.",ICBK,Form 4,Finance,118872637.5,Company
+Nuveen Long/Short Commodity Total Return Fund,CTF,Form 4,unknown,,Company
+"CSW INDUSTRIALS, INC.",CSWI,Form 4,Basic Industries,859990289.04,Company
+INSULET CORP,PODD,Form 4,Health Care,5674777999.89,Company
+"Natural Grocers by Vitamin Cottage, Inc.",NGVC,Form 4,Consumer Services,294648052.4,Company
+Tornier N.V.,TRNX,Form 4,Technology,6839011.44,Company
+Wave Life Sciences Ltd.,WVE,Form 4,Health Care,1597113271.26,Company
+"Alexander & Baldwin, Inc.",ALEX,Form 4,Consumer Services,1675418382.12,Company
+INSITUFORM TECHNOLOGIES INC,INSU,Form 4,unknown,,Company
+PXRE GROUP LTD,PXT,Form 4,unknown,,Company
+NEKTAR THERAPEUTICS,NKTR,Form 4,Health Care,6556773925.94,Company
+"Parsley Energy, Inc.",PE,Form 4,Energy,5786296870.41,Company
+"GenMark Diagnostics, Inc.",GNMK,Form 4,Health Care,400954217.5,Company
+CHARLES RIVER ASSOCIATES INC,CRAI,Form 4,Miscellaneous,395432406.08,Company
+"Cheniere Energy Partners, L.P.",CQP,Form 4,Public Utilities,20754311194.24,Company
+RELIANCE STEEL & ALUMINUM CO,RS,Form 4,Basic Industries,5942451891.06,Company
+"City Office REIT, Inc.",CIO,Form 4,Consumer Services,450809637.0,Company
+COORS ADOLPH CO,RKY,Form 4,unknown,,Company
+ENTELLUS MEDICAL INC,ENTL,Form 4,unknown,,Company
+"Spirit Airlines, Inc.",SAVE,Form 4,Transportation,3742378070.29,Company
+"3PEA INTERNATIONAL, INC.",TPNL,Form 4,Miscellaneous,357280000.0,Company
+MADDEN STEVEN LTD,SHOO,Form 4,unknown,,Company
+STAAR SURGICAL COMPANY,STAA,Form 4,Health Care,1647638011.39,Company
+SENSIENT TECHNOLOGIES CORP,SXT,Form 4,Basic Industries,2795953869.5,Company
+Nuveen Energy MLP Total Return Fund,JMF,Form 4,unknown,,Company
+"Burlington Stores, Inc.",BURL,Form 4,Consumer Services,9666966508.77,Company
+HEALTHCARE ACQUISITION CORP,HAQ,Form 4,unknown,,Company
+VORNADO REALTY TRUST,VNO,Form 4,Consumer Services,13162192270.92,Company
+Altisource Asset Management Corp,AAMC,Form 4,Finance,56493414.2,Company
+GAYLORD ENTERTAINMENT CO /DE,GET,Form 4,unknown,,Company
+EDGEWATER TECHNOLOGY INC/DE/,EDGW,Form 4,unknown,,Company
+SCS TRANSPORTATION INC,SCST,Form 4,unknown,,Company
+ACETO CORP,ACET,Form 4,Health Care,6211069.257999999,Company
+TIFFANY & CO,TIF,Form 4,Consumer Services,11769170798.0,Company
+MAGELLAN HEALTH SERVICES INC,MGLN,Form 4,Health Care,1529547114.06,Company
+NEWPARK RESOURCES INC,NR,Form 4,Energy,774558762.12,Company
+NETWORK 1 SECURITY SOLUTIONS INC,NSSI.PK,Form 4,unknown,,Company
+LIFETIME HOAN CORP,LCUT,Form 4,Capital Goods,192672742.72,Company
+BANCORPSOUTH INC,BXS,Form 4,unknown,,Company
+FMSA HOLDINGS INC,FMSA,Form 4,unknown,,Company
+ANSYS INC,ANSS,Form 4,Technology,15146784220.68,Company
+Actavis plc,ACT,Form 4,unknown,,Company
+NUVEEN MUNICIPAL HIGH INCOME OPPORTUNITY FUND,NMZ,Form 4,unknown,,Company
+LITHIA MOTORS INC,LAD,Form 4,Consumer Durables,2069398569.0,Company
+NUVEEN OHIO QUALITY INCOME MUNICIPAL FUND INC,NUO,Form 4,unknown,,Company
+NGL Energy Partners LP,NGL,Form 4,Energy,1652129190.36,Company
+TERADATA CORP /DE/,TDC,Form 4,Technology,5640957000.0,Company
+First Savings Financial Group Inc,(FSFG),Form 4,unknown,,Company
+NASDAQ STOCK MARKET INC,NDAQ,Form 4,Finance,14068974316.95,Company
+ARKANSAS BEST CORP /DE/,ABFS,Form 4,unknown,,Company
+UNIVERSAL AMERICAN CORP.,UAM,Form 4,unknown,,Company
+SunEdison Semiconductor Ltd,SEMI,Form 4,unknown,,Company
+ROCKWELL  AUTOMATION INC,ROK,Form 4,Capital Goods,21685275432.4,Company
+United Community Bancorp,UCBA,Form 4,unknown,,Company
+Atlas Therapeutics Corp,MVNP,Form 4,unknown,,Company
+EAST WEST BANCORP INC,EWBC,Form 4,Finance,7650677022.45,Company
+"CAPSTONE FINANCIAL GROUP, INC.",CAPP,Form 4,unknown,,Company
+MARCUS CORP,MCS,Form 4,Consumer Services,1264315586.4,Company
+DELTIC TIMBER CORP,DEL,Form 4,unknown,,Company
+TEAM INC,TMI,Form 4,unknown,,Company
+"HFF, Inc.",HF,Form 4,Consumer Services,1787147208.3,Company
+PEOPLES FINANCIAL SERVICES CORP/,PFIS,Form 4,Finance,329553865.16,Company
+FORGENT NETWORKS  INC,FORG,Form 4,unknown,,Company
+MEDICINES CO /DE,MDCO,Form 4,Health Care,1971993995.1,Company
+SANFILIPPO JOHN B & SON INC,JBSS,Form 4,unknown,,Company
+SOHU COM INC,SOHU,Form 4,Technology,725431247.3,Company
+COGNEX CORP,CGNX,Form 4,Capital Goods,9101898270.72,Company
+MARVELL TECHNOLOGY GROUP LTD,MRVL,Form 4,Technology,12944206000.0,Company
+METTLER TOLEDO INTERNATIONAL INC/,MTD,Form 4,Capital Goods,17107473768.15,Company
+INTERCEPT PHARMACEUTICALS INC,ICPT,Form 4,Health Care,3234850851.44,Company
+Oxford Resource Partners LP,OXF,Form 4,unknown,,Company
+CHEVRONTEXACO CORP,CVX,Form 4,Energy,236880824289.2,Company
+TRIMBLE NAVIGATION LTD /CA/,TRMB,Form 4,Capital Goods,9954932867.18,Company
+HORACE MANN EDUCATORS CORP /DE/,HMN,Form 4,Finance,1551326193.85,Company
+GRANITE CONSTRUCTION INC,GVA,Form 4,Basic Industries,2178341417.24,Company
+OVERSEAS SHIPHOLDING GROUP INC,OSG,Form 4,Transportation,156944361.5,Company
+International Stem Cell CORP,ISCO,Form 4,unknown,,Company
+DENNYS CORP,DNYY,Form 4,unknown,,Company
+"Global Cash Access Holdings, Inc.",GCA,Form 4,unknown,,Company
+WILLIS LEASE FINANCE CORP,WLFC,Form 4,Consumer Durables,261706863.15,Company
+COMMUNITY TRUST BANCORP INC /KY/,CTBI,Form 4,Finance,739667394.39,Company
+RLJ Lodging Trust,RLJ,Form 4,Consumer Services,3157657984.44,Company
+GENERAC HOLDINGS INC.,GNRC,Form 4,Consumer Durables,3286656950.9,Company
+GROUP 1 AUTOMOTIVE INC,GPI,Form 4,Consumer Durables,1137109884.0,Company
+NANOPHASE TECHNOLOGIES CORPORATION,NANX,Form 4,unknown,,Company
+KLA TENCOR CORP,KLAC,Form 4,Capital Goods,19129046917.44,Company
+PENNANTPARK INVESTMENT CORP,PNNT,Form 4,unknown,,Company
+VARIAN MEDICAL SYSTEMS INC,VAR,Form 4,Health Care,12352095377.49,Company
+Booz Allen Hamilton Holding Corp,BAH,Form 4,Consumer Services,7848777931.15,Company
+EATON VANCE CORP,EV,Form 4,Finance,4777227076.68,Company
+MYERS INDUSTRIES INC,MYE,Form 4,unknown,,Company
+UTAH MEDICAL PRODUCTS INC,UTMD,Form 4,Health Care,317030031.0,Company
+A. H. Belo CORP,AHC,Form 4,Consumer Services,78995953.55,Company
+TOOTSIE ROLL INDUSTRIES INC,TR,Form 4,unknown,,Company
+Apollo Global Management LLC,APO,Form 4,Finance,11660664037.92,Company
+OGE ENERGY CORP,OGE,Form 4,Public Utilities,8546545758.85,Company
+Northern Power Systems Corp.,NPS,Form 4,unknown,,Company
+AUTOZONE INC,AZO,Form 4,Consumer Services,23474995640.0,Company
+VENTAS INC,VTR,Form 4,Consumer Services,22657798140.72,Company
+Territorial Bancorp Inc.,TBNK,Form 4,Finance,261405380.5,Company
+DRYCLEAN USA INC,DCU,Form 4,unknown,,Company
+1 800 FLOWERS COM INC,FLWS,Form 4,Consumer Services,1156132349.76,Company
+AMR CORP,AMR,Form 4,Energy,139249388.3576,Company
+"American Assets Trust, Inc.",AAT,Form 4,Consumer Services,2186438423.4,Company
+CONTANGO OIL & GAS CO,MCF,Form 4,Energy,117510093.84,Company
+GALLAGHER ARTHUR J & CO,AJG,Form 4,Finance,14551783600.0,Company
+OMEGA PROTEIN CORP,OME,Form 4,unknown,,Company
+"U.S. SILICA HOLDINGS, INC.",SLCA,Form 4,Basic Industries,1125820068.39,Company
+"Wesco Aircraft Holdings, Inc",WAIR,Form 4,Capital Goods,793986645.36,Company
+"Prudential Global Short Duration High Yield Fund, Inc.",GHY,Form 4,unknown,,Company
+STERICYCLE INC,SRCL,Form 4,Basic Industries,4469851823.36,Company
+"GoPro, Inc.",GPRO,Form 4,Miscellaneous,922530579.2,Company
+UNIVERSAL BIOSENSORS INC,UBI,Form 4,unknown,,Company
+BROOKS AUTOMATION INC,BRKS,Form 4,Technology,2135189228.46,Company
+ENERNOC INC,ENOC,Form 4,unknown,,Company
+MGE ENERGY INC,MGEE,Form 4,Energy,2258297621.8,Company
+PAULSON CAPITAL CORP,PLCC,Form 4,unknown,,Company
+FORD MOTOR CO,F,Form 4,Capital Goods,33937046316.61,Company
+NAVIGATORS GROUP INC,NAVG,Form 4,Finance,2082521805.12,Company
+UMPQUA HOLDINGS CORP,UMPQ,Form 4,Finance,3876104572.62,Company
+JACOBS ENGINEERING GROUP INC /DE/,JEC,Form 4,Basic Industries,10222399819.31,Company
+KIRKLANDS INC,KIRK,Form 4,Consumer Services,154228479.3,Company
+FORRESTER RESEARCH INC,FORR,Form 4,Consumer Services,900850230.0,Company
+MIDSOUTH BANCORP INC,MSL,Form 4,Finance,185214519.21,Company
+TRICO BANCSHARES /,TCBK,Form 4,Finance,1215747795.24,Company
+DYNAMIC MATERIALS CORP,BOOM,Form 4,Capital Goods,675846242.9,Company
+EXTERRAN HOLDINGS INC.,EXH,Form 4,unknown,,Company
+MDU RESOURCES GROUP INC,MDU,Form 4,Basic Industries,5047415132.76,Company
+Eaton Vance Municipal Income Term Trust,ETX,Form 4,unknown,,Company
+TUCOWS INC /PA/,TCOW,Form 4,unknown,,Company
+Lipocine Inc.,LPCN,Form 4,Health Care,48474264.44,Company
+CACI INTERNATIONAL INC /DE/,CAI,Form 4,Technology,435995471.6,Company
+ACME UNITED CORP,ACU,Form 4,Capital Goods,57644633.71,Company
+PDF SOLUTIONS INC,PDFS,Form 4,Technology,407627478.09,Company
+HERITAGE PROPANE PARTNERS L P,HPG,Form 4,unknown,,Company
+JACK IN THE BOX INC /NEW/,JBX,Form 4,unknown,,Company
+Tableau Software Inc,DATA,Form 4,Technology,11171398777.11,Company
+CATHAY GENERAL BANCORP,CATY,Form 4,Finance,2938260834.48,Company
+RITCHIE BROS AUCTIONEERS INC,RBA,Form 4,Miscellaneous,3683101609.88,Company
+FIRST NATIONAL COMMUNITY BANCORP INC,FNCB,Form 4,Finance,153428320.43,Company
+GSI TECHNOLOGY INC,GSIT,Form 4,Technology,173046051.55,Company
+HIBBETT SPORTING GOODS INC,HIBB,Form 4,Consumer Services,338102371.12,Company
+"Versum Materials, Inc.",VSM,Form 4,Basic Industries,5349719537.41,Company
+SUPERCONDUCTIVE COMPONENTS INC,SCCI.OB,Form 4,unknown,,Company
+ACCELR8 TECHNOLOGY CORP,ACLY.OB,Form 4,unknown,,Company
+PS BUSINESS PARKS INC/CA,PSB,Form 4,Consumer Services,4222793047.33,Company
+IRONWOOD PHARMACEUTICALS INC,IRWD,Form 4,Health Care,2135651040.6,Company
+TGC INDUSTRIES INC,TGCI,Form 4,unknown,,Company
+FORTINET INC,FTNT,Form 4,Technology,14275212915.86,Company
+MRC GLOBAL INC.,MRC,Form 4,Capital Goods,1455598988.48,Company
+QUANTUM CORP /DE/,DSS,Form 4,Consumer Durables,23034649.81,Company
+ICU MEDICAL INC/DE,ICUI,Form 4,Health Care,4816023078.06,Company
+WOODWARD GOVERNOR CO,WGOV,Form 4,unknown,,Company
+MARINEMAX INC,HZO,Form 4,Consumer Services,434587767.46,Company
+PRG SCHULTZ INTERNATIONAL INC,PRGX,Form 4,Consumer Services,196969291.14,Company
+"Smart Sand, Inc.",SND,Form 4,Basic Industries,123563336.49,Company
+ELOYALTY CORP,ELOY,Form 4,unknown,,Company
+CARRIZO OIL & GAS INC,CRZO,Form 4,Energy,1036309716.78,Company
+INSTRUCTURE INC,INST,Form 4,Technology,1566934493.36,Company
+"Civitas Solutions, Inc.",CIVI,Form 4,unknown,,Company
+"Dr Pepper Snapple Group, Inc.",DPS,Form 4,unknown,,Company
+INFINITE GROUP INC,IMCI,Form 4,unknown,,Company
+FOOT LOCKER INC,FL,Form 4,Consumer Services,6739545059.4,Company
+SELAS CORP OF AMERICA,SLS,Form 4,Health Care,28414154.04,Company
+LANCE INC,LNCE,Form 4,unknown,,Company
+OMNICOMM SYSTEMS INC,OMCM,Form 4,unknown,,Company
+INNOVATIVE INDUSTRIAL PROPERTIES INC,IIPR,Form 4,Finance,761241546.0,Company
+URANIUM RESOURCES INC /DE/,URIX,Form 4,unknown,,Company
+GUESS INC ET AL/CA/,GES,Form 4,unknown,,Company
+HECLA MINING CO/DE/,HL,Form 4,Basic Industries,1168830359.84,Company
+Wayfair Inc.,W,Form 4,Consumer Services,15371004116.16,Company
+UNITED NATURAL FOODS INC,UNFI,Form 4,unknown,,Company
+BEST BUY CO INC,BBY,Form 4,Consumer Services,18393092241.15,Company
+BlackRock Municipal Target Term Trust,BTT,Form 4,unknown,,Company
+CASS INFORMATION SYSTEMS INC,CASS,Form 4,Miscellaneous,727041754.42,Company
+MULTI COLOR CORP,LABL,Form 4,Miscellaneous,1029564336.32,Company
+"Altra Holdings, Inc.",AIMC,Form 4,Capital Goods,2070403281.6,Company
+SUBURBAN PROPANE PARTNERS LP,SPH,Form 4,Consumer Services,1354133248.92,Company
+"Eldorado Resorts, Inc.",ERI,Form 4,Consumer Services,3596034124.08,Company
+"Great Western Bancorp, Inc.",GWB,Form 4,Finance,1994553378.05,Company
+CINCINNATI FINANCIAL CORP,CINF,Form 4,Finance,13856238930.96,Company
+"GLOBAL BRASS & COPPER HOLDINGS, INC.",BRSS,Form 4,Capital Goods,713536409.88,Company
+FULLNET COMMUNICATIONS INC,OECI9#VS,Form 4,unknown,,Company
+ROYCE VALUE TRUST INC,RVT,Form 4,unknown,,Company
+ROYCE MICRO CAP TRUST INC /MD/,OTCM,Form 4,unknown,,Company
+Corning Natural Gas Holding Corp,CNIG,Form 4,unknown,,Company
+FIRST DEFIANCE FINANCIAL CORP,FDEF,Form 4,Finance,620078581.2,Company
+ABERCROMBIE & FITCH CO /DE/,ANF,Form 4,Consumer Services,1770247710.0,Company
+OCTEL CORP,OTL,Form 4,unknown,,Company
+FULTON FINANCIAL CORP,FULT,Form 4,Finance,2777603400.0,Company
+"Generic Marketing Services, Inc.",GMKG,Form 4,unknown,,Company
+M III Acquisition Corp.,MIIIU,Form 4,unknown,,Company
+DIGITAL ALLY INC,DGLY,Form 4,Technology,42011750.56,Company
+EDWARDS LIFESCIENCES CORP,EW,Form 4,Health Care,36963707592.39,Company
+WSFS FINANCIAL CORP,WSFS,Form 4,Finance,2282296309.92,Company
+Michael Kors Holdings Ltd,KORS,Form 4,unknown,,Company
+KAISER ALUMINUM CORP,KLUCQ,Form 4,unknown,,Company
+Xencor Inc,XNCR,Form 4,Health Care,1648234708.32,Company
+"ROYCE GLOBAL VALUE TRUST, INC.",RGT,Form 4,unknown,,Company
+CKX Lands Inc,CKX,Form 4,Energy,20318497.7,Company
+Guggenheim Credit Allocation Fund,GGM,Form 4,unknown,,Company
+UNITED COMMUNITY BANKS INC,UCBI,Form 4,Finance,2089984939.2,Company
+SANTA FE FINANCIAL CORP,SFEF,Form 4,unknown,,Company
+CoreSite Realty Corp,COR,Form 4,Consumer Services,3785767302.83,Company
+JP Energy Partners LP,JPEP,Form 4,unknown,,Company
+DEPOMED INC,DMI,Form 4,unknown,,Company
+CARRIAGE SERVICES INC,CSV,Form 4,Consumer Services,365482279.8,Company
+OVERSTOCK COM INC,OSTK,Form 4,Consumer Services,682139499.3,Company
+MCKESSON CORP,MCK,Form 4,Health Care,22533714701.84,Company
+CVB FINANCIAL CORP,CVBF,Form 4,Finance,3048612310.26,Company
+BIOLASE TECHNOLOGY INC,BLTI,Form 4,unknown,,Company
+SOUTHSIDE BANCSHARES INC,SBSI,Form 4,Finance,1154549857.24,Company
+SPECTRUM PHARMACEUTICALS INC,SPPI,Form 4,Health Care,1181571882.96,Company
+"Everyday Health, Inc.",EVDY,Form 4,unknown,,Company
+Addus HomeCare Corp,ADUS,Form 4,Health Care,827947019.55,Company
+HEXCEL CORP /DE/,HXL,Form 4,Basic Industries,5866929517.68,Company
+"AEROHIVE NETWORKS, INC",HIVE,Form 4,Technology,245264510.51,Company
+BUNGE LTD,BG,Form 4,unknown,,Company
+SERVICEMASTER GLOBAL HOLDINGS INC,SERV,Form 4,Consumer Services,6572520630.48,Company
+KMG CHEMICALS INC,KMGB,Form 4,unknown,,Company
+"ServisFirst Bancshares, Inc.",[N/A],Form 4,unknown,,Company
+PARKERVISION INC,PRKR,Form 4,unknown,,Company
+CORTLAND BANCORP INC,CLDB,Form 4,Finance,108740165.0376,Company
+NEW CENTURY BANCORP INC,NCBC,Form 4,unknown,,Company
+Pacific Special Acquisition Corp.,PAACU,Form 4,unknown,,Company
+MTS SYSTEMS CORP,MTSC,Form 4,Capital Goods,952588885.61,Company
+TETRA TECHNOLOGIES INC,TTI,Form 4,Energy,297740893.53,Company
+HOPFED BANCORP INC,HFBC,Form 4,Finance,133249767.6,Company
+ORTHODONTIX INC,ORTX,Form 4,Health Care,240265294.24,Company
+TARGET CORP,TGT,Form 4,Consumer Services,39929774592.0,Company
+Alcentra Capital Corp,ABDC,Form 4,unknown,,Company
+SOURCE CAPITAL INC /DE/,SOR+,Form 4,unknown,,Company
+FITBIT INC,FIT,Form 4,Technology,1496140447.84,Company
+Erickson Air-Crane Inc,EAC,Form 4,unknown,,Company
+CENTRAL VALLEY COMMUNITY BANCORP,CVCY,Form 4,Finance,273288749.83,Company
+PANERA BREAD CO,PNRA,Form 4,unknown,,Company
+HERITAGE COMMERCE CORP,HTBK,Form 4,Finance,563619525.0,Company
+ARQULE INC,ARQL,Form 4,Health Care,560278694.18,Company
+ICTS INTERNATIONAL N V,ICTS,Form 4,unknown,,Company
+WATERS CORP /DE/,WAT,Form 4,Capital Goods,17258800443.94,Company
+"Diversified Restaurant Holdings, Inc.",DFRH,Form 4,unknown,,Company
+Brookdale Senior Living Inc.,BKD,Form 4,Health Care,1289403346.56,Company
+MAXLINEAR INC,MXL,Form 4,Technology,1756322456.25,Company
+"RE/MAX Holdings, Inc.",RMAX,Form 4,Finance,689048923.77,Company
+KORN FERRY INTERNATIONAL,KFY,Form 4,Technology,2643277000.0,Company
+"Triumph Bancorp, Inc.",TBK,Form 4,Finance,828546303.8,Company
+"Photovoltaic Solar Cells, Inc.",PVSO,Form 4,unknown,,Company
+"CB Financial Services, Inc.",CBFV,Form 4,Finance,133254049.17,Company
+"THL Credit, Inc.",TCRD,Form 4,unknown,,Company
+USA TECHNOLOGIES INC,USTT,Form 4,unknown,,Company
+ARROW FINANCIAL CORP,AROW,Form 4,Finance,498572698.65,Company
+QUAINT OAK BANCORP INC,QNTO,Form 4,unknown,,Company
+DEBT STRATEGIES FUND,DSU,Form 4,unknown,,Company
+VASCO DATA SECURITY INTERNATIONAL INC,VDSI,Form 4,unknown,,Company
+EXAR CORP,EXAR,Form 4,unknown,,Company
+"Coherus BioSciences, Inc.",CHRS,Form 4,Health Care,1027814007.36,Company
+ALDER BIOPHARMACEUTICALS INC,ALDR,Form 4,Health Care,887755658.4,Company
+JMP GROUP LLC,JMP,Form 4,Finance,86890262.64,Company
+"Sensus Healthcare, Inc.",SRTS,Form 4,Health Care,124549323.53,Company
+DIGITAL THEATER SYSTEMS INC,DTSI,Form 4,unknown,,Company
+HUBSPOT INC,HUBS,Form 4,Technology,6608243996.4,Company
+CROWN CASTLE INTERNATIONAL CORP,CCI,Form 4,Consumer Services,51950203433.82,Company
+Fidelity & Guaranty Life,FGL,Form 4,unknown,,Company
+"BELLICUM PHARMACEUTICALS, INC",BLCM,Form 4,Health Care,147861552.19,Company
+REALITY INTERACTIVE INC,RLYI,Form 4,unknown,,Company
+Services Acquisition Corp. International,SVI,Form 4,unknown,,Company
+"Dominion Midstream Partners, LP",DM,Form 4,unknown,,Company
+PLAINS ALL AMERICAN PIPELINE LP,PAA,Form 4,Energy,17619554087.5,Company
+RAMBUS INC,RMBS,Form 4,Technology,1141016440.55,Company
+TRANS ENERGY INC,TSRG,Form 4,unknown,,Company
+Trio Merger Corp.,TMRGU,Form 4,unknown,,Company
+MARTIN MARIETTA MATERIALS INC,MLM,Form 4,Basic Industries,11904256892.64,Company
+ALLIANCE CAPITAL MANAGEMENT HOLDING LP,AC,Form 4,Finance,999844856.12,Company
+BERRY PLASTICS GROUP INC,BERY,Form 4,unknown,,Company
+C & F FINANCIAL CORP,CFFI,Form 4,Finance,182641779.18,Company
+MERIDIAN BIOSCIENCE INC,VIVO,Form 4,Health Care,711269241.48,Company
+LACLEDE GROUP INC,LG,Form 4,unknown,,Company
+ARVINMERITOR INC,ARM,Form 4,unknown,,Company
+DANA CORP,DCN,Form 4,unknown,,Company
+IGUANA VENTURES LTD,IGVL,Form 4,unknown,,Company
+MKS INSTRUMENTS INC,MKSI,Form 4,Capital Goods,4322810625.76,Company
+SILICON VALLEY BANCSHARES,SIVB,Form 4,Finance,12842457612.66,Company
+QNB CORP,QNBC,Form 4,unknown,,Company
+HANMI FINANCIAL CORP,HAFC,Form 4,Finance,667005852.93,Company
+"Conifer Holdings, Inc.",CNFR,Form 4,Finance,34760628.2,Company
+GILEAD SCIENCES INC,GILD,Form 4,Health Care,83864819188.5,Company
+"Spectrum Brands Holdings, Inc.",SPB,Form 4,unknown,,Company
+MICROSTRATEGY INC,MSTR,Form 4,Technology,1515850567.5,Company
+FINANCIAL INSTITUTIONS INC,FISI,Form 4,Finance,466719700.0,Company
+DIXIE GROUP INC,DXYN,Form 4,Consumer Durables,17943462.28,Company
+DULUTH HOLDINGS INC.,DLTH,Form 4,Consumer Services,741169429.0,Company
+SolarEdge Technologies Inc,SEDG,Form 4,Technology,1885483517.4,Company
+MASONITE INTERNATIONAL CORP,DOOR,Form 4,Basic Industries,1350592544.04,Company
+"Electromed, Inc.",ELMD,Form 4,Health Care,46951430.4,Company
+ENCORE CAPITAL GROUP INC,(ECPG),Form 4,unknown,,Company
+NOVAGOLD RESOURCES INC,NG,Form 4,Basic Industries,1413977783.4,Company
+PNC FINANCIAL SERVICES GROUP INC,PNC,Form 4,Finance,58484262461.46,Company
+LABOR READY INC,LRW,Form 4,unknown,,Company
+TECKMINE INDUSTRIES INC.,TCKM,Form 4,unknown,,Company
+Enhance Skin Products Inc,EHSK,Form 4,unknown,,Company
+MAIL WELL INC,MWL,Form 4,unknown,,Company
+ZIMMER HOLDINGS INC,ZMH,Form 4,unknown,,Company
+TECH DATA CORP,TECD,Form 4,Technology,3776388569.83,Company
+PJT Partners Inc.,PJT,Form 4,Finance,939483103.28,Company
+SONIC AUTOMOTIVE INC,SAH,Form 4,Consumer Durables,616698830.36,Company
+Fabrinet,FN,Form 4,Public Utilities,2072933460.29,Company
+QUIDEL CORP /DE/,QDEL,Form 4,Health Care,2636615222.28,Company
+COLUMBIA SPORTSWEAR CO,COLM,Form 4,unknown,,Company
+SECOND SIGHT MEDICAL PRODUCTS INC,EYES,Form 4,Health Care,104462904.9971,Company
+LANTRONIX INC,LTRX,Form 4,Technology,62863409.77,Company
+ACCURAY INC,ARAY,Form 4,Health Care,402488297.78,Company
+PEPSICO INC,PEP,Form 4,unknown,,Company
+NOBLE ENERGY INC,NBL,Form 4,Energy,10866141198.36,Company
+V F CORP,VFC,Form 4,unknown,,Company
+HUNTINGTON BANCSHARES INC/MD,HBAN,Form 4,Finance,14629290746.4,Company
+"Gushen, Inc",GSHN,Form 4,unknown,,Company
+AFFORDABLE RESIDENTIAL COMMUNITIES INC,ARC,Form 4,Consumer Services,109655287.98,Company
+BIODELIVERY SCIENCES INTERNATIONAL INC,BDSI,Form 4,Health Care,326595275.16,Company
+NORTHROP GRUMMAN CORP /DE/,NOC,Form 4,Capital Goods,47383922454.12,Company
+DEAN FOODS CO/,DF,Form 4,unknown,,Company
+LANDAUER INC,LDR,Form 4,unknown,,Company
+MEDIANET GROUP TECHNOLOGIES INC,MEDG,Form 4,unknown,,Company
+WERNER ENTERPRISES INC,WERN,Form 4,Transportation,2476247023.26,Company
+"Post Holdings, Inc.",POST,Form 4,unknown,,Company
+"GREEN PLAINS RENEWABLE ENERGY, INC.",GPRE,Form 4,Basic Industries,664019967.54,Company
+STORE CAPITAL Corp,STOR,Form 4,Consumer Services,7246740031.5,Company
+REPLIDYNE INC,RDYN,Form 4,unknown,,Company
+"Limelight Networks, Inc.",LLNW,Form 4,Miscellaneous,332455030.65,Company
+NEPHROS INC,NEP,Form 4,Public Utilities,2599740925.6,Company
+Allison Transmission Holdings Inc,ALSN,Form 4,Capital Goods,5843590251.91,Company
+AMERISOURCEBERGEN CORP,ABC,Form 4,Health Care,16842862562.47,Company
+TENNECO AUTOMOTIVE INC,TEN,Form 4,Capital Goods,2684428242.46,Company
+"Financial Engines, Inc.",FNGN,Form 4,unknown,,Company
+BRINKS CO,BCO,Form 4,Transportation,3801819077.7,Company
+Koppers Holdings Inc.,KOP,Form 4,Basic Industries,526253333.84,Company
+IDEXX LABORATORIES INC /DE,IDXX,Form 4,Health Care,18051909742.14,Company
+ZAIS Financial Corp.,ZFC,Form 4,unknown,,Company
+"DUNKIN' BRANDS GROUP, INC.",DNKN,Form 4,Consumer Services,5884519102.14,Company
+CorMedix Inc.,CRMD,Form 4,Health Care,198971507.1,Company
+AUDIOVOX CORP,VOXX,Form 4,unknown,,Company
+NORTECH SYSTEMS INC,NSYS,Form 4,Capital Goods,12862430.472,Company
+MERCURY COMPUTER SYSTEMS INC,MRCY,Form 4,Capital Goods,2900758493.56,Company
+DryShips Inc.,DRYS,Form 4,Transportation,453548192.94,Company
+PAVmed Inc.,PAVM,Form 4,Health Care,29857276.9,Company
+LIQUIDMETAL TECHNOLOGIES,LQMT,Form 4,unknown,,Company
+"GLORYWIN ENTERTAINMENT GROUP, INC.",GWIN,Form 4,unknown,,Company
+KEMET CORP,KEM,Form 4,Capital Goods,1050564242.16,Company
+SHERWIN WILLIAMS CO,SHW,Form 4,Consumer Services,39408722603.31,Company
+AAR CORP,AIR,Form 4,Capital Goods,1194102000.0,Company
+UNITED BANCORP INC /OH/,UBCP,Form 4,Finance,62024594.4,Company
+BNC BANCORP,BNCN,Form 4,unknown,,Company
+LANDMARK BANCORP INC,LARK,Form 4,Finance,108428476.8,Company
+MANITOWOC CO INC,MTW,Form 4,Capital Goods,610594262.6,Company
+"Interactive Intelligence Group, Inc.",ININ,Form 4,unknown,,Company
+VALUEVISION MEDIA INC,VVTV,Form 4,unknown,,Company
+"KEMPHARM, INC",KMPH,Form 4,Health Care,57408113.84,Company
+CUTERA INC,CUTR,Form 4,Health Care,239284914.3,Company
+DAVITA INC,DVA,Form 4,Health Care,8919040000.0,Company
+CVENT INC,CVT,Form 4,unknown,,Company
+"MIPSolutions, Inc.",MSOL,Form 4,unknown,,Company
+SOUTHERN PERU COPPER CORP/,PCU,Form 4,unknown,,Company
+ULTRATECH INC,UTEK,Form 4,unknown,,Company
+ISOLAGEN INC,ILE,Form 4,unknown,,Company
+THOR INDUSTRIES INC,THO,Form 4,unknown,,Company
+"Corbus Pharmaceuticals Holdings, Inc.",CRBP,Form 4,Health Care,373253673.92,Company
+SALOMON BROTHERS CAPITAL & INCOME FUND INC,SCD,Form 4,unknown,,Company
+GRAINGER W W INC,GWW,Form 4,Consumer Services,16675370496.27,Company
+WYNN RESORTS LTD,WYNN,Form 4,Consumer Services,12592269657.64,Company
+"Pacific DataVision, Inc.",PDVW,Form 4,Public Utilities,589589076.8,Company
+Charter Financial Corp,CHFN,Form 4,unknown,,Company
+NACCO INDUSTRIES INC,NC,Form 4,Consumer Durables,270794530.68,Company
+Entegra Financial Corp.,ENFC,Form 4,Finance,166924173.39,Company
+SANMINA-SCI CORP,SANM,Form 4,Technology,2121317693.0,Company
+DUCOMMUN INC /DE/,DCO,Form 4,Capital Goods,510054586.56,Company
+DATA I/O CORP,DAIO,Form 4,Capital Goods,49948381.72,Company
+AXT INC,AXTI,Form 4,Technology,179501707.34,Company
+KNIGHT TRANSPORTATION INC,KNGT,Form 4,unknown,,Company
+PENN NATIONAL GAMING INC,PENN,Form 4,Consumer Services,2642920800.0,Company
+"Intrepid Potash, Inc.",IPI,Form 4,Basic Industries,516561186.0,Company
+STAKE TECHNOLOGY LTD,STKL,Form 4,Consumer Services,307689050.24,Company
+LCNB CORP,LCNB,Form 4,Finance,226245469.0,Company
+"xG TECHNOLOGY, INC.",XGTI,Form 4,unknown,,Company
+BIG 5 SPORTING GOODS CORP,BGFV,Form 4,Consumer Services,79583028.21,Company
+MICROSOFT CORP,MSFT,Form 4,Technology,878468439567.0,Company
+FIRST COMMUNITY BANCSHARES INC /NV/,FCBC,Form 4,Finance,553761504.35,Company
+CareView Communications Inc,CRVW,Form 4,unknown,,Company
+ENERGEN CORP,EGN,Form 4,unknown,,Company
+JONES LANG LASALLE INC,JLL,Form 4,Finance,7374283021.08,Company
+DNP SELECT INCOME FUND INC,DNP,Form 4,unknown,,Company
+"Habit Restaurants, Inc.",HABT,Form 4,Consumer Services,290528860.0,Company
+Howard Bancorp Inc,HBMD,Form 4,Finance,263504562.48,Company
+DEVON ENERGY CORP/DE,DVN,Form 4,Energy,12855339000.0,Company
+"Health Insurance Innovations, Inc.",HIIQ,Form 4,Finance,474294838.32,Company
+AMERICAN NATIONAL BANKSHARES INC,AMNB,Form 4,Finance,302451893.26,Company
+EMPIRE RESOURCES INC /NEW/,ERS,Form 4,unknown,,Company
+EVANS BANCORP INC,EVBN,Form 4,Finance,173502329.0,Company
+GREAT SOUTHERN BANCORP INC,GSBC,Form 4,Finance,778198935.44,Company
+8point3 Energy Partners LP,CAFD,Form 4,unknown,,Company
+Aralez Pharmaceuticals Inc.,ARLZ,Form 4,unknown,,Company
+QUALSTAR CORP,QBAK,Form 4,Technology,11290475.0016,Company
+"MOBILEIRON, INC.",MOBL,Form 4,Technology,520082728.16,Company
+CUBIC CORP /DE/,CUB,Form 4,Capital Goods,1715443276.24,Company
+INTUIT INC,INTU,Form 4,Technology,65713864928.1,Company
+ELECTRONICS FOR IMAGING INC,EFII,Form 4,Technology,1168822263.44,Company
+POST PROPERTIES INC,PPS,Form 4,unknown,,Company
+FASTENAL CO,FAST,Form 4,Consumer Services,17936399862.16,Company
+GLOBAL GOLD CORP,GBGD,Form 4,unknown,,Company
+"Papa Murphy's Holdings, Inc.",FRSH,Form 4,Consumer Services,97910626.25,Company
+"Westbury Bancorp, Inc.",WBB,Form 4,unknown,,Company
+"EVERTEC, Inc.",EVTC,Form 4,Technology,2077992764.1,Company
+"Willdan Group, Inc.",WLDN,Form 4,Consumer Services,410457724.92,Company
+LendingClub Corp,LC,Form 4,Miscellaneous,1302206781.45,Company
+ATLAS MINING CO,ALMI,Form 4,unknown,,Company
+DELUXE CORP,DLX,Form 4,Consumer Durables,1869388097.6,Company
+ZAPATA CORP,ZAP,Form 4,unknown,,Company
+TYSON FOODS INC,TSN,Form 4,unknown,,Company
+"Amber Road, Inc.",AMBR,Form 4,Technology,254151249.55,Company
+IntelGenx Technologies Corp.,IGXT,Form 4,unknown,,Company
+LyondellBasell Industries N.V.,LYB,Form 4,Basic Industries,32988433982.24,Company
+WESTELL TECHNOLOGIES INC,WSTL,Form 4,Public Utilities,33236131.68,Company
+EXCHANGE NATIONAL BANCSHARES INC,EXJF,Form 4,unknown,,Company
+"Investors Bancorp, Inc.",ISBC,Form 4,Finance,3451776121.2,Company
+CUMMINS INC,CUM,Form 4,unknown,,Company
+AdvanSix Inc.,ASIX,Form 4,Basic Industries,905335443.35,Company
+DAG MEDIA INC,DAGM,Form 4,unknown,,Company
+"SBT Bancorp, Inc.",SBTB,Form 4,unknown,,Company
+CIFC LLC,CIFC,Form 4,unknown,,Company
+CHEROKEE INC,CHKE,Form 4,unknown,,Company
+ASTEC INDUSTRIES INC,ASTE,Form 4,Capital Goods,884772216.92,Company
+STRATUS PROPERTIES INC,STRS,Form 4,Consumer Services,188270372.2,Company
+VARONIS SYSTEMS INC,VRNS,Form 4,Technology,1786964348.05,Company
+IPASS INC,IPAS,Form 4,unknown,,Company
+FLEXTRONICS INTERNATIONAL LTD,FLEX,Form 4,Technology,5287173744.06,Company
+"Walgreens Boots Alliance, Inc.",WBA,Form 4,Health Care,58399229158.4,Company
+DENTSPLY INTERNATIONAL INC /DE/,(XRAY),Form 4,unknown,,Company
+BENCHMARK ELECTRONICS INC,BHE,Form 4,Technology,1076543473.2,Company
+HILLENBRAND INDUSTRIES INC,HB,Form 4,unknown,,Company
+TENET HEALTHCARE CORP,THC,Form 4,Health Care,3055379949.12,Company
+AMARILLO BIOSCIENCES INC,AMAR,Form 4,unknown,,Company
+"Tracon Pharmaceuticals, Inc.",TCON,Form 4,Health Care,40662229.28,Company
+NUTRACEA,NTRZ,Form 4,unknown,,Company
+HEALTH CARE PROPERTY INVESTORS INC,HCP,Form 4,Consumer Services,14920811939.88,Company
+"Education Realty Trust, Inc.",EDR,Form 4,unknown,,Company
+LINEAR TECHNOLOGY CORP /CA/,LLTC,Form 4,unknown,,Company
+COMMVAULT SYSTEMS INC,CVLT,Form 4,Technology,2988786722.24,Company
+HESKA CORP,HSKA,Form 4,Health Care,619445821.05,Company
+MSB FINANCIAL CORP,MSBF,Form 4,Finance,98996921.98,Company
+BIMINI MORTGAGE MANAGEMENT INC,BMM,Form 4,unknown,,Company
+CHEESECAKE FACTORY INCORPORATED,CAKE,Form 4,Consumer Services,2088808151.97,Company
+"American Water Works Company, Inc.",AWK,Form 4,Public Utilities,18998810871.67,Company
+CARTERS INC,CRI,Form 4,unknown,,Company
+GENERAL MILLS INC,GIS,Form 4,unknown,,Company
+COMPUTER PROGRAMS & SYSTEMS INC,CPSI,Form 4,Technology,426946326.59,Company
+BAR HARBOR BANKSHARES,BHB,Form 4,Finance,395836500.0,Company
+LITTELFUSE INC /DE,LFUS,Form 4,Consumer Durables,4708533324.3,Company
+KIDS BOOK WRITER INC.,KBKW,Form 4,unknown,,Company
+NOVASTAR RESOURCES LTD.,NVAS,Form 4,unknown,,Company
+"Morningstar, Inc.",MORN,Form 4,Finance,5101557104.16,Company
+"Sucampo Pharmaceuticals, Inc.",SCMP,Form 4,unknown,,Company
+"Installed Building Products, Inc.",IBP,Form 4,Basic Industries,1321372537.87,Company
+COTY INC.,COTY,Form 4,unknown,,Company
+PETROLEUM DEVELOPMENT CORP,PETD,Form 4,unknown,,Company
+LIVEPERSON INC,LPSN,Form 4,Technology,1827948108.75,Company
+CONCIERGE TECHNOLOGIES INC,CNCG,Form 4,unknown,,Company
+REPLIGEN CORP,RGEN,Form 4,Health Care,2622552048.48,Company
+BROOKLINE BANCORP INC,BRKL,Form 4,Finance,1202878985.88,Company
+ENZON PHARMACEUTICALS  INC,ENZN,Form 4,unknown,,Company
+"Manitowoc Foodservice, Inc.",MFS,Form 4,unknown,,Company
+SOVRAN SELF STORAGE INC,SSS,Form 4,unknown,,Company
+"Oncobiologics, Inc.",ONS,Form 4,unknown,,Company
+WIRELESS FACILITIES INC,WFII,Form 4,unknown,,Company
+PHH CORP,PHH,Form 4,unknown,,Company
+IMMERSION CORP,IMMR,Form 4,Technology,258561296.6,Company
+BEAZER HOMES USA INC,BZH,Form 4,Capital Goods,385965213.87,Company
+TRC COMPANIES INC /DE/,TRR,Form 4,unknown,,Company
+CASUAL MALE RETAIL GROUP INC,CMRG,Form 4,unknown,,Company
+CAPITAL ONE FINANCIAL CORP,COF,Form 4,Finance,39180327557.02,Company
+"Calumet Specialty Products Partners, L.P.",CLMT,Form 4,Energy,309878004.0,Company
+Community Bankers Acquisition Corp.,* BTC.U,Form 4,unknown,,Company
+FTI CONSULTING INC,FCN,Form 4,Consumer Services,2794720877.96,Company
+Multi Packaging Solutions International Ltd,MPSX,Form 4,unknown,,Company
+ELECTRO OPTICAL SCIENCES INC /NY,MELA,Form 4,unknown,,Company
+MONRO MUFFLER BRAKE INC,MNRO,Form 4,Consumer Services,2567504978.08,Company
+STANDARD MOTOR PRODUCTS INC,SMP,Form 4,Capital Goods,1085616439.53,Company
+"Corindus Vascular Robotics, Inc.",CVRS,Form 4,Health Care,315425298.24,Company
+COMERICA INC /NEW/,CMA,Form 4,Finance,13108002374.16,Company
+Palo Alto Networks Inc,PANW,Form 4,Technology,22753674340.75,Company
+AMEREN CORP,AEE,Form 4,Public Utilities,17843959834.26,Company
+DICKS SPORTING GOODS INC,DKS,Form 4,Consumer Services,3520227063.86,Company
+FATE THERAPEUTICS INC,FATE,Form 4,Health Care,1158291927.54,Company
+OSHKOSH TRUCK CORP,OSK,Form 4,Capital Goods,5355768694.04,Company
+CBRL GROUP INC,CBRL,Form 4,Consumer Services,3726653383.74,Company
+"Patriot National, Inc.",PN,Form 4,unknown,,Company
+AUTOBYTEL  INC,ABTL,Form 4,unknown,,Company
+Vulcan Materials CO,VMC,Form 4,Basic Industries,14484257467.16,Company
+Francesca's Holdings CORP,FRAN,Form 4,Consumer Services,27419629.732,Company
+PERRIGO Co plc,PRGO,Form 4,Health Care,6490656506.13,Company
+"CASTLIGHT HEALTH, INC.",CSLT,Form 4,Technology,568355832.0,Company
+NORTHWESTERN CORP,NTHWQ,Form 4,unknown,,Company
+EXCO RESOURCES INC,EXCO,Form 4,unknown,,Company
+FAUQUIER BANKSHARES INC,FBSS,Form 4,Finance,81326165.8,Company
+DTF TAX-FREE INCOME INC,DTF,Form 4,unknown,,Company
+Neutral Tandem Inc,TNDM,Form 4,Health Care,4122192277.56,Company
+DSW Inc.,DSW,Form 4,Consumer Services,2103545433.22,Company
+ARROW ELECTRONICS INC,ARW,Form 4,unknown,,Company
+Physicians Realty Trust,DOC,Form 4,Consumer Services,3334596981.84,Company
+TOMPKINS TRUSTCO INC,TMP,Form 4,Finance,1217791141.51,Company
+INVESCO HIGH INCOME 2023 TARGET TERM FUND,IHIT,Form 4,unknown,,Company
+APPFOLIO INC,APPF,Form 4,Technology,2473051269.08,Company
+NEW GERMANY FUND INC,GF,Form 4,unknown,,Company
+CENTRAL EUROPE & RUSSIA FUND INC,CEE,Form 4,unknown,,Company
+Eaton Corp plc,ETN,Form 4,Technology,34137924000.0,Company
+BANK OF THE JAMES FINANCIAL GROUP INC,BOJF,Form 4,unknown,,Company
+ON TRACK INNOVATIONS LTD,OTIV,Form 4,Technology,24817920.577,Company
+"Image International Group, Inc.",IMGL,Form 4,unknown,,Company
+CORCEPT THERAPEUTICS INC,CORT,Form 4,Health Care,1440924409.36,Company
+S&W Seed Co,SANW,Form 4,unknown,,Company
+OCI Partners LP,OCIP,Form 4,unknown,,Company
+LIGAND PHARMACEUTICALS INC,LGND,Form 4,Health Care,2378005288.17,Company
+CASELLA WASTE SYSTEMS INC,CWST,Form 4,Public Utilities,1588398051.52,Company
+TAMANDARE EXPLORATIONS INC.,TAEI,Form 4,unknown,,Company
+GeoPark Ltd,GPRK,Form 4,Energy,1160390000.0,Company
+WEST BANCORPORATION INC,WTBA,Form 4,Finance,353612219.8,Company
+"Tree.com, Inc.",TREE,Form 4,Finance,4244974233.5,Company
+KITE REALTY GROUP TRUST,KRG,Form 4,Consumer Services,1313510813.27,Company
+YAHOO INC,YHOO,Form 4,unknown,,Company
+SCHOOL SPECIALTY INC,SCHS,Form 4,unknown,,Company
+"Bacterin International Holdings, Inc.",BONE,Form 4,unknown,,Company
+"Tallgrass Energy GP, LP",TEGP,Form 4,unknown,,Company
+PLEXUS CORP,PLXS,Form 4,Technology,1889156312.19,Company
+KONA GRILL INC,KONA,Form 4,Consumer Services,12863837.4021,Company
+BEACON ROOFING SUPPLY INC,BECN,Form 4,Consumer Services,2303635231.26,Company
+NATURAL ALTERNATIVES INTERNATIONAL INC,NAII,Form 4,Consumer Durables,86666964.48,Company
+"EQT GP Holdings, LP",EQGP,Form 4,unknown,,Company
+WEIGHT WATCHERS INTERNATIONAL INC,WTW,Form 4,Consumer Services,1356612071.72,Company
+MANTECH INTERNATIONAL CORP,MANT,Form 4,Consumer Services,2124960736.47,Company
+GLEN BURNIE BANCORP,GLBZ,Form 4,Finance,32419088.64,Company
+PHASE III MEDICAL INC/DE,PHSM,Form 4,unknown,,Company
+Liberty Media Corp,LCAPA,Form 4,unknown,,Company
+HOME DEPOT INC,HD,Form 4,Consumer Services,204602657359.56,Company
+CALIFORNIA AMPLIFIER INC,CAMP,Form 4,Technology,447766515.42,Company
+"James River Group Holdings, Ltd.",JRVR,Form 4,Finance,1198191668.25,Company
+Performance Food Group Co,PFGC,Form 4,unknown,,Company
+GAP INC,GPS,Form 4,Consumer Services,9828000000.0,Company
+BRIDGE BANCORP INC,BDGE,Form 4,Finance,627215895.46,Company
+Highland Credit Strategies Fund,HCF,Form 4,unknown,,Company
+"Desert Gateway, Inc.",RTRX,Form 4,Health Care,952495205.0,Company
+BUFFALO WILD WINGS INC,BWLD,Form 4,unknown,,Company
+ADESTO TECHNOLOGIES Corp,IOTS,Form 4,Technology,194265337.2,Company
+"BIOHITECH GLOBAL, INC.",BHTG,Form 4,Consumer Services,42336454.16,Company
+"Calamos Asset Management, Inc. /DE/",CLMS,Form 4,unknown,,Company
+"Paramount Group, Inc.",PGRE,Form 4,Consumer Services,3374611514.27,Company
+MINE SAFETY APPLIANCES CO,MSA,Form 4,Health Care,3945044208.15,Company
+DOW CHEMICAL CO /DE/,DOW,Form 4,unknown,,Company
+BARNES GROUP INC,B,Form 4,Capital Goods,2871763547.52,Company
+"Wellesley Bancorp, Inc.",WEBK,Form 4,Finance,82082357.5,Company
+"Carbylan Therapeutics, Inc.",CBYL,Form 4,unknown,,Company
+"Advanced Cannabis Solutions, Inc.",CANN,Form 4,unknown,,Company
+Veritiv Corp,VRTV,Form 4,Consumer Services,421387524.0,Company
+MUNIENHANCED FUND INC,MEN,Form 4,unknown,,Company
+Philip Morris International Inc.,PM,Form 4,unknown,,Company
+"Ben Franklin Financial, Inc.",BFFI,Form 4,unknown,,Company
+SILGAN HOLDINGS INC,SLGN,Form 4,Consumer Durables,3173746589.04,Company
+REGAL ENTERTAINMENT GROUP,RGC,Form 4,unknown,,Company
+IDEX CORP /DE/,IEX,Form 4,Capital Goods,11173376639.88,Company
+GENESEE & WYOMING INC,GWR,Form 4,Transportation,4873333979.15,Company
+SCHNITZER STEEL INDUSTRIES INC,SCHN,Form 4,Consumer Durables,642142915.92,Company
+CABOT CORP,CBT,Form 4,Basic Industries,2629598371.44,Company
+SIMULATIONS PLUS INC,SIMU.OB,Form 4,unknown,,Company
+SOUTHWEST GAS CORP,SWX,Form 4,Public Utilities,4433802220.21,Company
+MAINSOURCE FINANCIAL GROUP,MSFG,Form 4,unknown,,Company
+ACACIA RESEARCH CORP,ACTG/CBMX,Form 4,unknown,,Company
+"EndoChoice Holdings, Inc.",GI,Form 4,unknown,,Company
+MSC INDUSTRIAL DIRECT CO INC,MSM,Form 4,Capital Goods,4597121379.24,Company
+LTX CORP,LTXX,Form 4,unknown,,Company
+Verso Paper Corp.,VRS,Form 4,Basic Industries,674508859.08,Company
+SINCLAIR BROADCAST GROUP INC,SBGI,Form 4,Consumer Services,3532325961.15,Company
+APTARGROUP INC,ATR,Form 4,unknown,,Company
+Visa Inc.,V,Form 4,Miscellaneous,345288983833.2,Company
+ACCO BRANDS CORP,ABD,Form 4,unknown,,Company
+"Vantiv, Inc.",VNTV,Form 4,unknown,,Company
+RPX Corp,RPXC,Form 4,unknown,,Company
+EASTERN VIRGINIA BANKSHARES INC,EVBS,Form 4,unknown,,Company
+NATUREWELL INC,NAWL,Form 4,unknown,,Company
+Atlantic Coast Financial CORP,ACFC,Form 4,unknown,,Company
+Lumentum Holdings Inc.,LITE,Form 4,Consumer Durables,3919150000.0,Company
+Community Healthcare Trust Inc,CHCT,Form 4,Consumer Services,632708689.6,Company
+Ocean Shore Holding Co.,OSHC,Form 4,unknown,,Company
+"Otonomy, Inc.",OTIC,Form 4,Health Care,83771174.76,Company
+ULTIMATE SOFTWARE GROUP INC,ULTI,Form 4,Technology,10512116332.14,Company
+THERAVANCE INC,THRX,Form 4,unknown,,Company
+CRAY INC,CRAY,Form 4,Technology,1021845823.11,Company
+Pershing Gold Corp.,PGLC,Form 4,Basic Industries,40075535.99,Company
+Franklin Financial Network Inc.,FSB,Form 4,Finance,446464590.35,Company
+QUAKER CHEMICAL CORP,KWR,Form 4,Basic Industries,2651515078.8,Company
+BAXTER INTERNATIONAL INC,BAX,Form 4,Health Care,39147667868.76,Company
+ANGIODYNAMICS INC,ANGO,Form 4,Health Care,804391816.98,Company
+SEAGATE TECHNOLOGY,STX,Form 4,Technology,13314542208.32,Company
+Adient Ltd,ADNT,Form 4,Capital Goods,1345930502.11,Company
+STEIN MART INC,SMRT,Form 4,Consumer Services,57894189.98,Company
+GOLDMAN SACHS GROUP INC/,GS,Form 4,Finance,72641703482.25,Company
+MARWICH II LTD,MWII,Form 4,unknown,,Company
+Sunshine Financial Inc,SSNF,Form 4,unknown,,Company
+"Gaming & Leisure Properties, Inc.",GLPI,Form 4,Consumer Services,7928747445.96,Company
+FUSION TELECOMMUNICATIONS INTERNATIONAL INC,FSN,Form 4,unknown,,Company
+DOUBLE EAGLE PETROLEUM CO,DBLE,Form 4,unknown,,Company
+PACIFIC HEALTH CARE ORGANIZATION INC,PHCO,Form 4,unknown,,Company
+GLOBAL INCOME FUND INC,GIF,Form 4,unknown,,Company
+KIMBERLY CLARK CORP,KMB,Form 4,Consumer Durables,40766638485.54,Company
+ADCARE HEALTH SYSTEMS INC,ADK,Form 4,unknown,,Company
+MOOG INC,MOGA/MOGB,Form 4,unknown,,Company
+STEEL DYNAMICS INC,STLD,Form 4,Basic Industries,8179841479.0,Company
+EMERSON ELECTRIC CO,EMR,Form 4,Energy,41744980823.28,Company
+"Laredo Petroleum Holdings, Inc.",LPI,Form 4,Energy,720487342.96,Company
+SPORTAN UNITED INDUSTRIES INC,SPTA.OB,Form 4,unknown,,Company
+"Atlas Energy Group, LLC",ATLS,Form 4,unknown,,Company
+"QUINSTREET, INC",QNST,Form 4,Miscellaneous,653969336.93,Company
+ACCURIDE CORP,ACW,Form 4,unknown,,Company
+Invitae Corp,NVTA,Form 4,Health Care,1790477510.22,Company
+ALPINE GLOBAL PREMIER PROPERTIES FUND,AWP,Form 4,unknown,,Company
+Boulevard Acquisition Corp.,BLVD,Form 4,unknown,,Company
+TREMISIS ENERGY ACQUISITION CORP,TEGY,Form 4,unknown,,Company
+"TeleNav, Inc.",TNAV,Form 4,Capital Goods,277342783.83,Company
+HCA INC/TN,(HCA),Form 4,unknown,,Company
+FAMOUS DAVES OF AMERICA INC,DAVE,Form 4,Consumer Services,55690467.65,Company
+OFFSHORE LOGISTICS INC,OLG,Form 4,unknown,,Company
+"BeiGene, Ltd.",BGNE,Form 4,Health Care,5159117284.88,Company
+MASTERCARD INC,MA,Form 4,Miscellaneous,253380016850.0,Company
+FEDERATED INVESTORS INC /PA/,FII,Form 4,Finance,2993806005.3,Company
+NAVIENT CORP,NAVI,Form 4,Finance,2885186387.8,Company
+CIT GROUP INC,CIT,Form 4,Finance,5051538589.12,Company
+J C PENNEY CO INC,JCP,Form 4,Consumer Services,583487811.45,Company
+WASHINGTON TRUST BANCORP INC,WASH,Form 4,Finance,873926393.97,Company
+"Diamondback Energy, Inc.",FANG,Form 4,Energy,17000337005.24,Company
+EAGLE FINANCIAL SERVICES INC,EFSI,Form 4,unknown,,Company
+MARTIN MIDSTREAM PARTNERS LP,MMLP,Form 4,Energy,495924598.7,Company
+UNION BANKSHARES INC,UNB,Form 4,Finance,205969660.12,Company
+INTEST CORP,INTT,Form 4,Capital Goods,74793400.54,Company
+CIRCOR INTERNATIONAL INC,CIR,Form 4,Capital Goods,575863411.0,Company
+TABLE TRAC INC,TBTC.OB,Form 4,unknown,,Company
+Resource Capital Corp.,RSO,Form 4,unknown,,Company
+LEMAITRE VASCULAR INC,LMAT,Form 4,Health Care,600386419.5,Company
+BIO KEY INTERNATIONAL INC,BKYI,Form 4,Technology,15096097.44,Company
+Citizens Community Bancorp Inc.,CZWI,Form 4,Finance,131880284.48,Company
+PITNEY BOWES INC /DE/,PBI,Form 4,Miscellaneous,1313939155.36,Company
+FIRST CAPITAL INC,(FCAP),Form 4,unknown,,Company
+Capitol Acquisition Corp. II,CLAC,Form 4,unknown,,Company
+Salomon Brothers Variable Rate Strategic Fund Inc.,GFY,Form 4,unknown,,Company
+POPULAR INC,BPOP,Form 4,Finance,5478021966.76,Company
+GLU MOBILE INC,GLUU,Form 4,Technology,1337437386.24,Company
+"INNOVUS PHARMACEUTICALS, INC.",INNV,Form 4,unknown,,Company
+Garrison Capital Inc.,GARS,Form 4,unknown,,Company
+MITEK SYSTEMS INC,MITK,Form 4,Technology,439251395.94,Company
+JUNIPER NETWORKS INC,JNPR,Form 4,Technology,9206028291.6,Company
+"APPLIED OPTOELECTRONICS, INC.",AAOI,Form 4,Technology,279947191.04,Company
+WESTCOAST HOSPITALITY CORP,WEH,Form 4,unknown,,Company
+Pacific Asia Petroleum Inc,PFAP.PK,Form 4,unknown,,Company
+TUESDAY MORNING CORP/DE,TUES,Form 4,Consumer Services,110451152.96,Company
+OHIO VALLEY BANC CORP,OVBC,Form 4,Finance,169182234.94,Company
+MARINE PRODUCTS CORP,MPX,Form 4,Capital Goods,467786724.48,Company
+AMP Holding Inc.,AMPD,Form 4,unknown,,Company
+AMERCO /NV/,UHAEQ,Form 4,unknown,,Company
+"FIRST BUSINESS FINANCIAL SERVICES, INC.",FBIZ,Form 4,Finance,187801981.32,Company
+Douglas Emmett Inc,DEI,Form 4,Consumer Services,6996157984.2,Company
+"Bats Global Markets, Inc.",BATS,Form 4,unknown,,Company
+NATIONAL INSTRUMENTS CORP /DE/,NATI,Form 4,Technology,5982604645.68,Company
+"K2M GROUP HOLDINGS, INC.",KTWO,Form 4,unknown,,Company
+"Wolverine Bancorp, Inc.",WBKC,Form 4,unknown,,Company
+PARAMETRIC TECHNOLOGY CORP,PMTC,Form 4,unknown,,Company
+"Spectra Energy Partners, LP",SEP,Form 4,unknown,,Company
+REGIONS FINANCIAL CORP,RF,Form 4,Finance,16090394555.46,Company
+INVACARE CORP,IVC,Form 4,Health Care,328882376.48,Company
+"Upland Software, Inc.",UPLD,Form 4,Technology,865734940.0,Company
+"Medbox, Inc.",MDBX,Form 4,unknown,,Company
+"Pathfinder Bancorp, Inc.",PBHC,Form 4,Finance,61552448.08,Company
+EXPEDITORS INTERNATIONAL OF WASHINGTON INC,EXPD,Form 4,Transportation,13196238923.46,Company
+CONTROL4 CORP,CTRL,Form 4,Capital Goods,453765447.02,Company
+ELECTRIC FUEL CORP,ARTX,Form 4,Miscellaneous,80650903.8,Company
+"Enphase Energy, Inc.",ENPH,Form 4,Technology,995231081.52,Company
+FIRST AMERICAN CORP,(FAF),Form 4,unknown,,Company
+"RUBICON PROJECT, INC.",RUBI,Form 4,Technology,355931736.32,Company
+"Aqua Metals, Inc.",AQMS,Form 4,Basic Industries,169010422.71,Company
+"Oaktree Capital Group, LLC",OAK,Form 4,Finance,7725280587.8,Company
+HARMONIC INC,HLIT,Form 4,Technology,501921442.0,Company
+MOHAWK INDUSTRIES INC,MHK,Form 4,Consumer Durables,9617216301.0,Company
+WHX CORP,WHX,Form 4,unknown,,Company
+"Pole Perfect Studios, Inc.",PPFT,Form 4,unknown,,Company
+Vringo Inc,VRNGU,Form 4,unknown,,Company
+SUPREME INDUSTRIES INC,STS,Form 4,unknown,,Company
+APPLIED MICRO CIRCUITS CORP,AMCC,Form 4,unknown,,Company
+"MODEL N, INC.",MODN,Form 4,Technology,531176238.88,Company
+"Crimson Wine Group, Ltd",CWGL,Form 4,unknown,,Company
+"Pacira Pharmaceuticals, Inc.",PCRX,Form 4,Health Care,1596828837.18,Company
+UNUMPROVIDENT CORP,UNM,Form 4,Finance,7758719416.5,Company
+HUBBELL INC,"HUBA, HUBB",Form 4,unknown,,Company
+QUEST DIAGNOSTICS INC,DGX,Form 4,Health Care,11856656732.08,Company
+DEMAND MEDIA INC.,DMD,Form 4,unknown,,Company
+WESBANCO INC,WSBC,Form 4,Finance,2223802362.82,Company
+MOTORCAR PARTS & ACCESSORIES INC,MPAA,Form 4,Capital Goods,383705680.8,Company
+PHILLIPS 66 PARTNERS LP,PSXP,Form 4,Energy,6380189467.55,Company
+"Paycom Software, Inc.",PAYC,Form 4,Technology,10608273096.93,Company
+"Acacia Communications, Inc.",ACIA,Form 4,Technology,2161060229.68,Company
+APPLIED GENETIC TECHNOLOGIES CORP,AGTC,Form 4,Health Care,73386818.16,Company
+"Pandora Media, Inc.",P,Form 4,unknown,,Company
+Genpact LTD,G,Form 4,Consumer Services,6405533833.23,Company
+MONSANTO CO /NEW/,MON,Form 4,unknown,,Company
+AMAZON COM INC,AMZN,Form 4,Consumer Services,830530758440.9,Company
+"Professional Diversity Network, Inc.",IPDN,Form 4,Technology,10928133.0,Company
+WILLIAMS COMPANIES INC,WMB,Form 4,Public Utilities,33544180985.1,Company
+SANDY SPRING BANCORP INC,SASR,Form 4,Finance,1197495923.19,Company
+CAPSTONE TURBINE CORP,CPST,Form 4,Energy,60854279.5,Company
+Ottawa Bancorp Inc,OTTW,Form 4,Finance,45948684.96,Company
+DOVER CORP,DOV,Form 4,Technology,13247572668.0,Company
+IEH CORPORATION,IEHC.OB,Form 4,unknown,,Company
+Triton International Ltd,TRTN,Form 4,Technology,2525301415.26,Company
+CPI Card Group Inc.,PMTS,Form 4,Finance,41293986.9,Company
+Equitable Financial Corp.,EQFN,Form 4,unknown,,Company
+SILICON LABORATORIES INC,SLAB,Form 4,Technology,3468201688.1,Company
+"Hamilton Bancorp, Inc.",HBK,Form 4,Finance,49925424.3476,Company
+SOTHEBYS HOLDINGS INC,BID,Form 4,Miscellaneous,1848496823.0,Company
+MUTUALFIRST FINANCIAL INC,MFSF,Form 4,Finance,261115071.7,Company
+"Kush Bottles, Inc.",KSHB,Form 4,unknown,,Company
+"Dermira, Inc.",DERM,Form 4,Health Care,321270787.53,Company
+"Gastar Exploration USA, Inc.",GST.PR.A,Form 4,unknown,,Company
+RUDOLPH TECHNOLOGIES INC,RTEC,Form 4,Capital Goods,679962360.0,Company
+SALON MEDIA GROUP INC,SALN.OB,Form 4,unknown,,Company
+IMPAC MORTGAGE HOLDINGS INC,IMH,Form 4,Consumer Services,86790894.66,Company
+HARLEY DAVIDSON INC,HDI,Form 4,unknown,,Company
+Fortive Corp,FTV,Form 4,Capital Goods,27834626127.3,Company
+RIMAGE CORP,RIMG,Form 4,unknown,,Company
+SOLARCITY CORP,SCTY,Form 4,unknown,,Company
+"Evolent Health, Inc.",EVH,Form 4,Consumer Services,1078313827.58,Company
+ECHELON CORP,ELON,Form 4,unknown,,Company
+ITT INDUSTRIES INC,ITT,Form 4,Capital Goods,5049972000.0,Company
+AMERISAFE INC,AMSF,Form 4,Finance,1164099491.8,Company
+MASTEC INC,MTZ,Form 4,Basic Industries,3627285383.8,Company
+PINNACLE FINANCIAL PARTNERS INC,PNFP,Form 4,Finance,4499942770.0,Company
+VIVUS INC,VVUS,Form 4,Health Care,50526529.0,Company
+AGIOS PHARMACEUTICALS INC,AGIO,Form 4,Health Care,3849426020.48,Company
+MARSH & MCLENNAN COMPANIES INC,MMC,Form 4,Finance,46333646735.4,Company
+BOSTON PRIVATE FINANCIAL HOLDINGS INC,BPFH,Form 4,Finance,969186874.24,Company
+ASA BERMUDA LTD,ASA,Form 4,unknown,,Company
+"Bonanza Creek Energy, Inc.",BCEI,Form 4,Energy,446327010.61,Company
